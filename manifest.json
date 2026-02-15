@@ -1,0 +1,52 @@
+{
+  "manifest_version": 3,
+  "name": "Traced",
+  "version": "0.1.0",
+  "description": "Not a new word. Just a familiar one, revisited. You've met this word before — Traced helps you remember where.",
+  "permissions": ["storage", "activeTab", "sidePanel"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "src/background/index.ts",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["src/content/index.tsx"],
+      "css": []
+    }
+  ],
+  "action": {
+    "default_popup": "src/popup/index.html",
+    "default_icon": {
+      "16": "icons/icon-128.png",
+      "48": "icons/icon-128.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "options_page": "src/options/index.html",
+  "side_panel": {
+    "default_path": "src/sidepanel/index.html"
+  },
+  "icons": {
+    "16": "icons/icon-128.png",
+    "48": "icons/icon-128.png",
+    "128": "icons/icon-128.png"
+  },
+  "commands": {
+    "toggle-word-translation": {
+      "suggested_key": {
+        "default": "Alt+W",
+        "mac": "Option+W"
+      },
+      "description": "Toggle word translation"
+    },
+    "toggle-paragraph-translation": {
+      "suggested_key": {
+        "default": "Alt+Q",
+        "mac": "Option+Q"
+      },
+      "description": "Toggle paragraph translation"
+    }
+  }
+}

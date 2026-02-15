@@ -1,0 +1,32 @@
+# AI 工具配置
+.ace-tool/
+.claude/
+
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+
+# 临时文件
+tmp_*/
+*.tmp
+nul
+
+# 开发工具
+scripts/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 环境变量
+.env
+.env.local

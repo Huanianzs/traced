@@ -1,0 +1,3176 @@
+﻿[
+    {
+        "lemma":  "a",
+        "surface":  "a",
+        "meaning":  "n. 字母A；第一流的；学业成绩达最高标准的评价符号\nabbr. 安（ampere）",
+        "rank":  1
+    },
+    {
+        "lemma":  "an",
+        "surface":  "an",
+        "meaning":  "art. 一（在元音音素前）",
+        "rank":  2
+    },
+    {
+        "lemma":  "about",
+        "surface":  "about",
+        "meaning":  "prep. 关于；大约\nn. 大致；粗枝大叶；不拘小节的人\nadj. 在附近的；四处走动的；在起作用的\nadv. 大约；周围；到处",
+        "rank":  3
+    },
+    {
+        "lemma":  "after",
+        "surface":  "after",
+        "meaning":  "conj. 在……之后\nprep. 在……之后\nadj. 以后的\nadv. 后来，以后",
+        "rank":  4
+    },
+    {
+        "lemma":  "afternoon",
+        "surface":  "afternoon",
+        "meaning":  "n. 午后，下午",
+        "rank":  5
+    },
+    {
+        "lemma":  "again",
+        "surface":  "again",
+        "meaning":  "adv. 又，此外；再一次；再说；增加\nn. （英、保）阿盖恩",
+        "rank":  6
+    },
+    {
+        "lemma":  "age",
+        "surface":  "age",
+        "meaning":  "n. 年龄；时代；寿命，使用年限；阶段\nvt. 使成熟；使变老，使上年纪\nvi. 成熟；变老",
+        "rank":  7
+    },
+    {
+        "lemma":  "ago",
+        "surface":  "ago",
+        "meaning":  "adj. 以前的；过去的\nadv. 以前，以往",
+        "rank":  8
+    },
+    {
+        "lemma":  "air",
+        "surface":  "air",
+        "meaning":  "n. 空气，大气；天空；样子；曲调\nvt. 使通风，晾干；夸耀\nvi. 通风",
+        "rank":  9
+    },
+    {
+        "lemma":  "all",
+        "surface":  "all",
+        "meaning":  "n. 全部\nadj. 全部的\nadv. 全然地；越发\npron. 全部",
+        "rank":  10
+    },
+    {
+        "lemma":  "also",
+        "surface":  "also",
+        "meaning":  "conj. 并且；另外\nadv. 也；而且；同样",
+        "rank":  11
+    },
+    {
+        "lemma":  "always",
+        "surface":  "always",
+        "meaning":  "adv. 永远，一直；总是；常常",
+        "rank":  12
+    },
+    {
+        "lemma":  "and",
+        "surface":  "and",
+        "meaning":  "conj. 和，与；就；而且；但是；然后",
+        "rank":  13
+    },
+    {
+        "lemma":  "angry",
+        "surface":  "angry",
+        "meaning":  "adj. 生气的；愤怒的；狂暴的；（伤口等）发炎的",
+        "rank":  14
+    },
+    {
+        "lemma":  "animal",
+        "surface":  "animal",
+        "meaning":  "n. 动物\n动物的",
+        "rank":  15
+    },
+    {
+        "lemma":  "answer",
+        "surface":  "answer",
+        "meaning":  "n. 回答；答案；答辩\nvt. 回答；符合\nvi. 回答；符合",
+        "rank":  16
+    },
+    {
+        "lemma":  "any",
+        "surface":  "any",
+        "meaning":  "adj. 任何的；所有的；丝毫\npron. 任何；任何一个；若干\nadv. 稍微；少许",
+        "rank":  17
+    },
+    {
+        "lemma":  "apple",
+        "surface":  "apple",
+        "meaning":  "n. 苹果，苹果树，苹果似的东西；炸弹，手榴弹，（棒球的）球；人，家伙。",
+        "rank":  18
+    },
+    {
+        "lemma":  "arm",
+        "surface":  "arm",
+        "meaning":  "n. 手臂；武器；袖子；装备；部门\nvt. 武装；备战\nvi. 武装起来",
+        "rank":  19
+    },
+    {
+        "lemma":  "art",
+        "surface":  "art",
+        "meaning":  "n. 艺术；美术；艺术品\nv. 是（be的变体）\nadj. 艺术的；艺术品的",
+        "rank":  20
+    },
+    {
+        "lemma":  "ask",
+        "surface":  "ask",
+        "meaning":  "vt. 问，询问；要求；需要；邀请；讨价\nvi. 问，询问；要求",
+        "rank":  21
+    },
+    {
+        "lemma":  "astronaut",
+        "surface":  "astronaut",
+        "meaning":  "n. 宇航员，航天员；太空旅行者",
+        "rank":  22
+    },
+    {
+        "lemma":  "at",
+        "surface":  "at",
+        "meaning":  "prep. 在（表示存在或出现的地点、场所、位置、空间）；以（某种价格、速度等）；向；达；因为；朝；忙于\nn. 阿特（老挝货币基本单位att）；砹（极不稳定放射性元素）\nabbr. 密封的（airtight）；气温（air temperature）",
+        "rank":  23
+    },
+    {
+        "lemma":  "aunt",
+        "surface":  "aunt",
+        "meaning":  "n. 阿姨；姑妈；伯母；舅妈",
+        "rank":  24
+    },
+    {
+        "lemma":  "autumn",
+        "surface":  "autumn",
+        "meaning":  "n. 秋天；成熟期；渐衰期，凋落期\nadj. 秋天的，秋季的",
+        "rank":  25
+    },
+    {
+        "lemma":  "baby",
+        "surface":  "baby",
+        "meaning":  "n. 婴儿，婴孩；孩子气的人\nadj. 婴儿的；幼小的\nvt. 纵容，娇纵；把……当婴儿般对待",
+        "rank":  26
+    },
+    {
+        "lemma":  "back",
+        "surface":  "back",
+        "meaning":  "n. 后面；背部；靠背；足球等的后卫；书报等的末尾\nadj. 后面的；过去的；拖欠的\nvt. 支持；后退；背书；下赌注\nadv. 以前；向后地；来回地；上溯；回来；回原处\nvi. 后退；背靠；倒退",
+        "rank":  27
+    },
+    {
+        "lemma":  "bad",
+        "surface":  "bad",
+        "meaning":  "n. 坏事；坏人\nadj. 坏的；严重的；劣质的\nadv. 很，非常；坏地；邪恶地",
+        "rank":  28
+    },
+    {
+        "lemma":  "bag",
+        "surface":  "bag",
+        "meaning":  "n. 袋；猎获物；（俚）一瓶啤酒\nvt. 猎获；把…装入袋中；占据，私吞；使膨大\nvi. 松垂",
+        "rank":  29
+    },
+    {
+        "lemma":  "ball",
+        "surface":  "ball",
+        "meaning":  "n. 球；舞会\nvt. 捏成球形\nvi. 成团块",
+        "rank":  30
+    },
+    {
+        "lemma":  "banana",
+        "surface":  "banana",
+        "meaning":  "n. 香蕉；喜剧演员；大鹰钩鼻",
+        "rank":  31
+    },
+    {
+        "lemma":  "basketball",
+        "surface":  "basketball",
+        "meaning":  "n. 篮球；篮球运动",
+        "rank":  32
+    },
+    {
+        "lemma":  "be",
+        "surface":  "be",
+        "meaning":  "vt. 是； 有，存在； 做，成为； 发生",
+        "rank":  33
+    },
+    {
+        "lemma":  "am",
+        "surface":  "am",
+        "meaning":  "",
+        "rank":  34
+    },
+    {
+        "lemma":  "is",
+        "surface":  "is",
+        "meaning":  "v. 是（be的三单形式）\nn. 存在",
+        "rank":  35
+    },
+    {
+        "lemma":  "are",
+        "surface":  "are",
+        "meaning":  "v. 是（be的第二人称单复数现在式）\nn. 公亩",
+        "rank":  36
+    },
+    {
+        "lemma":  "beach",
+        "surface":  "beach",
+        "meaning":  "n. 海滩；湖滨\nvt. 将…拖上岸\nvi. 搁浅；定居",
+        "rank":  37
+    },
+    {
+        "lemma":  "bear",
+        "surface":  "bear",
+        "meaning":  "n. 熊\nvt. 结果实，开花（正式）\nvt. 忍受；承受；具有；支撑",
+        "rank":  38
+    },
+    {
+        "lemma":  "beautiful",
+        "surface":  "beautiful",
+        "meaning":  "adj. 美丽的\n出色地\n出色的\n迷人的\n迷人地",
+        "rank":  39
+    },
+    {
+        "lemma":  "because",
+        "surface":  "because",
+        "meaning":  "conj. 因为",
+        "rank":  40
+    },
+    {
+        "lemma":  "bed",
+        "surface":  "bed",
+        "meaning":  "n. 床；基础；河底， 海底\nvt. 使睡觉；安置，嵌入；栽种\nvi. 上床；分层",
+        "rank":  41
+    },
+    {
+        "lemma":  "bee",
+        "surface":  "bee",
+        "meaning":  "n. 蜜蜂，蜂；勤劳的人",
+        "rank":  42
+    },
+    {
+        "lemma":  "before",
+        "surface":  "before",
+        "meaning":  "prep. 在…之前，先于\nconj. 在…以前；在…之前\nadv. 以前；在前",
+        "rank":  43
+    },
+    {
+        "lemma":  "begin",
+        "surface":  "begin",
+        "meaning":  "vi. 开始；首先\nvt. 开始",
+        "rank":  44
+    },
+    {
+        "lemma":  "behind",
+        "surface":  "behind",
+        "meaning":  "prep. 落后于；支持；晚于\nn. 屁股\nadv. 在后地；在原处",
+        "rank":  45
+    },
+    {
+        "lemma":  "beside",
+        "surface":  "beside",
+        "meaning":  "prep. 在旁边；与…相比；和…无关",
+        "rank":  46
+    },
+    {
+        "lemma":  "best",
+        "surface":  "best",
+        "meaning":  "n. 最好的人，最好的事物；最佳状态\nadj. 最好的\nvt. 打败，胜过\nadv. 最好地",
+        "rank":  47
+    },
+    {
+        "lemma":  "between",
+        "surface":  "between",
+        "meaning":  "prep. 在…之间\nadv. 在中间",
+        "rank":  48
+    },
+    {
+        "lemma":  "big",
+        "surface":  "big",
+        "meaning":  "adj. 大的；重要的；量大的\nadv. 大量地；顺利；夸大地",
+        "rank":  49
+    },
+    {
+        "lemma":  "bike",
+        "surface":  "bike",
+        "meaning":  "n. 自行车；脚踏车\nvi. 骑自行车（或摩托车）",
+        "rank":  50
+    },
+    {
+        "lemma":  "bicycle",
+        "surface":  "bicycle",
+        "meaning":  "n. 自行车\nvt. 骑自行车运送\nvi. 骑脚踏车",
+        "rank":  51
+    },
+    {
+        "lemma":  "bird",
+        "surface":  "bird",
+        "meaning":  "n. 鸟；家伙；羽毛球\nvt. 向…喝倒彩；起哄\nvi. 猎鸟；观察研究野鸟",
+        "rank":  52
+    },
+    {
+        "lemma":  "birthday",
+        "surface":  "birthday",
+        "meaning":  "n. 生日，诞辰；诞生的日子",
+        "rank":  53
+    },
+    {
+        "lemma":  "black",
+        "surface":  "black",
+        "meaning":  "n. 黑色；黑人；黑颜料\nadj. 黑色的；黑人的；邪恶的\nvt. 使变黑；把鞋油等涂在…上；把（眼眶）打成青肿\nvi. 变黑",
+        "rank":  54
+    },
+    {
+        "lemma":  "blackboard",
+        "surface":  "blackboard",
+        "meaning":  "n. 黑板",
+        "rank":  55
+    },
+    {
+        "lemma":  "blue",
+        "surface":  "blue",
+        "meaning":  "adj. 蓝色的；沮丧的，忧郁的；下流的\nn. 蓝色；（美国海、陆、空三军穿的）蓝色制服；蓝颜料；布鲁斯（歌曲）（一种伤感的美国黑人民歌\nvi. 变成蓝色，呈蓝色\nvt. 把…染成蓝色；使成蓝色；给…用上蓝剂；用上蓝剂于",
+        "rank":  56
+    },
+    {
+        "lemma":  "boat",
+        "surface":  "boat",
+        "meaning":  "n. 小船；轮船\nvi. 划船",
+        "rank":  57
+    },
+    {
+        "lemma":  "body",
+        "surface":  "body",
+        "meaning":  "n. 身体；主体；大量；团体；主要部分\nvt. 赋以形体",
+        "rank":  58
+    },
+    {
+        "lemma":  "book",
+        "surface":  "book",
+        "meaning":  "n. 书籍；卷；帐簿；名册；工作簿\nvt. 预订；登记",
+        "rank":  59
+    },
+    {
+        "lemma":  "box",
+        "surface":  "box",
+        "meaning":  "n. 箱，盒子；包厢；一拳\nvt. 拳击；装…入盒中；打耳光\nvi. 拳击",
+        "rank":  60
+    },
+    {
+        "lemma":  "boy",
+        "surface":  "boy",
+        "meaning":  "n. 男孩；男人",
+        "rank":  61
+    },
+    {
+        "lemma":  "bread",
+        "surface":  "bread",
+        "meaning":  "n. 面包；生计\nvt. 在…上洒面包屑",
+        "rank":  62
+    },
+    {
+        "lemma":  "breakfast",
+        "surface":  "breakfast",
+        "meaning":  "n. 早餐；早饭\nvt. 为…供应早餐\nvi. 吃早餐",
+        "rank":  63
+    },
+    {
+        "lemma":  "bring",
+        "surface":  "bring",
+        "meaning":  "vt. 带来；促使；引起；使某人处于某种情况或境地",
+        "rank":  64
+    },
+    {
+        "lemma":  "brother",
+        "surface":  "brother",
+        "meaning":  "n. 兄弟；同事；战友\nint. 我的老兄！",
+        "rank":  65
+    },
+    {
+        "lemma":  "brown",
+        "surface":  "brown",
+        "meaning":  "n. 褐色，棕色\nadj. 棕色的，褐色的；太阳晒黑的\nvt. 使变成褐色\nvi. 变成褐色",
+        "rank":  66
+    },
+    {
+        "lemma":  "bus",
+        "surface":  "bus",
+        "meaning":  "n. 公共汽车\n乘公共汽车",
+        "rank":  67
+    },
+    {
+        "lemma":  "busy",
+        "surface":  "busy",
+        "meaning":  "adj. 忙碌的；热闹的；正被占用的\nvt. 使忙于",
+        "rank":  68
+    },
+    {
+        "lemma":  "but",
+        "surface":  "but",
+        "meaning":  "conj. 但是；而是；然而\nadv. 仅仅，只\nprep. 除…以外",
+        "rank":  69
+    },
+    {
+        "lemma":  "buy",
+        "surface":  "buy",
+        "meaning":  "n. 购买，买卖；所购的物品\nvi. 买，采购\nvt. 购买；获得；贿赂",
+        "rank":  70
+    },
+    {
+        "lemma":  "by",
+        "surface":  "by",
+        "meaning":  "prep. 通过；被；依据；经由；在附近；在……之前\nadv. 通过；经过；附近； 白俄罗斯的国家代码顶级域名",
+        "rank":  71
+    },
+    {
+        "lemma":  "cake",
+        "surface":  "cake",
+        "meaning":  "n. 蛋糕；块状物；利益总额\nvt. 使结块\nvi. 结成块状",
+        "rank":  72
+    },
+    {
+        "lemma":  "call",
+        "surface":  "call",
+        "meaning":  "n. 电话；呼叫；要求；访问\nvi. 呼叫；拜访；叫牌\nvt. 呼叫；称呼；召集",
+        "rank":  73
+    },
+    {
+        "lemma":  "can",
+        "surface":  "can",
+        "meaning":  "aux. 能； 能够； 可以； 可能\nn. 罐头； （用金属或塑料制作的）容器； （马口铁或其他金属制作的）食品罐头\nvt. 将…装入密封罐中保存",
+        "rank":  74
+    },
+    {
+        "lemma":  "candle",
+        "surface":  "candle",
+        "meaning":  "n. 蜡烛；烛光；烛形物\nvt. 对着光检查",
+        "rank":  75
+    },
+    {
+        "lemma":  "candy",
+        "surface":  "candy",
+        "meaning":  "n. 糖果（等于sweets）；冰糖（等于sugar candy，rock candy）；毒品\nadj. 新潮的（服饰）；甜言蜜语的\nvt. 用糖煮；使结晶为砂糖；美化\nvi. 糖煮；成为结晶",
+        "rank":  76
+    },
+    {
+        "lemma":  "cap",
+        "surface":  "cap",
+        "meaning":  "n. 盖；帽子\nvt. 覆盖；胜过；给…戴帽；加盖于\nvi. 脱帽致意",
+        "rank":  77
+    },
+    {
+        "lemma":  "car",
+        "surface":  "car",
+        "meaning":  "n. 汽车；车厢",
+        "rank":  78
+    },
+    {
+        "lemma":  "card",
+        "surface":  "card",
+        "meaning":  "n. 卡片；纸牌；明信片\nvt. 记于卡片上",
+        "rank":  79
+    },
+    {
+        "lemma":  "careful",
+        "surface":  "careful",
+        "meaning":  "adj. 仔细的，小心的",
+        "rank":  80
+    },
+    {
+        "lemma":  "cat",
+        "surface":  "cat",
+        "meaning":  "n. 猫，猫科动物",
+        "rank":  81
+    },
+    {
+        "lemma":  "catch",
+        "surface":  "catch",
+        "meaning":  "n. 捕捉；捕获物；窗钩\nvt. 赶上；抓住；感染；了解\nvi. 赶上；抓住",
+        "rank":  82
+    },
+    {
+        "lemma":  "chair",
+        "surface":  "chair",
+        "meaning":  "n. 椅子；讲座；（会议的）主席位；大学教授的职位\nvt. 担任（会议的）主席；使…入座；使就任要职",
+        "rank":  83
+    },
+    {
+        "lemma":  "chicken",
+        "surface":  "chicken",
+        "meaning":  "n. 鸡肉；小鸡；胆小鬼，懦夫\nadj. 鸡肉的；胆怯的；幼小的",
+        "rank":  84
+    },
+    {
+        "lemma":  "child",
+        "surface":  "child",
+        "meaning":  "n. 儿童，小孩，孩子；产物；子孙；幼稚的人；弟子",
+        "rank":  85
+    },
+    {
+        "lemma":  "children",
+        "surface":  "children",
+        "meaning":  "n. 孩子们（child的复数）",
+        "rank":  86
+    },
+    {
+        "lemma":  "china",
+        "surface":  "China",
+        "meaning":  "n. 中国\nn. china，瓷器\nadj. 中国的；中国制造的\nadj. china，瓷制的",
+        "rank":  87
+    },
+    {
+        "lemma":  "chinese",
+        "surface":  "Chinese",
+        "meaning":  "n. 中文，汉语；中国人\nadj. 中国的，中国人的；中国话的",
+        "rank":  88
+    },
+    {
+        "lemma":  "chore",
+        "surface":  "chore",
+        "meaning":  "n. 家庭杂务；日常的零星事务；讨厌的或累人的工作",
+        "rank":  89
+    },
+    {
+        "lemma":  "cinema",
+        "surface":  "cinema",
+        "meaning":  "n. 电影；电影院；电影业，电影制作术",
+        "rank":  90
+    },
+    {
+        "lemma":  "city",
+        "surface":  "city",
+        "meaning":  "n. 城市，都市\nadj. 城市的；都会的",
+        "rank":  91
+    },
+    {
+        "lemma":  "class",
+        "surface":  "class",
+        "meaning":  "n. 阶级；班级；种类；班；等级\nadj. 极好的；很好的，优秀的，出色的\nvt. 分类；把…分等级；把…归入某等级，把…看作（或分类、归类）；把…编入某一班级\nvi. 属于…类（或等级），被列为某类（或某级）",
+        "rank":  92
+    },
+    {
+        "lemma":  "classroom",
+        "surface":  "classroom",
+        "meaning":  "n. 教室",
+        "rank":  93
+    },
+    {
+        "lemma":  "clean",
+        "surface":  "clean",
+        "meaning":  "n. 打扫\nadj. 清洁的，干净的；清白的\nvt. 使干净\nvi. 打扫，清扫\nadv. 完全地",
+        "rank":  94
+    },
+    {
+        "lemma":  "clever",
+        "surface":  "clever",
+        "meaning":  "adj. 聪明的；机灵的；熟练的",
+        "rank":  95
+    },
+    {
+        "lemma":  "clock",
+        "surface":  "clock",
+        "meaning":  "n. 时钟；计时器\nvt. 记录；记时\nvi. 打卡；记录时间",
+        "rank":  96
+    },
+    {
+        "lemma":  "close",
+        "surface":  "close",
+        "meaning":  "n. 结束\nadj. 紧密的；亲密的；亲近的\nvt. 关；结束；使靠近\nvi. 关；结束；关闭\nadv. 紧密地",
+        "rank":  97
+    },
+    {
+        "lemma":  "clothes",
+        "surface":  "clothes",
+        "meaning":  "n. 衣服",
+        "rank":  98
+    },
+    {
+        "lemma":  "cloudy",
+        "surface":  "cloudy",
+        "meaning":  "adj. 多云的；阴天的；愁容满面的",
+        "rank":  99
+    },
+    {
+        "lemma":  "coat",
+        "surface":  "coat",
+        "meaning":  "n. 外套\nvt. 覆盖…的表面",
+        "rank":  100
+    },
+    {
+        "lemma":  "cold",
+        "surface":  "cold",
+        "meaning":  "n. 寒冷；感冒\nadj. 寒冷的；冷淡的，不热情的；失去知觉的\nadv. 完全地",
+        "rank":  101
+    },
+    {
+        "lemma":  "colour",
+        "surface":  "colour",
+        "meaning":  "n. 颜色；风格；气色，面色；外貌\nvt. 把…涂颜色，粉饰；歪曲；使脸红\nvi. 变色",
+        "rank":  102
+    },
+    {
+        "lemma":  "color",
+        "surface":  "color",
+        "meaning":  "n. 颜色；肤色；颜料；脸色\nvt. 粉饰；给...涂颜色；歪曲\nvi. 变色；获得颜色",
+        "rank":  103
+    },
+    {
+        "lemma":  "come",
+        "surface":  "come",
+        "meaning":  "vi. 来；开始；出现；发生；变成；到达\nvt. 做；假装；将满（…岁）\nint. 嗨！",
+        "rank":  104
+    },
+    {
+        "lemma":  "computer",
+        "surface":  "computer",
+        "meaning":  "n. 计算机；电脑；电子计算机",
+        "rank":  105
+    },
+    {
+        "lemma":  "cook",
+        "surface":  "cook",
+        "meaning":  "n. 厨师，厨子\nvt. 烹调，煮\nvi. 烹调，做菜",
+        "rank":  106
+    },
+    {
+        "lemma":  "cool",
+        "surface":  "cool",
+        "meaning":  "n. 凉爽；凉爽的空气\nadj. 凉爽的；冷静的；出色的\nvt. 使…冷却；使…平静下来\nvi. 变凉；平息\nadv. 冷静地",
+        "rank":  107
+    },
+    {
+        "lemma":  "cousin",
+        "surface":  "cousin",
+        "meaning":  "n. 堂兄弟姊妹；表兄弟姊妹",
+        "rank":  108
+    },
+    {
+        "lemma":  "cow",
+        "surface":  "cow",
+        "meaning":  "n. 奶牛，母牛；母兽\nvt. 威胁，恐吓",
+        "rank":  109
+    },
+    {
+        "lemma":  "cry",
+        "surface":  "cry",
+        "meaning":  "n. 叫喊；叫声；口号；呼叫\nvi. 哭；叫；喊\nvt. 叫喊；哭出；大声说",
+        "rank":  110
+    },
+    {
+        "lemma":  "cup",
+        "surface":  "cup",
+        "meaning":  "n. 杯子；奖杯；酒杯\nvt. 使成杯状；为…拔火罐",
+        "rank":  111
+    },
+    {
+        "lemma":  "cut",
+        "surface":  "cut",
+        "meaning":  "n. 伤口；切口；削减；（服装等的）式样；削球；切入\nadj. 割下的；雕过的；缩减的\nvt.  切割；削减；缩短；刺痛\nvi.  切割；相交；切牌；停拍；不出席",
+        "rank":  112
+    },
+    {
+        "lemma":  "cute",
+        "surface":  "cute",
+        "meaning":  "adj. 可爱的；漂亮的；聪明的，伶俐的",
+        "rank":  113
+    },
+    {
+        "lemma":  "dance",
+        "surface":  "dance",
+        "meaning":  "n. 舞蹈；舞会；舞曲\nadj. 舞蹈的；用于跳舞的\nvt. 跳舞；使跳跃\nvi. 跳舞；跳跃；飘扬",
+        "rank":  114
+    },
+    {
+        "lemma":  "day",
+        "surface":  "day",
+        "meaning":  "n. 一天；时期；白昼\nadj. 日间的；逐日的\nadv. 每天；经常在白天地",
+        "rank":  115
+    },
+    {
+        "lemma":  "dear",
+        "surface":  "dear",
+        "meaning":  "n. 亲爱的人\nadj. 亲爱的；尊敬的；昂贵的\nadv. 高价地；疼爱地\nint. 哎呀",
+        "rank":  116
+    },
+    {
+        "lemma":  "desk",
+        "surface":  "desk",
+        "meaning":  "n. 办公桌；服务台；编辑部；（美）讲道台；乐谱架\nadj. 书桌的；桌上用的；伏案做的",
+        "rank":  117
+    },
+    {
+        "lemma":  "difficult",
+        "surface":  "difficult",
+        "meaning":  "adj. 困难的；不随和的；执拗的",
+        "rank":  118
+    },
+    {
+        "lemma":  "dinner",
+        "surface":  "dinner",
+        "meaning":  "n. 晚餐，晚宴；宴会；正餐",
+        "rank":  119
+    },
+    {
+        "lemma":  "dirty",
+        "surface":  "dirty",
+        "meaning":  "adj. 下流的，卑鄙的；肮脏的；恶劣的；暗淡的\nvt. 弄脏\nvi. 变脏",
+        "rank":  120
+    },
+    {
+        "lemma":  "do",
+        "surface":  "do",
+        "meaning":  "vi. 行，足够；生长\nn. 要求；规定；C大调音阶中的第一音\nv. 做；干；学习；研究；进行；完成；解答；整理；算出；引起；行过\naux. 助动词（构成疑问句和否定句）；（代替动词）；（用于加强语气）\nn. （口语）事件；（主英国口语）诈骗；（主英国、新西兰口语）宴会；（口语）必须做到的事情",
+        "rank":  121
+    },
+    {
+        "lemma":  "doctor",
+        "surface":  "doctor",
+        "meaning":  "vt. 修理；篡改，伪造；为…治病；授以博士学位\nn. 医生；博士\nvi. 就医；行医",
+        "rank":  122
+    },
+    {
+        "lemma":  "dog",
+        "surface":  "dog",
+        "meaning":  "n. 狗；丑女人；卑鄙的人；(俚)朋友\nvt. 跟踪；尾随",
+        "rank":  123
+    },
+    {
+        "lemma":  "doll",
+        "surface":  "doll",
+        "meaning":  "n. 洋娃娃；玩偶；无头脑的美丽女人\nvt. 把…打扮得花枝招展",
+        "rank":  124
+    },
+    {
+        "lemma":  "door",
+        "surface":  "door",
+        "meaning":  "n. 门；家，户；门口；通道",
+        "rank":  125
+    },
+    {
+        "lemma":  "down",
+        "surface":  "down",
+        "meaning":  "prep. 沿着，往下\nn. 软毛，绒毛； 开阔的高地\nadj. 向下的\nvt. 打倒，击败\nadv. 向下，下去；在下面\nvi. 下降；下去",
+        "rank":  126
+    },
+    {
+        "lemma":  "draw",
+        "surface":  "draw",
+        "meaning":  "n. 平局；抽签\nvi. 拉；拖\nvt. 画；拉；吸引",
+        "rank":  127
+    },
+    {
+        "lemma":  "dress",
+        "surface":  "dress",
+        "meaning":  "n. 连衣裙；女装\nvt. 给…穿衣\nvi. 穿衣",
+        "rank":  128
+    },
+    {
+        "lemma":  "drink",
+        "surface":  "drink",
+        "meaning":  "n. 酒，饮料；喝酒\nvt. 喝，饮；吸收；举杯庆贺\nvi. 喝酒；饮水；干杯",
+        "rank":  129
+    },
+    {
+        "lemma":  "driver",
+        "surface":  "driver",
+        "meaning":  "n. 驾驶员；驱动程序；起子；传动器",
+        "rank":  130
+    },
+    {
+        "lemma":  "duck",
+        "surface":  "duck",
+        "meaning":  "n. 鸭子；鸭肉；（英）宝贝儿；零分\nvt. 躲避；猛按…入水\nvi. 闪避；没入水中",
+        "rank":  131
+    },
+    {
+        "lemma":  "ear",
+        "surface":  "ear",
+        "meaning":  "n. 耳朵；穗；听觉；倾听\nvi. （美俚）听见；抽穗",
+        "rank":  132
+    },
+    {
+        "lemma":  "early",
+        "surface":  "early",
+        "meaning":  "adj. 早期的；早熟的\nadv. 提早；在初期",
+        "rank":  133
+    },
+    {
+        "lemma":  "earth",
+        "surface":  "earth",
+        "meaning":  "n. 地球；地表，陆地；土地，土壤；尘事，俗事；兽穴\nvt. 把（电线） 接地；盖（土）；追赶入洞穴\nvi. 躲进地洞",
+        "rank":  134
+    },
+    {
+        "lemma":  "easy",
+        "surface":  "easy",
+        "meaning":  "adj. 容易的；舒适的\nvt. 发出停划命令\nadv. 不费力地，从容地\nvi. 停止划桨",
+        "rank":  135
+    },
+    {
+        "lemma":  "eat",
+        "surface":  "eat",
+        "meaning":  "vt. 吃，喝；腐蚀；烦扰\nvi. 进食；腐蚀，侵蚀",
+        "rank":  136
+    },
+    {
+        "lemma":  "egg",
+        "surface":  "egg",
+        "meaning":  "n. 蛋；卵子；家伙；鸡蛋\nvt. 煽动；怂恿",
+        "rank":  137
+    },
+    {
+        "lemma":  "elephant",
+        "surface":  "elephant",
+        "meaning":  "n. 象；大号图画纸",
+        "rank":  138
+    },
+    {
+        "lemma":  "email",
+        "surface":  "email",
+        "meaning":  "n. 电子信函\nvt. 给…发电子邮件",
+        "rank":  139
+    },
+    {
+        "lemma":  "english",
+        "surface":  "English",
+        "meaning":  "n. 英语；英国人；英文；英格兰人\nadj. 英国人的；英国的；英文的\nvt. 把…译成英语",
+        "rank":  140
+    },
+    {
+        "lemma":  "evening",
+        "surface":  "evening",
+        "meaning":  "n. 晚上；傍晚；（联欢性的）晚会；后期\nadj. 在晚上的；为晚上的；晚上用的\nint. 晚上好（等于good evening）",
+        "rank":  141
+    },
+    {
+        "lemma":  "every",
+        "surface":  "every",
+        "meaning":  "adj. 每一的，每个的；每隔…的",
+        "rank":  142
+    },
+    {
+        "lemma":  "excited",
+        "surface":  "excited",
+        "meaning":  "v. 激动；唤起（excite的过去分词）\nadj. 兴奋的；激动的；活跃的",
+        "rank":  143
+    },
+    {
+        "lemma":  "exercise",
+        "surface":  "exercise",
+        "meaning":  "n. 运动；练习；运用；操练；礼拜；典礼\nvt. 锻炼；练习；使用；使忙碌；使惊恐\nvi. 运动；练习",
+        "rank":  144
+    },
+    {
+        "lemma":  "eye",
+        "surface":  "eye",
+        "meaning":  "n. 眼睛；视力；眼光；见解，观点\nvt. 注视，看",
+        "rank":  145
+    },
+    {
+        "lemma":  "face",
+        "surface":  "face",
+        "meaning":  "n. 脸；表面；面子；面容；外观；威信\nvi. 向；朝\nvt. 面对；面向；承认；抹盖",
+        "rank":  146
+    },
+    {
+        "lemma":  "family",
+        "surface":  "family",
+        "meaning":  "n. 家庭；亲属；家族；子女；科；语族；族\nadj. 家庭的；家族的；适合于全家的",
+        "rank":  147
+    },
+    {
+        "lemma":  "famous",
+        "surface":  "famous",
+        "meaning":  "adj. 著名的；极好的，非常令人满意的",
+        "rank":  148
+    },
+    {
+        "lemma":  "fan",
+        "surface":  "fan",
+        "meaning":  "n. 迷；风扇；爱好者\nvt. 煽动；刺激；吹拂\nvi. 成扇形散开；飘动",
+        "rank":  149
+    },
+    {
+        "lemma":  "far",
+        "surface":  "far",
+        "meaning":  "n. 远方\nadj. 远的；久远的\nadv. 很；遥远地；久远地；到很远的距离；到很深的程度",
+        "rank":  150
+    },
+    {
+        "lemma":  "farm",
+        "surface":  "farm",
+        "meaning":  "n. 农场；农家；畜牧场\nvt. 养殖；耕种；佃出（土地）\nvi. 种田，务农；经营农场",
+        "rank":  151
+    },
+    {
+        "lemma":  "farmer",
+        "surface":  "farmer",
+        "meaning":  "n. 农夫，农民",
+        "rank":  152
+    },
+    {
+        "lemma":  "fast",
+        "surface":  "fast",
+        "meaning":  "n. 斋戒；绝食\nadj. 快速的，迅速的；紧的，稳固的\nadv. 迅速地；紧紧地；彻底地\nvi. 禁食，斋戒",
+        "rank":  153
+    },
+    {
+        "lemma":  "father",
+        "surface":  "father",
+        "meaning":  "n. 父亲，爸爸；神父；祖先；前辈\nvt. 发明，创立；当…的父亲",
+        "rank":  154
+    },
+    {
+        "lemma":  "dad",
+        "surface":  "dad",
+        "meaning":  "n. 爸爸；爹爹",
+        "rank":  155
+    },
+    {
+        "lemma":  "favourite",
+        "surface":  "favourite",
+        "meaning":  "n. 特别喜爱的人（或物）\nadj. 特别受喜爱的",
+        "rank":  156
+    },
+    {
+        "lemma":  "favorite",
+        "surface":  "favorite",
+        "meaning":  "n. 幸运儿；喜欢的事物；特别喜欢的人\nadj. 最喜爱的；中意的；宠爱的",
+        "rank":  157
+    },
+    {
+        "lemma":  "feel",
+        "surface":  "feel",
+        "meaning":  "n. 感觉；触摸\nvi. 觉得；摸索\nvt. 感觉；认为；触摸；试探",
+        "rank":  158
+    },
+    {
+        "lemma":  "film",
+        "surface":  "film",
+        "meaning":  "n. 电影；薄膜；胶卷；轻烟\nvt. 在…上覆以薄膜；把…拍成电影\nvi. 摄制电影；生薄膜；变得朦胧",
+        "rank":  159
+    },
+    {
+        "lemma":  "find",
+        "surface":  "find",
+        "meaning":  "n. 发现\nvi. 裁决\nvt. 查找，找到；发现；认为；感到；获得",
+        "rank":  160
+    },
+    {
+        "lemma":  "fine",
+        "surface":  "fine",
+        "meaning":  "n. 罚款\nadj. 好的；优良的；细小的，精美的；健康的；晴朗的\nvt. 罚款；澄清\nadv. 很好地；精巧地",
+        "rank":  161
+    },
+    {
+        "lemma":  "fire",
+        "surface":  "fire",
+        "meaning":  "n. 火；火灾；炮火；炉火；热情；激情；磨难\nvt. 点燃；解雇；开除；使发光；烧制；激动；放枪\nvi. 着火；射击；开枪；激动；烧火",
+        "rank":  162
+    },
+    {
+        "lemma":  "fish",
+        "surface":  "fish",
+        "meaning":  "n. 鱼，鱼类\nvt. 钓鱼，捕鱼；搜寻\nvi. 捕鱼，钓鱼；用钩捞取",
+        "rank":  163
+    },
+    {
+        "lemma":  "floor",
+        "surface":  "floor",
+        "meaning":  "n. 地板，地面；楼层；基底；议员席\nvt. 铺地板；打倒，击倒；（被困难）难倒",
+        "rank":  164
+    },
+    {
+        "lemma":  "flower",
+        "surface":  "flower",
+        "meaning":  "n. 花；精华；开花植物\nvt. 使开花；用花装饰\nvi. 成熟，发育；开花；繁荣；旺盛",
+        "rank":  165
+    },
+    {
+        "lemma":  "fly",
+        "surface":  "fly",
+        "meaning":  "n. 飞行；苍蝇；两翼昆虫\nadj. 敏捷的\nvi. 飞；驾驶飞机；飘扬\nvt. 飞行；飞越；使飘扬",
+        "rank":  166
+    },
+    {
+        "lemma":  "food",
+        "surface":  "food",
+        "meaning":  "n. 食物；养料",
+        "rank":  167
+    },
+    {
+        "lemma":  "foot",
+        "surface":  "foot",
+        "meaning":  "n. 脚；英尺；步调；末尾\nvt. 支付；给……换底\nvi. 步行；跳舞；总计",
+        "rank":  168
+    },
+    {
+        "lemma":  "feet",
+        "surface":  "feet",
+        "meaning":  "n. 脚（foot的复数形式）；尺；韵脚",
+        "rank":  169
+    },
+    {
+        "lemma":  "football",
+        "surface":  "football",
+        "meaning":  "n. 足球，橄榄球\nvi. 踢足球；打橄榄球",
+        "rank":  170
+    },
+    {
+        "lemma":  "for",
+        "surface":  "for",
+        "meaning":  "prep. 为，为了；因为；给；对于；至于；适合于\nconj. 因为",
+        "rank":  171
+    },
+    {
+        "lemma":  "free",
+        "surface":  "free",
+        "meaning":  "adj. 免费的；自由的，不受约束的； 游离的\nvt. 使自由，解放；释放\nadv. 自由地；免费",
+        "rank":  172
+    },
+    {
+        "lemma":  "friend",
+        "surface":  "friend",
+        "meaning":  "n. 朋友；助手；赞助者",
+        "rank":  173
+    },
+    {
+        "lemma":  "from",
+        "surface":  "from",
+        "meaning":  "prep. 来自，从；由于；今后",
+        "rank":  174
+    },
+    {
+        "lemma":  "front",
+        "surface":  "front",
+        "meaning":  "n. 前面；正面；前线\nadj. 前面的；正面的\nvt. 面对；朝向；对付\nvi. 朝向\nadv. 在前面；向前",
+        "rank":  175
+    },
+    {
+        "lemma":  "fruit",
+        "surface":  "fruit",
+        "meaning":  "n. 水果；产物\nvt. 使……结果实\nvi. 结果实",
+        "rank":  176
+    },
+    {
+        "lemma":  "game",
+        "surface":  "game",
+        "meaning":  "n. 游戏；比赛\nadj. 勇敢的\nvi. 赌博",
+        "rank":  177
+    },
+    {
+        "lemma":  "garden",
+        "surface":  "garden",
+        "meaning":  "n. 花园；菜园\nvt. 栽培花木\nvi. 从事园艺；在园中种植",
+        "rank":  178
+    },
+    {
+        "lemma":  "get",
+        "surface":  "get",
+        "meaning":  "n. 生殖；幼兽\nvi. 成为；变得；到达\nvt. 使得；获得；受到；变成",
+        "rank":  179
+    },
+    {
+        "lemma":  "gift",
+        "surface":  "gift",
+        "meaning":  "n. 礼物；天赋；赠品\nvt. 赋予；向…赠送",
+        "rank":  180
+    },
+    {
+        "lemma":  "girl",
+        "surface":  "girl",
+        "meaning":  "n. 女孩；姑娘，未婚女子；女职员，女演员；（男人的）女朋友\nn. （捷）吉尔",
+        "rank":  181
+    },
+    {
+        "lemma":  "give",
+        "surface":  "give",
+        "meaning":  "n. 弹性；弯曲；伸展性\nvi. 捐赠；面向；有弹性；气候转暖\nvt. 给；产生；让步；举办；授予",
+        "rank":  182
+    },
+    {
+        "lemma":  "glass",
+        "surface":  "glass",
+        "meaning":  "n. 玻璃；玻璃制品；镜子\nvt. 反映；给某物加玻璃\nvi. 成玻璃状",
+        "rank":  183
+    },
+    {
+        "lemma":  "go",
+        "surface":  "go",
+        "meaning":  "n. 去；进行；尝试\nvi. 走；达到；运转；趋于\nvt. 忍受；出产；以…打赌",
+        "rank":  184
+    },
+    {
+        "lemma":  "good",
+        "surface":  "good",
+        "meaning":  "n. 好处；善行；慷慨的行为\nadj. 好的；优良的；愉快的；虔诚的\nadv. 好",
+        "rank":  185
+    },
+    {
+        "lemma":  "goodbye",
+        "surface":  "goodbye",
+        "meaning":  "int. 再见\n放弃\n告别",
+        "rank":  186
+    },
+    {
+        "lemma":  "bye",
+        "surface":  "bye",
+        "meaning":  "n. 轮空；次要的东西\nint. 再见\nadj. 次要的",
+        "rank":  187
+    },
+    {
+        "lemma":  "grandfather",
+        "surface":  "grandfather",
+        "meaning":  "n. 祖父；始祖\nvt. 不受新规定限制",
+        "rank":  188
+    },
+    {
+        "lemma":  "grandpa",
+        "surface":  "grandpa",
+        "meaning":  "n. 爷爷；外公",
+        "rank":  189
+    },
+    {
+        "lemma":  "grandmother",
+        "surface":  "grandmother",
+        "meaning":  "n. 祖母；女祖先\nvt. 当…的祖母\nvi. 当祖母",
+        "rank":  190
+    },
+    {
+        "lemma":  "grandma",
+        "surface":  "grandma",
+        "meaning":  "n. 奶奶；外婆",
+        "rank":  191
+    },
+    {
+        "lemma":  "grape",
+        "surface":  "grape",
+        "meaning":  "n. 葡萄；葡萄酒；葡萄树；葡萄色",
+        "rank":  192
+    },
+    {
+        "lemma":  "grass",
+        "surface":  "grass",
+        "meaning":  "n. 草；草地，草坪\nvt. 放牧；使……长满草；使……吃草\nvi. 长草",
+        "rank":  193
+    },
+    {
+        "lemma":  "great",
+        "surface":  "great",
+        "meaning":  "n. 大师；大人物；伟人们\nadj. 伟大的，重大的；极好的，好的；主要的",
+        "rank":  194
+    },
+    {
+        "lemma":  "green",
+        "surface":  "green",
+        "meaning":  "n. 绿色；青春\nadj. 绿色的；青春的\nvt. 使…变绿色\nvi. 变绿色",
+        "rank":  195
+    },
+    {
+        "lemma":  "hair",
+        "surface":  "hair",
+        "meaning":  "n. 头发；毛发；些微\nadj. 毛发的；护理毛发的；用毛发制成的\nvt. 除去…的毛发\nvi. 生长毛发；形成毛状纤维",
+        "rank":  196
+    },
+    {
+        "lemma":  "half",
+        "surface":  "half",
+        "meaning":  "n. 一半；半场；半学年\nadj. 一半的；不完全的；半途的\nadv. 一半地；部分地",
+        "rank":  197
+    },
+    {
+        "lemma":  "hand",
+        "surface":  "hand",
+        "meaning":  "n. 手，手艺；帮助；指针；插手\nvt. 传递，交给；支持；搀扶",
+        "rank":  198
+    },
+    {
+        "lemma":  "happy",
+        "surface":  "happy",
+        "meaning":  "adj. 幸福的；高兴的；巧妙的",
+        "rank":  199
+    },
+    {
+        "lemma":  "hard",
+        "surface":  "hard",
+        "meaning":  "adj. 努力的；硬的；困难的；辛苦的；确实的；严厉的；猛烈的；冷酷无情的\nadv. 努力地；困难地；辛苦地；接近地；猛烈地；牢固地",
+        "rank":  200
+    },
+    {
+        "lemma":  "have",
+        "surface":  "have",
+        "meaning":  "aux. 已经\nvt. 有；让；拿；从事；允许",
+        "rank":  201
+    },
+    {
+        "lemma":  "has",
+        "surface":  "has",
+        "meaning":  "v. 有，吃，得到，从事，允许，雇用，享有（have的第三人称单数）；（亲属关系中）接受；拿；买到",
+        "rank":  202
+    },
+    {
+        "lemma":  "he",
+        "surface":  "he",
+        "meaning":  "n. 男孩，男人；它（雄性动物）\npron. 他",
+        "rank":  203
+    },
+    {
+        "lemma":  "head",
+        "surface":  "head",
+        "meaning":  "n. 头；头痛；上端；最前的部分；理解力\nadj. 头的；主要的；在顶端的\nvt. 前进；用头顶；作为…的首领；站在…的前头；给…加标题\nvi. 出发；成头状物；船驶往",
+        "rank":  204
+    },
+    {
+        "lemma":  "healthy",
+        "surface":  "healthy",
+        "meaning":  "adj. 健康的，健全的；有益于健康的",
+        "rank":  205
+    },
+    {
+        "lemma":  "hear",
+        "surface":  "hear",
+        "meaning":  "vi. 听；听见\nvt. 听到，听；听说；审理",
+        "rank":  206
+    },
+    {
+        "lemma":  "heavy",
+        "surface":  "heavy",
+        "meaning":  "n. 重物；严肃角色\nadj. 沉重的；繁重的，巨大的；拥挤的；阴沉的\nadv. 大量地；笨重地",
+        "rank":  207
+    },
+    {
+        "lemma":  "hello",
+        "surface":  "hello",
+        "meaning":  "n. 表示问候， 惊奇或唤起注意时的用语\nint. 喂；哈罗",
+        "rank":  208
+    },
+    {
+        "lemma":  "help",
+        "surface":  "help",
+        "meaning":  "n. 帮助；补救办法；帮忙者；有益的东西\nvt. 帮助；促进；治疗；补救\nvi. 帮助；有用；招待",
+        "rank":  209
+    },
+    {
+        "lemma":  "helpful",
+        "surface":  "helpful",
+        "meaning":  "adj. 有帮助的；有益的",
+        "rank":  210
+    },
+    {
+        "lemma":  "her",
+        "surface":  "her",
+        "meaning":  "pron. 她（she的宾格）；她的（she的所有格）；她（指某个国家；一艘船）",
+        "rank":  211
+    },
+    {
+        "lemma":  "here",
+        "surface":  "here",
+        "meaning":  "n. 这里\nadv. 在这里；此时\nint. 嘿！；喂！",
+        "rank":  212
+    },
+    {
+        "lemma":  "hi",
+        "surface":  "hi",
+        "meaning":  "int. 嗨！（表示问候或用以唤起注意）",
+        "rank":  213
+    },
+    {
+        "lemma":  "hill",
+        "surface":  "hill",
+        "meaning":  "n. 小山；丘陵；斜坡；山冈",
+        "rank":  214
+    },
+    {
+        "lemma":  "him",
+        "surface":  "him",
+        "meaning":  "pron. 他（宾格）",
+        "rank":  215
+    },
+    {
+        "lemma":  "his",
+        "surface":  "his",
+        "meaning":  "pron. 他的",
+        "rank":  216
+    },
+    {
+        "lemma":  "holiday",
+        "surface":  "holiday",
+        "meaning":  "n. 假日；节日；休息日\nvi. 外出度假",
+        "rank":  217
+    },
+    {
+        "lemma":  "home",
+        "surface":  "home",
+        "meaning":  "n. 家，住宅；产地；家乡；避难所\nadj. 国内的，家庭的；有效的\nvt. 归巢，回家\nadv. 在家，回家；深入地",
+        "rank":  218
+    },
+    {
+        "lemma":  "hometown",
+        "surface":  "hometown",
+        "meaning":  "n. 家乡；故乡",
+        "rank":  219
+    },
+    {
+        "lemma":  "horse",
+        "surface":  "horse",
+        "meaning":  "n. 马；骑兵；脚架；海洛因\nvt. 使骑马；系马于；捉弄\nvi. 骑马；作弄人",
+        "rank":  220
+    },
+    {
+        "lemma":  "hospital",
+        "surface":  "hospital",
+        "meaning":  "n. 医院",
+        "rank":  221
+    },
+    {
+        "lemma":  "hot",
+        "surface":  "hot",
+        "meaning":  "adj. 热的；辣的；热情的；激动的；紧迫的\nvt. 增加；给…加温\nadv. 热；紧迫地\nvi. 变热",
+        "rank":  222
+    },
+    {
+        "lemma":  "hour",
+        "surface":  "hour",
+        "meaning":  "n. 小时；钟头；课时；…点钟",
+        "rank":  223
+    },
+    {
+        "lemma":  "house",
+        "surface":  "house",
+        "meaning":  "n. 住宅；家庭；机构；议会；某种用途的建筑物\nvt. 覆盖；给…房子住；把…储藏在房内\nvi. 住",
+        "rank":  224
+    },
+    {
+        "lemma":  "how",
+        "surface":  "how",
+        "meaning":  "adv. 如何；多少；多么\nn. 方法；方式\nconj. 如何",
+        "rank":  225
+    },
+    {
+        "lemma":  "hungry",
+        "surface":  "hungry",
+        "meaning":  "adj. 饥饿的；渴望的；荒年的；不毛的",
+        "rank":  226
+    },
+    {
+        "lemma":  "hurry",
+        "surface":  "hurry",
+        "meaning":  "n. 匆忙，急忙\nv. 仓促（做某事）；催促；（朝某方向）迅速移动；迅速处理",
+        "rank":  227
+    },
+    {
+        "lemma":  "hurt",
+        "surface":  "hurt",
+        "meaning":  "n. 痛苦；危害；痛苦的原因\nvt. 使受伤；损害；使疼痛；使痛心\nadj. 受伤的；痛苦的；受损的\nvi. 感到疼痛；有坏处；带来痛苦",
+        "rank":  228
+    },
+    {
+        "lemma":  "i",
+        "surface":  "I",
+        "meaning":  "n. 碘元素；英语字母I\npron. 我",
+        "rank":  229
+    },
+    {
+        "lemma":  "ice",
+        "surface":  "ice",
+        "meaning":  "n. 冰；冰淇淋；矜持；（俚）钻石\nadj. 冰的\nvt. 冰镇；结冰\nvi. 结冰",
+        "rank":  230
+    },
+    {
+        "lemma":  "ice cream",
+        "surface":  "ice cream",
+        "meaning":  "n. 冰淇淋\n 冰激凌；雪糕；冰激淋",
+        "rank":  231
+    },
+    {
+        "lemma":  "idea",
+        "surface":  "idea",
+        "meaning":  "n. 想法；主意；概念",
+        "rank":  232
+    },
+    {
+        "lemma":  "ill",
+        "surface":  "ill",
+        "meaning":  "n. 疾病；不幸\nadj. 生病的；坏的；邪恶的；不吉利的\nadv. 不利地；恶劣地；几乎不",
+        "rank":  233
+    },
+    {
+        "lemma":  "in",
+        "surface":  "in",
+        "meaning":  "prep. 按照（表示方式）；从事于；在…之内\nn. 执政者；门路；知情者\nadj. 在里面的；时髦的\nadv. 进入；当选；（服装等）时髦；在屋里",
+        "rank":  234
+    },
+    {
+        "lemma":  "interesting",
+        "surface":  "interesting",
+        "meaning":  "adj. 有趣的；引起兴趣的，令人关注的",
+        "rank":  235
+    },
+    {
+        "lemma":  "internet",
+        "surface":  "Internet",
+        "meaning":  "",
+        "rank":  236
+    },
+    {
+        "lemma":  "it",
+        "surface":  "it",
+        "meaning":  "abbr. 信息技术information technology\nabbr. 意大利Italy；意大利的Italian",
+        "rank":  237
+    },
+    {
+        "lemma":  "its",
+        "surface":  "its",
+        "meaning":  "pron. 它的",
+        "rank":  238
+    },
+    {
+        "lemma":  "job",
+        "surface":  "job",
+        "meaning":  "n. 工作；职业\nvt. 承包；代客买卖\nvi. 做零工",
+        "rank":  239
+    },
+    {
+        "lemma":  "juice",
+        "surface":  "juice",
+        "meaning":  "n. （水果）汁，液；果汁",
+        "rank":  240
+    },
+    {
+        "lemma":  "jump",
+        "surface":  "jump",
+        "meaning":  "n. 跳跃；暴涨；惊跳\nvt. 跳跃；使跳跃；跳过；突升\nvi. 跳跃；暴涨；猛增",
+        "rank":  241
+    },
+    {
+        "lemma":  "keep",
+        "surface":  "keep",
+        "meaning":  "vt. 保持；经营；遵守；饲养\nvi. 保持；继续不断\nn. 保持；生计；生活费",
+        "rank":  242
+    },
+    {
+        "lemma":  "kid",
+        "surface":  "kid",
+        "meaning":  "n. 小孩；小山羊\nvt. 欺骗；取笑；戏弄\nvi. 欺骗；取笑；戏弄\nadj. 小山羊皮制的；较年幼的",
+        "rank":  243
+    },
+    {
+        "lemma":  "kind",
+        "surface":  "kind",
+        "meaning":  "n. 种类；性质\nadj. 和蔼的；宽容的；令人感激的",
+        "rank":  244
+    },
+    {
+        "lemma":  "kitchen",
+        "surface":  "kitchen",
+        "meaning":  "n. 厨房；炊具；炊事人员",
+        "rank":  245
+    },
+    {
+        "lemma":  "kite",
+        "surface":  "kite",
+        "meaning":  "n. 风筝\nvi. 使用空头支票；像风筝一样飞；轻快地移动\nvt. 骗钱；涂改（支票）",
+        "rank":  246
+    },
+    {
+        "lemma":  "know",
+        "surface":  "know",
+        "meaning":  "vt. 知道；认识；懂得\nvi. 了解；熟悉；确信",
+        "rank":  247
+    },
+    {
+        "lemma":  "lake",
+        "surface":  "lake",
+        "meaning":  "n. 湖；深红色颜料；胭脂红\nvt. （使）血球溶解\nvi. （使）血球溶解",
+        "rank":  248
+    },
+    {
+        "lemma":  "last",
+        "surface":  "last",
+        "meaning":  "n. 末尾，最后；上个；鞋楦（做鞋的模型）\nadj. 最后的；最近的，最新的；仅剩的；最不可能…的\nvi. 持续；维持，够用；持久\nvt. 度过，拖过；使维持\nadv. 最后地；上次，最近；最后一点",
+        "rank":  249
+    },
+    {
+        "lemma":  "late",
+        "surface":  "late",
+        "meaning":  "adj. 晚的；迟的；已故的；最近的\nadv. 晚；迟；最近；在晚期",
+        "rank":  250
+    },
+    {
+        "lemma":  "learn",
+        "surface":  "learn",
+        "meaning":  "vt. 学习；得知；认识到\nvi. 学习；获悉",
+        "rank":  251
+    },
+    {
+        "lemma":  "left",
+        "surface":  "left",
+        "meaning":  "adj. 左边的；左派的；剩下的\nadv. 在左面\nn. 左边；左派；激进分子\nv. 离开（leave的过去式）",
+        "rank":  252
+    },
+    {
+        "lemma":  "leg",
+        "surface":  "leg",
+        "meaning":  "n. 腿；支柱",
+        "rank":  253
+    },
+    {
+        "lemma":  "lesson",
+        "surface":  "lesson",
+        "meaning":  "n. 教训；课\nvt. 教训；上课",
+        "rank":  254
+    },
+    {
+        "lemma":  "let",
+        "surface":  "let",
+        "meaning":  "vt. 允许，让；出租；假设；妨碍\nvi. 出租；被承包\nn. 障碍；出租屋",
+        "rank":  255
+    },
+    {
+        "lemma":  "letter",
+        "surface":  "letter",
+        "meaning":  "n. 信；字母，文字；证书；文学，学问；字面意义\nvt. 写字母于\nvi. 写印刷体字母",
+        "rank":  256
+    },
+    {
+        "lemma":  "library",
+        "surface":  "library",
+        "meaning":  "n. 图书馆，藏书室；文库",
+        "rank":  257
+    },
+    {
+        "lemma":  "light",
+        "surface":  "light",
+        "meaning":  "n. 光；光线；灯；打火机；领悟；浅色；天窗\nadj. 轻的；浅色的；明亮的；轻松的；容易的；清淡的\nvi. 点着；变亮；着火\nvt. 照亮；点燃；着火\nadv. 轻地；清楚地；轻便地",
+        "rank":  258
+    },
+    {
+        "lemma":  "like",
+        "surface":  "like",
+        "meaning":  "vt. 喜欢；想；愿意\nvi. 喜欢；希望\nprep. 像；如同\nadj. 同样的；相似的\nn. 爱好；同样的人或物\nadv. 可能\nconj. 好像",
+        "rank":  259
+    },
+    {
+        "lemma":  "lion",
+        "surface":  "lion",
+        "meaning":  "n. 狮子；名人；勇猛的人；社交场合的名流",
+        "rank":  260
+    },
+    {
+        "lemma":  "listen",
+        "surface":  "listen",
+        "meaning":  "vi. 听，倾听；听从，听信\nn. 听，倾听",
+        "rank":  261
+    },
+    {
+        "lemma":  "little",
+        "surface":  "little",
+        "meaning":  "adj. 小的；很少的；短暂的；小巧可爱的\nadv. 完全不\nn. 少许；没有多少；短时间",
+        "rank":  262
+    },
+    {
+        "lemma":  "live",
+        "surface":  "live",
+        "meaning":  "adj. 活的；生动的；实况转播的；精力充沛的\nvt. 经历；度过\nvi. 活；居住；生存",
+        "rank":  263
+    },
+    {
+        "lemma":  "long",
+        "surface":  "long",
+        "meaning":  "n. 长时间； 长音节；（服装的）长尺寸；长裤\nadj. 长的；过长的；做多头的；长时间的；冗长的，长音\nvi. 渴望；热望\nadv. 长期地；始终",
+        "rank":  264
+    },
+    {
+        "lemma":  "look",
+        "surface":  "look",
+        "meaning":  "vt. 看；期待；注意；面向；看上去像\nvi. 看；看起来；注意；面向\nn. 看；样子；面容",
+        "rank":  265
+    },
+    {
+        "lemma":  "lot",
+        "surface":  "lot",
+        "meaning":  "n. 份额；许多；命运；阄\nadv. （与形容词和副词连用）很，非常；（与动词连用）非常\npron. 大量，许多\nvt. 分组，把…划分（常与out连用）；把（土地）划分成块\nvi. 抽签，拈阄",
+        "rank":  266
+    },
+    {
+        "lemma":  "love",
+        "surface":  "love",
+        "meaning":  "n. 恋爱；亲爱的；酷爱；喜爱的事物；爱情，爱意；疼爱；热爱；爱人，所爱之物\nv. 爱，热爱；爱戴；赞美，称赞；喜爱；喜好；喜欢；爱慕",
+        "rank":  267
+    },
+    {
+        "lemma":  "lovely",
+        "surface":  "lovely",
+        "meaning":  "adj. 可爱的；令人愉快的；爱恋的；秀丽的，优美的\nn. 美女；可爱的东西",
+        "rank":  268
+    },
+    {
+        "lemma":  "lunch",
+        "surface":  "lunch",
+        "meaning":  "n. 午餐\nvt. 吃午餐；供给午餐\nvi. 吃午餐；供给午餐",
+        "rank":  269
+    },
+    {
+        "lemma":  "make",
+        "surface":  "make",
+        "meaning":  "vt. 使得；进行；布置，准备，整理；制造；认为；获得；形成；安排；引起；构成\nvi. 开始；前进；增大；被制造\nn. 制造；构造；性情",
+        "rank":  270
+    },
+    {
+        "lemma":  "man",
+        "surface":  "man",
+        "meaning":  "n. 人；男人；人类；丈夫；雇工\nvt. 操纵；给…配置人员；使增强勇气；在…就位",
+        "rank":  271
+    },
+    {
+        "lemma":  "men",
+        "surface":  "men",
+        "meaning":  "n. 男人，人类（man的复数）",
+        "rank":  272
+    },
+    {
+        "lemma":  "many",
+        "surface":  "many",
+        "meaning":  "pron. 许多；许多人\nadj. 许多的",
+        "rank":  273
+    },
+    {
+        "lemma":  "map",
+        "surface":  "map",
+        "meaning":  "vt. 映射；计划；绘制地图；确定基因在染色体中的位置\nn. 地图；示意图；染色体图\nvi. 基因被安置",
+        "rank":  274
+    },
+    {
+        "lemma":  "maths",
+        "surface":  "maths",
+        "meaning":  "n. 数学（等于mathematics）",
+        "rank":  275
+    },
+    {
+        "lemma":  "mathematics",
+        "surface":  "mathematics",
+        "meaning":  "n. 数学；数学运算",
+        "rank":  276
+    },
+    {
+        "lemma":  "math",
+        "surface":  "math",
+        "meaning":  "n. 数学（等于mathematics）",
+        "rank":  277
+    },
+    {
+        "lemma":  "may",
+        "surface":  "may",
+        "meaning":  "aux. 可以，能够；可能，也许；祝，愿；会，能",
+        "rank":  278
+    },
+    {
+        "lemma":  "me",
+        "surface":  "me",
+        "meaning":  "pron. 我（宾格）\nn. 自我；极端自私的人；自我的一部分",
+        "rank":  279
+    },
+    {
+        "lemma":  "meat",
+        "surface":  "meat",
+        "meaning":  "n. 肉，肉类（食用）",
+        "rank":  280
+    },
+    {
+        "lemma":  "meet",
+        "surface":  "meet",
+        "meaning":  "vt. 满足；遇见；对付\nvi. 相遇；接触\nn. 集会\nadj. 合适的；适宜的",
+        "rank":  281
+    },
+    {
+        "lemma":  "middle",
+        "surface":  "middle",
+        "meaning":  "adj. 中间的，中部的；中级的，中等的\nn. 中间，中央；腰部",
+        "rank":  282
+    },
+    {
+        "lemma":  "milk",
+        "surface":  "milk",
+        "meaning":  "n. 牛奶；乳状物\nvt. 榨取；挤…的奶\nvi. 挤奶",
+        "rank":  283
+    },
+    {
+        "lemma":  "minute",
+        "surface":  "minute",
+        "meaning":  "n. 分，分钟；片刻，一会儿；备忘录，笔记；会议记录\nvt. 将…记录下来\nadj. 微小的，详细的",
+        "rank":  284
+    },
+    {
+        "lemma":  "miss",
+        "surface":  "Miss",
+        "meaning":  "",
+        "rank":  285
+    },
+    {
+        "lemma":  "money",
+        "surface":  "money",
+        "meaning":  "n. 钱；货币；财富",
+        "rank":  286
+    },
+    {
+        "lemma":  "monkey",
+        "surface":  "monkey",
+        "meaning":  "n. 猴子；顽童\nvi. 胡闹；捣蛋\nvt. 嘲弄",
+        "rank":  287
+    },
+    {
+        "lemma":  "month",
+        "surface":  "month",
+        "meaning":  "n. 月，一个月的时间",
+        "rank":  288
+    },
+    {
+        "lemma":  "moon",
+        "surface":  "moon",
+        "meaning":  "n. 月亮；月球；月光；卫星\nvi. 闲荡；出神\nvt. 虚度",
+        "rank":  289
+    },
+    {
+        "lemma":  "morning",
+        "surface":  "morning",
+        "meaning":  "n. 早晨；黎明；初期",
+        "rank":  290
+    },
+    {
+        "lemma":  "mother",
+        "surface":  "mother",
+        "meaning":  "n. 母亲；大娘；女修道院院长\nvt. 生下；养育；像母亲般关怀或照管\nadj. 母亲的；出生地的",
+        "rank":  291
+    },
+    {
+        "lemma":  "mum",
+        "surface":  "mum",
+        "meaning":  "adj. 沉默的\nn. 妈妈（口语）；沉默；菊花\nvi. 演哑剧\nint. 别说话",
+        "rank":  292
+    },
+    {
+        "lemma":  "mom",
+        "surface":  "mom",
+        "meaning":  "n. 妈妈",
+        "rank":  293
+    },
+    {
+        "lemma":  "mouse",
+        "surface":  "mouse",
+        "meaning":  "n. 鼠标；老鼠；胆小羞怯的人\nvt. 探出\nvi. 捕鼠；窥探",
+        "rank":  294
+    },
+    {
+        "lemma":  "mice",
+        "surface":  "mice",
+        "meaning":  "n. 老鼠（mouse的复数）",
+        "rank":  295
+    },
+    {
+        "lemma":  "mouth",
+        "surface":  "mouth",
+        "meaning":  "n. 口，嘴；河口\nvt. 做作地说，装腔作势地说；喃喃地说出\nvi. 装腔作势说话",
+        "rank":  296
+    },
+    {
+        "lemma":  "move",
+        "surface":  "move",
+        "meaning":  "n. 移动；步骤；迁居；策略\nvi. 移动；搬家，迁移；离开\nvt. 移动；感动",
+        "rank":  297
+    },
+    {
+        "lemma":  "mr",
+        "surface":  "Mr",
+        "meaning":  "abbr. 先生（Mister）",
+        "rank":  298
+    },
+    {
+        "lemma":  "mrs",
+        "surface":  "Mrs",
+        "meaning":  "n. 太太；夫人（用于已婚妇女姓名前的尊称）",
+        "rank":  299
+    },
+    {
+        "lemma":  "ms",
+        "surface":  "Ms",
+        "meaning":  "",
+        "rank":  300
+    },
+    {
+        "lemma":  "much",
+        "surface":  "much",
+        "meaning":  "adv. 非常，很\nadj. 大量的\nn. 许多，大量\npron. 许多，大量",
+        "rank":  301
+    },
+    {
+        "lemma":  "music",
+        "surface":  "music",
+        "meaning":  "n. 音乐，乐曲",
+        "rank":  302
+    },
+    {
+        "lemma":  "must",
+        "surface":  "must",
+        "meaning":  "aux. 必须，一定；可以，应当；很可能\nn. 绝对必要的事物；未发酵葡萄汁",
+        "rank":  303
+    },
+    {
+        "lemma":  "my",
+        "surface":  "my",
+        "meaning":  "pron. 我的\nint. 哎呀（表示惊奇等）；喔唷",
+        "rank":  304
+    },
+    {
+        "lemma":  "name",
+        "surface":  "name",
+        "meaning":  "n. 名称，名字；姓名；名誉\nvt. 命名，任命；指定；称呼；提名；叫出\nadj. 姓名的；据以取名的",
+        "rank":  305
+    },
+    {
+        "lemma":  "near",
+        "surface":  "near",
+        "meaning":  "adj. 近的；亲近的；近似的\nadv. 近；接近\nprep. 靠近；近似于",
+        "rank":  306
+    },
+    {
+        "lemma":  "never",
+        "surface":  "never",
+        "meaning":  "adv. 从未；决不",
+        "rank":  307
+    },
+    {
+        "lemma":  "new",
+        "surface":  "new",
+        "meaning":  "adj. 新的，新鲜的；更新的；初见的\nadv. 新近",
+        "rank":  308
+    },
+    {
+        "lemma":  "next",
+        "surface":  "next",
+        "meaning":  "adv. 然后；下次；其次\nadj. 下一个的；其次的；贴近的\nn. 下一个\nprep. 靠近；居于…之后",
+        "rank":  309
+    },
+    {
+        "lemma":  "nice",
+        "surface":  "nice",
+        "meaning":  "adj. 精密的；美好的；细微的；和蔼的",
+        "rank":  310
+    },
+    {
+        "lemma":  "night",
+        "surface":  "night",
+        "meaning":  "n. 夜晚，晚上；黑暗，黑夜\nadj. 夜晚的，夜间的",
+        "rank":  311
+    },
+    {
+        "lemma":  "no",
+        "surface":  "no",
+        "meaning":  "adv. 不\nadj. 没有；不是\nn. 不；否决票\nabbr. 数字（number）；元素锘（nobelium）的符号",
+        "rank":  312
+    },
+    {
+        "lemma":  "noodle",
+        "surface":  "noodle",
+        "meaning":  "n. 面条；笨蛋",
+        "rank":  313
+    },
+    {
+        "lemma":  "nose",
+        "surface":  "nose",
+        "meaning":  "n. 鼻子；嗅觉；突出的部分；探问\nvt. 嗅；用鼻子触\nvi. 小心探索着前进；探问",
+        "rank":  314
+    },
+    {
+        "lemma":  "not",
+        "surface":  "not",
+        "meaning":  "adv. 表示否定，不\nn. “非”（计算机中逻辑运算的一种）",
+        "rank":  315
+    },
+    {
+        "lemma":  "now",
+        "surface":  "now",
+        "meaning":  "adv. 现在；如今；立刻\nadj. 现在的\nn. 现在；目前\nconj. 由于；既然",
+        "rank":  316
+    },
+    {
+        "lemma":  "nurse",
+        "surface":  "nurse",
+        "meaning":  "vt. 看护，护理；照顾；培养；给…喂奶\nvi. 照料，护理；喂奶；当保姆\nn. 护士；奶妈，保姆",
+        "rank":  317
+    },
+    {
+        "lemma":  "o\u0027clock",
+        "surface":  "o\u0027clock",
+        "meaning":  "abbr. …点钟（等于of the clock）",
+        "rank":  318
+    },
+    {
+        "lemma":  "of",
+        "surface":  "of",
+        "meaning":  "prep. 关于；属于；…的；由…组成的",
+        "rank":  319
+    },
+    {
+        "lemma":  "off",
+        "surface":  "off",
+        "meaning":  "prep. 离开；脱落\nadv. 切断；走开\nadj. 远离的；空闲的",
+        "rank":  320
+    },
+    {
+        "lemma":  "often",
+        "surface":  "often",
+        "meaning":  "adv. 常常，时常",
+        "rank":  321
+    },
+    {
+        "lemma":  "ok",
+        "surface":  "OK",
+        "meaning":  "adj. 好的；不错的\nadv. 行；很好\nint. 好；可以\nvt. 对…表示同意\nn. 同意",
+        "rank":  322
+    },
+    {
+        "lemma":  "old",
+        "surface":  "old",
+        "meaning":  "adj. 陈旧的，古老的；年老的\nn. 古时",
+        "rank":  323
+    },
+    {
+        "lemma":  "on",
+        "surface":  "on",
+        "meaning":  "adv. 向前地；作用中，行动中；继续着\nprep. 向，朝……；关于；在……之上；在……时候\nadj. 开着的；发生着的，正在进行中",
+        "rank":  324
+    },
+    {
+        "lemma":  "open",
+        "surface":  "open",
+        "meaning":  "adj. 公开的；敞开的；空旷的；坦率的；营业着的\nvi. 开始；展现\nvt. 公开；打开\nn. 公开；空旷；户外",
+        "rank":  325
+    },
+    {
+        "lemma":  "or",
+        "surface":  "or",
+        "meaning":  "conj. 或，或者；还是",
+        "rank":  326
+    },
+    {
+        "lemma":  "orange",
+        "surface":  "orange",
+        "meaning":  "adj. 橙色的；橘色的\nn. 橙；橙色；桔子",
+        "rank":  327
+    },
+    {
+        "lemma":  "our",
+        "surface":  "our",
+        "meaning":  "pron. 我们的",
+        "rank":  328
+    },
+    {
+        "lemma":  "out",
+        "surface":  "out",
+        "meaning":  "adv. 出现；在外；出局；出声地；不流行地\nadj. 外面的；出局的；下台的\nn. 出局\nprep. 向；离去\nvi. 出来；暴露\nvt. 使熄灭；驱逐",
+        "rank":  329
+    },
+    {
+        "lemma":  "over",
+        "surface":  "over",
+        "meaning":  "adv. 结束；越过；从头到尾\nprep. 越过；在…之上；遍于…之上\nadj. 结束的；上面的\nvt. 越过",
+        "rank":  330
+    },
+    {
+        "lemma":  "pair",
+        "surface":  "pair",
+        "meaning":  "n. 一对，一双，一副\nvt. 把…组成一对",
+        "rank":  331
+    },
+    {
+        "lemma":  "panda",
+        "surface":  "panda",
+        "meaning":  "n. 熊猫；猫熊",
+        "rank":  332
+    },
+    {
+        "lemma":  "paper",
+        "surface":  "paper",
+        "meaning":  "n. 纸；论文；文件；报纸\nadj. 纸做的\nvt. 用纸糊；用纸包装\nvi. 贴糊墙纸；发交通违章传票",
+        "rank":  333
+    },
+    {
+        "lemma":  "parent",
+        "surface":  "parent",
+        "meaning":  "n. 父亲（或母亲）；父母亲；根源",
+        "rank":  334
+    },
+    {
+        "lemma":  "park",
+        "surface":  "park",
+        "meaning":  "n. 公园； 停车场\nvt. 停放；放置；寄存\nvi. 停放车辆",
+        "rank":  335
+    },
+    {
+        "lemma":  "party",
+        "surface":  "party",
+        "meaning":  "n. 政党，党派；聚会，派对；当事人 \nvi. 参加社交聚会",
+        "rank":  336
+    },
+    {
+        "lemma":  "pe",
+        "surface":  "PE",
+        "meaning":  "abbr. 体育课，体能训练（physical education）",
+        "rank":  337
+    },
+    {
+        "lemma":  "physical education",
+        "surface":  "physical education",
+        "meaning":  "n. 体育教学\n 体育教育；体育课；物理教育",
+        "rank":  338
+    },
+    {
+        "lemma":  "pen",
+        "surface":  "pen",
+        "meaning":  "n. 钢笔；作家；围栏\nvt. 写；关入栏中",
+        "rank":  339
+    },
+    {
+        "lemma":  "pencil",
+        "surface":  "pencil",
+        "meaning":  "n. 铅笔；笔状物\nvt. 用铅笔写；用眉笔涂\nvi. 成铅笔状",
+        "rank":  340
+    },
+    {
+        "lemma":  "people",
+        "surface":  "people",
+        "meaning":  "n. 人；人类；民族；公民\nvt. 居住于；使住满人",
+        "rank":  341
+    },
+    {
+        "lemma":  "pet",
+        "surface":  "pet",
+        "meaning":  "n. 宠物；生气；受宠爱的人\nadj. 宠爱的\nvt. 宠爱\nvi. 生气；爱抚",
+        "rank":  342
+    },
+    {
+        "lemma":  "phone",
+        "surface":  "phone",
+        "meaning":  "n. 电话；耳机，听筒\nvt. 打电话\nvi. 打电话",
+        "rank":  343
+    },
+    {
+        "lemma":  "photo",
+        "surface":  "photo",
+        "meaning":  "n. 照片",
+        "rank":  344
+    },
+    {
+        "lemma":  "photograph",
+        "surface":  "photograph",
+        "meaning":  "n. 照片，相片\nvt. 为…拍照；使深深印入\nvi. 拍照；在照片上显得",
+        "rank":  345
+    },
+    {
+        "lemma":  "piano",
+        "surface":  "piano",
+        "meaning":  "n. 钢琴",
+        "rank":  346
+    },
+    {
+        "lemma":  "picture",
+        "surface":  "picture",
+        "meaning":  "n. 照片，图画；影片；景色；化身\nvt. 画；想像；描写",
+        "rank":  347
+    },
+    {
+        "lemma":  "pig",
+        "surface":  "pig",
+        "meaning":  "n. 猪；猪肉\nvi. 生小猪；像猪一样过活\nn. 警察（俚语，带有攻击性）",
+        "rank":  348
+    },
+    {
+        "lemma":  "ping-pong",
+        "surface":  "ping-pong",
+        "meaning":  "n. 乒乓球；桌球",
+        "rank":  349
+    },
+    {
+        "lemma":  "pink",
+        "surface":  "pink",
+        "meaning":  "n. 粉红色；化身，典范；石竹花；头面人物\nadj. 粉红的；比较激进的；石竹科的；脸色发红的\nvt. 扎，刺，戳；使…变粉红色；使…面红耳赤\nvi. 变粉红色",
+        "rank":  350
+    },
+    {
+        "lemma":  "place",
+        "surface":  "place",
+        "meaning":  "n. 地方；住所；座位\nvt. 放置；任命；寄予\nvi. 名列前茅；取得名次",
+        "rank":  351
+    },
+    {
+        "lemma":  "plane",
+        "surface":  "plane",
+        "meaning":  "n. 飞机；平面；程度，水平\nadj. 平的；平面的\nvt. 刨平；用刨子刨；掠过水面\nvi. 刨；乘飞机旅行；翱翔",
+        "rank":  352
+    },
+    {
+        "lemma":  "plant",
+        "surface":  "plant",
+        "meaning":  "n. 工厂，车间；植物；设备；庄稼\nvt. 种植；培养；栽培；安置\nvi. 种植",
+        "rank":  353
+    },
+    {
+        "lemma":  "play",
+        "surface":  "play",
+        "meaning":  "n. 游戏；比赛；剧本\nvt. 游戏；扮演；演奏；播放；同…比赛\nvi. 演奏；玩耍；上演；参加比赛",
+        "rank":  354
+    },
+    {
+        "lemma":  "playground",
+        "surface":  "playground",
+        "meaning":  "n. 运动场，操场；游乐场",
+        "rank":  355
+    },
+    {
+        "lemma":  "please",
+        "surface":  "please",
+        "meaning":  "int. 请（礼貌用语）\nvt. 使喜欢；使高兴，使满意\nvi. 讨人喜欢；令人高兴",
+        "rank":  356
+    },
+    {
+        "lemma":  "police",
+        "surface":  "police",
+        "meaning":  "n. 警察，警方；治安\nadj. 警察的；有关警察的\nvt. 监督；管辖；维持治安；为…配备警察",
+        "rank":  357
+    },
+    {
+        "lemma":  "potato",
+        "surface":  "potato",
+        "meaning":  "n.  土豆， 马铃薯",
+        "rank":  358
+    },
+    {
+        "lemma":  "put",
+        "surface":  "put",
+        "meaning":  "n. 掷；笨蛋；投击；怪人\nadj. 固定不动的\nvi. 出发；击；航行；发芽\nvt. 放；表达；移动；安置；赋予",
+        "rank":  359
+    },
+    {
+        "lemma":  "question",
+        "surface":  "question",
+        "meaning":  "n. 问题，疑问；询问；疑问句\nvt. 询问；怀疑；审问\nvi. 询问；怀疑；审问",
+        "rank":  360
+    },
+    {
+        "lemma":  "quiet",
+        "surface":  "quiet",
+        "meaning":  "n. 安静；和平\nadj. 安静的；安定的；不动的；温顺的\nvt. 使平息；安慰\nvi. 平静下来",
+        "rank":  361
+    },
+    {
+        "lemma":  "rabbit",
+        "surface":  "rabbit",
+        "meaning":  "n. 兔子，野兔\nvt. 让…见鬼去吧\nvi. 猎兔",
+        "rank":  362
+    },
+    {
+        "lemma":  "rain",
+        "surface":  "rain",
+        "meaning":  "n. 雨；下雨；雨天；雨季\nvt. 大量地给；使大量落下\nvi. 下雨；降雨",
+        "rank":  363
+    },
+    {
+        "lemma":  "read",
+        "surface":  "read",
+        "meaning":  "n. 阅读；读物\nadj. 有学问的\nvi. 读；读起来\nvt. 阅读；读懂，理解",
+        "rank":  364
+    },
+    {
+        "lemma":  "red",
+        "surface":  "red",
+        "meaning":  "n. 红色，红颜料；赤字\nadj. 红色的；红肿的，充血的",
+        "rank":  365
+    },
+    {
+        "lemma":  "rice",
+        "surface":  "rice",
+        "meaning":  "n. 稻；米饭\nvt. 把…捣成米糊状",
+        "rank":  366
+    },
+    {
+        "lemma":  "right",
+        "surface":  "right",
+        "meaning":  "n. 正确；右边；正义\nadj. 正确的；直接的；右方的\nvt. 纠正\nadv. 正确地；恰当地；彻底地\nvi. 复正；恢复平稳",
+        "rank":  367
+    },
+    {
+        "lemma":  "river",
+        "surface":  "river",
+        "meaning":  "n. 河，江",
+        "rank":  368
+    },
+    {
+        "lemma":  "robot",
+        "surface":  "robot",
+        "meaning":  "n. 机器人；遥控设备，自动机械；机械般工作的人",
+        "rank":  369
+    },
+    {
+        "lemma":  "room",
+        "surface":  "room",
+        "meaning":  "n. 房间；空间；余地；机会；房间里所有的人\nvt. 为…提供住处；租房，合住；投宿，住宿；留…住宿\nvi. 居住；住宿",
+        "rank":  370
+    },
+    {
+        "lemma":  "ruler",
+        "surface":  "ruler",
+        "meaning":  "n. 尺；统治者； 划线板，划线的人",
+        "rank":  371
+    },
+    {
+        "lemma":  "run",
+        "surface":  "run",
+        "meaning":  "n. 奔跑；赛跑；趋向；奔跑的路程\nvt. 管理，经营；运行；参赛\nvi. 经营；奔跑；运转",
+        "rank":  372
+    },
+    {
+        "lemma":  "sad",
+        "surface":  "sad",
+        "meaning":  "adj. 难过的；悲哀的，令人悲痛的；凄惨的，阴郁的（形容颜色）",
+        "rank":  373
+    },
+    {
+        "lemma":  "safe",
+        "surface":  "safe",
+        "meaning":  "n. 保险箱；冷藏室；纱橱\nadj. 安全的；可靠的；平安的",
+        "rank":  374
+    },
+    {
+        "lemma":  "say",
+        "surface":  "say",
+        "meaning":  "vt. 讲；说明；例如；声称；假设；指明\nvi. 讲；表示；念；假定；背诵",
+        "rank":  375
+    },
+    {
+        "lemma":  "school",
+        "surface":  "school",
+        "meaning":  "n. 学校；学院；学派；鱼群\nvt. 教育",
+        "rank":  376
+    },
+    {
+        "lemma":  "schoolbag",
+        "surface":  "schoolbag",
+        "meaning":  "n. 书包",
+        "rank":  377
+    },
+    {
+        "lemma":  "science",
+        "surface":  "science",
+        "meaning":  "n. 科学；技术；学科；理科",
+        "rank":  378
+    },
+    {
+        "lemma":  "sea",
+        "surface":  "sea",
+        "meaning":  "n. 海；海洋；许多；大量",
+        "rank":  379
+    },
+    {
+        "lemma":  "season",
+        "surface":  "season",
+        "meaning":  "n. 时期；季节；赛季\nvt. 给…调味；使适应\nvi. 变得成熟；变干燥",
+        "rank":  380
+    },
+    {
+        "lemma":  "see",
+        "surface":  "see",
+        "meaning":  "vi. 看；看见；领会\nvt. 看见；理解；领会",
+        "rank":  381
+    },
+    {
+        "lemma":  "sell",
+        "surface":  "sell",
+        "meaning":  "n. 销售；失望；推销术\nvt. 销售；推销；出卖；欺骗\nvi. 卖；出售；受欢迎；有销路",
+        "rank":  382
+    },
+    {
+        "lemma":  "share",
+        "surface":  "share",
+        "meaning":  "n. 份额；股份\nvt. 分享，分担；分配\nvi. 共享；分担",
+        "rank":  383
+    },
+    {
+        "lemma":  "she",
+        "surface":  "she",
+        "meaning":  "n. 女人；雌性动物\npron. 她（主格）；它（用来指雌性动物或国家、船舶、地球、月亮等）",
+        "rank":  384
+    },
+    {
+        "lemma":  "sheep",
+        "surface":  "sheep",
+        "meaning":  "n. 羊，绵羊；胆小鬼",
+        "rank":  385
+    },
+    {
+        "lemma":  "ship",
+        "surface":  "ship",
+        "meaning":  "n. 船；舰；太空船\nvt. 运送，乘船；以船运送\nvi. 上船；乘船旅行；当船员",
+        "rank":  386
+    },
+    {
+        "lemma":  "shirt",
+        "surface":  "shirt",
+        "meaning":  "n. 衬衫；汗衫，内衣",
+        "rank":  387
+    },
+    {
+        "lemma":  "shoe",
+        "surface":  "shoe",
+        "meaning":  "n. 鞋；蹄铁；外胎\nvt. 给……穿上鞋；穿……鞋",
+        "rank":  388
+    },
+    {
+        "lemma":  "shop",
+        "surface":  "shop",
+        "meaning":  "n. 商店；店铺\nvt. 购物\nvi. 购物；买东西",
+        "rank":  389
+    },
+    {
+        "lemma":  "short",
+        "surface":  "short",
+        "meaning":  "n. 短；缺乏；短路；短裤\nadj. 短的；不足的；矮的，低的\nadv. 不足；突然；唐突地",
+        "rank":  390
+    },
+    {
+        "lemma":  "shorts",
+        "surface":  "shorts",
+        "meaning":  "n. 短裤",
+        "rank":  391
+    },
+    {
+        "lemma":  "should",
+        "surface":  "should",
+        "meaning":  "aux. 应该；就；可能；将要",
+        "rank":  392
+    },
+    {
+        "lemma":  "show",
+        "surface":  "show",
+        "meaning":  "n. 显示；表演；炫耀\nvt. 显示；说明；演出；展出\nvi. 显示；说明；指示",
+        "rank":  393
+    },
+    {
+        "lemma":  "sing",
+        "surface":  "sing",
+        "meaning":  "n. 演唱；鸣声；呼啸声\nvt. 唱；用诗赞颂；唱着使\nvi. 唱歌；歌颂；鸣叫；呼号",
+        "rank":  394
+    },
+    {
+        "lemma":  "sister",
+        "surface":  "sister",
+        "meaning":  "n. 姐妹；（称志同道合者）姐妹；修女；护士\nadj. 姐妹般的；同类型的",
+        "rank":  395
+    },
+    {
+        "lemma":  "sit",
+        "surface":  "sit",
+        "meaning":  "vi. 坐；位于\nvt. 使就座",
+        "rank":  396
+    },
+    {
+        "lemma":  "skirt",
+        "surface":  "skirt",
+        "meaning":  "n. 裙子\nvt. 绕过，回避；位于…边缘\nvi. 沿边走，绕开；环绕",
+        "rank":  397
+    },
+    {
+        "lemma":  "sleep",
+        "surface":  "sleep",
+        "meaning":  "n. 睡眠\nvi. 睡，睡觉",
+        "rank":  398
+    },
+    {
+        "lemma":  "slow",
+        "surface":  "slow",
+        "meaning":  "adj. 慢的；减速的；迟钝的\nvt. 放慢；阻碍\nvi. 变慢；变萧条\nadv. 慢慢地；迟缓地",
+        "rank":  399
+    },
+    {
+        "lemma":  "small",
+        "surface":  "small",
+        "meaning":  "n. 小件物品；矮小的人\nadj. 少的，小的；微弱的；几乎没有的；不重要的；幼小的\nadv. 小小地；卑鄙地",
+        "rank":  400
+    },
+    {
+        "lemma":  "snow",
+        "surface":  "snow",
+        "meaning":  "n. 雪，积雪；下雪\nvt. 使纷纷落下；使变白\nvi. 降雪",
+        "rank":  401
+    },
+    {
+        "lemma":  "so",
+        "surface":  "so",
+        "meaning":  "conj. 所以；因此\nadv. 如此，这么；确是如此\npron. 这样",
+        "rank":  402
+    },
+    {
+        "lemma":  "sock",
+        "surface":  "sock",
+        "meaning":  "vt. 重击；给……穿袜\nn. 短袜；一击\nadv. 正着地；不偏不倚地\nadj. 非常成功的",
+        "rank":  403
+    },
+    {
+        "lemma":  "some",
+        "surface":  "some",
+        "meaning":  "adj. 一些；某个；大约；相当多的\npron. 一些；若干；其中的一部分；（数量不确切时用）有些人\nadv. 非常；相当；\u003c美\u003e稍微",
+        "rank":  404
+    },
+    {
+        "lemma":  "sometimes",
+        "surface":  "sometimes",
+        "meaning":  "adv. 有时，间或",
+        "rank":  405
+    },
+    {
+        "lemma":  "song",
+        "surface":  "song",
+        "meaning":  "n. 歌曲；歌唱；诗歌；鸣声",
+        "rank":  406
+    },
+    {
+        "lemma":  "sorry",
+        "surface":  "sorry",
+        "meaning":  "adj. 遗憾的；对不起的，抱歉的\nint. 对不起，抱歉（表示委婉的拒绝等）",
+        "rank":  407
+    },
+    {
+        "lemma":  "soup",
+        "surface":  "soup",
+        "meaning":  "n. 汤，羹；马力\nvt. 加速；增加马力",
+        "rank":  408
+    },
+    {
+        "lemma":  "space",
+        "surface":  "space",
+        "meaning":  "n. 空间；太空；距离\nvt. 隔开\nvi. 留间隔",
+        "rank":  409
+    },
+    {
+        "lemma":  "speak",
+        "surface":  "speak",
+        "meaning":  "vi. 说话；演讲；表明；陈述\nvt. 讲话；发言；讲演",
+        "rank":  410
+    },
+    {
+        "lemma":  "sport",
+        "surface":  "sport",
+        "meaning":  "n. 运动；游戏；娱乐；运动会；玩笑\nadj. 运动的\nvt. 游戏；参加体育运动；夸耀\nvi. 游戏",
+        "rank":  411
+    },
+    {
+        "lemma":  "spring",
+        "surface":  "spring",
+        "meaning":  "n. 春天；弹簧；泉水；活力；跳跃\nadj. 春天的\nvt. 使跳起；使爆炸；突然提出；使弹开\nvi. 生长；涌出；跃出；裂开",
+        "rank":  412
+    },
+    {
+        "lemma":  "stand",
+        "surface":  "stand",
+        "meaning":  "n. 站立；立场；看台；停止\nvi. 站立；位于；停滞\nvt. 使站立；忍受；抵抗",
+        "rank":  413
+    },
+    {
+        "lemma":  "star",
+        "surface":  "star",
+        "meaning":  "n. 星，恒星；明星；星形物\nadj. 明星的，主角的；星形的\nvt. 用星号标于；由…主演，由…担任主角\nvi. 担任主角",
+        "rank":  414
+    },
+    {
+        "lemma":  "stop",
+        "surface":  "stop",
+        "meaning":  "n. 停止；车站；障碍；逗留\nvi. 停止；中止；逗留；被塞住\nvt. 停止；堵塞；断绝",
+        "rank":  415
+    },
+    {
+        "lemma":  "story",
+        "surface":  "story",
+        "meaning":  "n. 故事；小说；新闻报道；来历；假话\nvt. 用历史故事画装饰\nvi. 说谎",
+        "rank":  416
+    },
+    {
+        "lemma":  "street",
+        "surface":  "street",
+        "meaning":  "n. 街道\nadj. 街道的",
+        "rank":  417
+    },
+    {
+        "lemma":  "strong",
+        "surface":  "strong",
+        "meaning":  "adj. 坚强的；强壮的；牢固的；擅长的\nadv. 强劲地；猛烈地",
+        "rank":  418
+    },
+    {
+        "lemma":  "student",
+        "surface":  "student",
+        "meaning":  "n. 学生；学者",
+        "rank":  419
+    },
+    {
+        "lemma":  "study",
+        "surface":  "study",
+        "meaning":  "n. 学习，研究；课题；书房；学问\nvt. 学习；考虑；攻读；细察\nvi. 研究；用功",
+        "rank":  420
+    },
+    {
+        "lemma":  "subject",
+        "surface":  "subject",
+        "meaning":  "n. 主题；科目； 主语；国民\nadj. 服从的；易患…的；受制于…的\nvt. 使…隶属；使屈从于…",
+        "rank":  421
+    },
+    {
+        "lemma":  "summer",
+        "surface":  "summer",
+        "meaning":  "n. 夏季；全盛时期\nadj. 夏季的\nvi. 避暑；过夏天",
+        "rank":  422
+    },
+    {
+        "lemma":  "sun",
+        "surface":  "sun",
+        "meaning":  "n. 太阳\nvt. 使晒\nvi. 晒太阳",
+        "rank":  423
+    },
+    {
+        "lemma":  "sunny",
+        "surface":  "sunny",
+        "meaning":  "adj. 阳光充足的，和煦的；快活的；性情开朗的",
+        "rank":  424
+    },
+    {
+        "lemma":  "supermarket",
+        "surface":  "supermarket",
+        "meaning":  "n. 超级市场；自助售货商店",
+        "rank":  425
+    },
+    {
+        "lemma":  "sure",
+        "surface":  "sure",
+        "meaning":  "adj. 确信的；可靠的；必定的\nadv. 当然；的确",
+        "rank":  426
+    },
+    {
+        "lemma":  "sweater",
+        "surface":  "sweater",
+        "meaning":  "n. 毛线衣，运动衫；大量出汗的人，发汗剂",
+        "rank":  427
+    },
+    {
+        "lemma":  "sweep",
+        "surface":  "sweep",
+        "meaning":  "n. 打扫，扫除；范围；全胜\nvt. 扫除；猛拉；掸去\nvi. 扫，打扫；席卷；扫视；袭击",
+        "rank":  428
+    },
+    {
+        "lemma":  "swim",
+        "surface":  "swim",
+        "meaning":  "n. 游泳；漂浮；眩晕\nadj. 游泳时穿戴的\nvi. 游泳；漂浮；浸；眩晕\nvt. 游过；使浮起",
+        "rank":  429
+    },
+    {
+        "lemma":  "table",
+        "surface":  "table",
+        "meaning":  "n. 桌子；表格；平地层\nvt. 制表；搁置；嵌合\nadj. 桌子的",
+        "rank":  430
+    },
+    {
+        "lemma":  "tail",
+        "surface":  "tail",
+        "meaning":  "n. 尾巴；踪迹；辫子；燕尾服\nadj. 从后面而来的；尾部的\nvt. 尾随；装上尾巴\nvi. 跟踪；变少或缩小",
+        "rank":  431
+    },
+    {
+        "lemma":  "take",
+        "surface":  "take",
+        "meaning":  "vi. 拿；获得\nvt. 拿，取；采取；接受（礼物等）；买，花费；耗费（时间等）\nn. 捕获量；看法；利益，盈益；（入场券的）售得金额",
+        "rank":  432
+    },
+    {
+        "lemma":  "talk",
+        "surface":  "talk",
+        "meaning":  "n. 谈话；演讲；空谈\nvi. 谈话；说闲话\nvt. 说；谈话；讨论",
+        "rank":  433
+    },
+    {
+        "lemma":  "tall",
+        "surface":  "tall",
+        "meaning":  "adj. 高的；长的；过分的；夸大的\nadv. 夸大地",
+        "rank":  434
+    },
+    {
+        "lemma":  "taxi",
+        "surface":  "taxi",
+        "meaning":  "n. 出租汽车\nvt. 使滑行；用出租车送\nvi. 乘出租车；滑行",
+        "rank":  435
+    },
+    {
+        "lemma":  "tea",
+        "surface":  "tea",
+        "meaning":  "n. 茶叶；茶树；茶点\nvt. 给…沏茶\nvi. 喝茶；进茶点",
+        "rank":  436
+    },
+    {
+        "lemma":  "teacher",
+        "surface":  "teacher",
+        "meaning":  "n. 教师；导师",
+        "rank":  437
+    },
+    {
+        "lemma":  "tell",
+        "surface":  "tell",
+        "meaning":  "vt. 告诉，说；辨别；吩咐；断定\nvi. 讲述；告发，泄密；识别",
+        "rank":  438
+    },
+    {
+        "lemma":  "thank",
+        "surface":  "thank",
+        "meaning":  "n. 感谢\nvt. 感谢\nint. 谢谢",
+        "rank":  439
+    },
+    {
+        "lemma":  "that",
+        "surface":  "that",
+        "meaning":  "conj. 因为；以至于\nadj. 那；那个\npron. 那；那个\nadv. 那么；那样",
+        "rank":  440
+    },
+    {
+        "lemma":  "the",
+        "surface":  "the",
+        "meaning":  "art. 这；那\nadv. 更加（用于比较级，最高级前）",
+        "rank":  441
+    },
+    {
+        "lemma":  "their",
+        "surface":  "their",
+        "meaning":  "pron. 他们的，她们的；它们的",
+        "rank":  442
+    },
+    {
+        "lemma":  "them",
+        "surface":  "them",
+        "meaning":  "pron. 他们；它们；她们",
+        "rank":  443
+    },
+    {
+        "lemma":  "then",
+        "surface":  "then",
+        "meaning":  "conj. 然后，当时\nn. 那时\nadv. 然后；那么；于是；当时；此外",
+        "rank":  444
+    },
+    {
+        "lemma":  "there",
+        "surface":  "there",
+        "meaning":  "n. 那个地方\nadv. 在那里；在那边；在那点上\nint. 你瞧",
+        "rank":  445
+    },
+    {
+        "lemma":  "these",
+        "surface":  "these",
+        "meaning":  "adj. 这些的\npron. 这些",
+        "rank":  446
+    },
+    {
+        "lemma":  "they",
+        "surface":  "they",
+        "meaning":  "pron. 他们；它们；她们",
+        "rank":  447
+    },
+    {
+        "lemma":  "thin",
+        "surface":  "thin",
+        "meaning":  "n. 细小部分\nadj. 薄的；瘦的；稀薄的；微弱的\nvt. 使瘦；使淡；使稀疏\nvi. 变薄；变瘦；变淡\nadv. 稀疏地；微弱地",
+        "rank":  448
+    },
+    {
+        "lemma":  "think",
+        "surface":  "think",
+        "meaning":  "n. 想；想法\nadj. 思想的\nvi. 想；认为\nvt. 想；认为；想起；想像；打算",
+        "rank":  449
+    },
+    {
+        "lemma":  "this",
+        "surface":  "this",
+        "meaning":  "adj. 这；本；这个；今\npron. 这；这个；这里\nadv. 这样地；这么",
+        "rank":  450
+    },
+    {
+        "lemma":  "those",
+        "surface":  "those",
+        "meaning":  "adj. 那些的\npron. 那些（that的复数）",
+        "rank":  451
+    },
+    {
+        "lemma":  "tidy",
+        "surface":  "tidy",
+        "meaning":  "n. 椅子的背罩\nadj. 整齐的；相当大的\nvi. 整理；收拾\nvt. 整理；收拾；弄整齐",
+        "rank":  452
+    },
+    {
+        "lemma":  "tiger",
+        "surface":  "tiger",
+        "meaning":  "n. 老虎；凶暴的人",
+        "rank":  453
+    },
+    {
+        "lemma":  "time",
+        "surface":  "time",
+        "meaning":  "n. 时间；时代；次数；节拍；倍数\nadj. 定时的；定期的；分期的\nvt. 计时；测定…的时间；安排…的速度",
+        "rank":  454
+    },
+    {
+        "lemma":  "tired",
+        "surface":  "tired",
+        "meaning":  "v. 疲倦；对…腻烦（tire的过去分词形式）\nadj. 疲倦的；厌倦的，厌烦的",
+        "rank":  455
+    },
+    {
+        "lemma":  "to",
+        "surface":  "to",
+        "meaning":  "prep. 到；向；（表示时间、方向）朝…方向\nadv. 向前；（门等）关上",
+        "rank":  456
+    },
+    {
+        "lemma":  "today",
+        "surface":  "today",
+        "meaning":  "n. 今天；现今\nadv. 今天；现今",
+        "rank":  457
+    },
+    {
+        "lemma":  "toilet",
+        "surface":  "toilet",
+        "meaning":  "n. 厕所，盥洗室；梳妆，打扮\nvt. 给…梳妆打扮\nvi. 梳妆，打扮",
+        "rank":  458
+    },
+    {
+        "lemma":  "tomato",
+        "surface":  "tomato",
+        "meaning":  "n. 番茄，西红柿",
+        "rank":  459
+    },
+    {
+        "lemma":  "tomorrow",
+        "surface":  "tomorrow",
+        "meaning":  "n. 明天；未来\nadv. 明天；未来地（等于to-morrow）",
+        "rank":  460
+    },
+    {
+        "lemma":  "too",
+        "surface":  "too",
+        "meaning":  "adv. 太；也；很；还；非常；过度",
+        "rank":  461
+    },
+    {
+        "lemma":  "top",
+        "surface":  "top",
+        "meaning":  "n. 顶部，顶端；上部；首席；陀螺\nadj. 最高的，顶上的；头等的\nvt. 超越，超过；给…加盖；达到…的顶端\nvi. 高出，超越；结束；达到顶点",
+        "rank":  462
+    },
+    {
+        "lemma":  "toy",
+        "surface":  "toy",
+        "meaning":  "n. 玩具；小装饰品；不值钱的东西\nadj. 作为玩具的；玩物似的\nvi. 玩弄；调情；随随便便地对待",
+        "rank":  463
+    },
+    {
+        "lemma":  "train",
+        "surface":  "train",
+        "meaning":  "n. 火车；行列；长队；裙裾\nv. 培养；训练；瞄准",
+        "rank":  464
+    },
+    {
+        "lemma":  "travel",
+        "surface":  "travel",
+        "meaning":  "n. 旅行；游历；漫游\nvt. 经过；在…旅行\nvi. 旅行；行进；步行；交往",
+        "rank":  465
+    },
+    {
+        "lemma":  "tree",
+        "surface":  "tree",
+        "meaning":  "n. 树；木料；树状物\nvt. 把...赶上树\nvi. 爬上树；逃上树",
+        "rank":  466
+    },
+    {
+        "lemma":  "trousers",
+        "surface":  "trousers",
+        "meaning":  "n. 裤子，长裤",
+        "rank":  467
+    },
+    {
+        "lemma":  "try",
+        "surface":  "try",
+        "meaning":  "n. 尝试；努力；试验\nvt. 试图，努力；试验；审判；考验\nvi. 尝试；努力；试验",
+        "rank":  468
+    },
+    {
+        "lemma":  "turn",
+        "surface":  "turn",
+        "meaning":  "n. 转弯；变化；(损害或有益于别人的)行为，举动，举止\nvi. 转向；转变；转动\nvt. 转动，使旋转；转弯；翻过来；兑换",
+        "rank":  469
+    },
+    {
+        "lemma":  "tv",
+        "surface":  "TV",
+        "meaning":  "abbr. 电视（television）",
+        "rank":  470
+    },
+    {
+        "lemma":  "television",
+        "surface":  "television",
+        "meaning":  "n. 电视，电视机；电视业",
+        "rank":  471
+    },
+    {
+        "lemma":  "umbrella",
+        "surface":  "umbrella",
+        "meaning":  "n. 雨伞；保护伞；庇护；伞形结构",
+        "rank":  472
+    },
+    {
+        "lemma":  "uncle",
+        "surface":  "uncle",
+        "meaning":  "n. 叔叔；伯父；伯伯；舅父；姨丈；姑父",
+        "rank":  473
+    },
+    {
+        "lemma":  "under",
+        "surface":  "under",
+        "meaning":  "prep. 低于，少于；在...之下\nadj. 下面的；从属的\nadv. 在下面；在下方",
+        "rank":  474
+    },
+    {
+        "lemma":  "up",
+        "surface":  "up",
+        "meaning":  "prep. 在…之上；向…的较高处\nn. 上升；繁荣\nadj. 涨的；起床的；向上的\nadv. 起来；上涨；向上",
+        "rank":  475
+    },
+    {
+        "lemma":  "us",
+        "surface":  "us",
+        "meaning":  "pron. 我们",
+        "rank":  476
+    },
+    {
+        "lemma":  "use",
+        "surface":  "use",
+        "meaning":  "n. 使用；用途；发挥\nvt. 利用；耗费\nvi. 使用，运用",
+        "rank":  477
+    },
+    {
+        "lemma":  "vegetable",
+        "surface":  "vegetable",
+        "meaning":  "n. 蔬菜；植物；植物人\nadj. 蔬菜的；植物的",
+        "rank":  478
+    },
+    {
+        "lemma":  "very",
+        "surface":  "very",
+        "meaning":  "adv. 非常，很；完全\nadj. 恰好是，正是；甚至；十足的；特有的",
+        "rank":  479
+    },
+    {
+        "lemma":  "visit",
+        "surface":  "visit",
+        "meaning":  "n. 访问；参观；逗留\nvt. 访问；参观；视察\nvi. 访问；暂住；闲谈",
+        "rank":  480
+    },
+    {
+        "lemma":  "wait",
+        "surface":  "wait",
+        "meaning":  "n. 等待；等候\nvi. 等待；耽搁；伺候用餐\nvt. 等候；推迟；延缓",
+        "rank":  481
+    },
+    {
+        "lemma":  "wake",
+        "surface":  "wake",
+        "meaning":  "n. 尾迹；守夜；守丧\nvt. 叫醒；激发\nvi. 醒来；唤醒；警觉",
+        "rank":  482
+    },
+    {
+        "lemma":  "walk",
+        "surface":  "walk",
+        "meaning":  "n. 步行，走；散步\nvi. 走，步行；散步\nvt. 散步；走过",
+        "rank":  483
+    },
+    {
+        "lemma":  "wall",
+        "surface":  "wall",
+        "meaning":  "n. 墙壁，围墙；似墙之物\nadj. 墙壁的\nvt. 用墙围住，围以墙",
+        "rank":  484
+    },
+    {
+        "lemma":  "want",
+        "surface":  "want",
+        "meaning":  "n. 需要；缺乏；贫困；必需品\nvt. 需要；希望；应该；缺少\nvi. 需要；缺少",
+        "rank":  485
+    },
+    {
+        "lemma":  "warm",
+        "surface":  "warm",
+        "meaning":  "n. 取暖；加热\nadj. 温暖的；热情的\nvt. 使…兴奋；使…温暖；使…感兴趣\nvi. 同情；激动；变温暖",
+        "rank":  486
+    },
+    {
+        "lemma":  "wash",
+        "surface":  "wash",
+        "meaning":  "n. 洗涤；洗的衣服；化妆水；冲积物\nvt. 洗涤；洗刷；冲走；拍打\nvi. 洗澡；被冲蚀",
+        "rank":  487
+    },
+    {
+        "lemma":  "watch",
+        "surface":  "watch",
+        "meaning":  "n. 手表；监视；守护；值班人\nvt. 观察；注视；看守；警戒\nvi. 观看，注视；守侯，看守",
+        "rank":  488
+    },
+    {
+        "lemma":  "water",
+        "surface":  "water",
+        "meaning":  "n. 水；海水；雨水；海域，大片的水\nvt. 使湿；供以水；给…浇水\nvi. 加水；流泪；流口水",
+        "rank":  489
+    },
+    {
+        "lemma":  "way",
+        "surface":  "way",
+        "meaning":  "n. 方法；道路；方向；行业；习惯\nadj. 途中的\nadv. 大大地；远远地",
+        "rank":  490
+    },
+    {
+        "lemma":  "we",
+        "surface":  "we",
+        "meaning":  "pron. 我们（主格）；笔者，本人（作者或演讲人使用）；朕，寡人",
+        "rank":  491
+    },
+    {
+        "lemma":  "wear",
+        "surface":  "wear",
+        "meaning":  "n. 衣物；磨损；耐久性\nv. 穿着；用旧；耗损；面露",
+        "rank":  492
+    },
+    {
+        "lemma":  "weather",
+        "surface":  "weather",
+        "meaning":  "n. 天气；气象；气候；处境\nvt. 经受住；使风化；侵蚀；使受风吹雨打\nadj. 露天的；迎风的\nvi. 风化；受侵蚀；经受风雨",
+        "rank":  493
+    },
+    {
+        "lemma":  "week",
+        "surface":  "week",
+        "meaning":  "n. 周，星期",
+        "rank":  494
+    },
+    {
+        "lemma":  "welcome",
+        "surface":  "welcome",
+        "meaning":  "n. 欢迎\nvt. 欢迎\nadj. 受欢迎的\nint. 欢迎",
+        "rank":  495
+    },
+    {
+        "lemma":  "well",
+        "surface":  "well",
+        "meaning":  "n. 井；源泉\nadj. 良好的；健康的；适宜的\nadv. 很好地；充分地；满意地；适当地\nv. 涌出",
+        "rank":  496
+    },
+    {
+        "lemma":  "what",
+        "surface":  "what",
+        "meaning":  "pron. 什么；多么；多少\nadv. 到什么程度，在哪一方面\nadj. 什么；多么；何等\nint. 什么；多么",
+        "rank":  497
+    },
+    {
+        "lemma":  "when",
+        "surface":  "when",
+        "meaning":  "conj. 考虑到；既然；当…时；在…时；如果\nn. 时间，时候；日期；场合\nadv. 什么时候，何时；（用于时间的表达方式之后）在那时；其时；当时\npron. 那时；什么时侯",
+        "rank":  498
+    },
+    {
+        "lemma":  "where",
+        "surface":  "where",
+        "meaning":  "conj. 在…的地方\nn. 地点\nadv. 在哪里\npron. 哪里",
+        "rank":  499
+    },
+    {
+        "lemma":  "which",
+        "surface":  "which",
+        "meaning":  "adj. 哪一个；哪一些\npron. 哪/那一个；哪/那一些",
+        "rank":  500
+    },
+    {
+        "lemma":  "white",
+        "surface":  "white",
+        "meaning":  "n. 白色；洁白；白种人\nadj. 白色的；白种的；纯洁的",
+        "rank":  501
+    },
+    {
+        "lemma":  "who",
+        "surface":  "who",
+        "meaning":  "pron. 谁；什么人",
+        "rank":  502
+    },
+    {
+        "lemma":  "whose",
+        "surface":  "whose",
+        "meaning":  "pron. 谁的（疑问代词）",
+        "rank":  503
+    },
+    {
+        "lemma":  "why",
+        "surface":  "why",
+        "meaning":  "int. 哎呀！什么？\nadv. 为什么",
+        "rank":  504
+    },
+    {
+        "lemma":  "will",
+        "surface":  "will",
+        "meaning":  "n. 意志；决心；情感；遗嘱；意图；心愿\nvt. 决心要；遗赠；用意志力使\nvi. 愿意；下决心\naux. 将；愿意；必须",
+        "rank":  505
+    },
+    {
+        "lemma":  "win",
+        "surface":  "win",
+        "meaning":  "n. 赢；胜利\nvt. 赢得；在…中获胜；劝诱\nvi. 赢；获胜；成功",
+        "rank":  506
+    },
+    {
+        "lemma":  "window",
+        "surface":  "window",
+        "meaning":  "n. 窗；窗口；窗户",
+        "rank":  507
+    },
+    {
+        "lemma":  "windy",
+        "surface":  "windy",
+        "meaning":  "adj. 多风的，有风的；腹胀的；吹牛的",
+        "rank":  508
+    },
+    {
+        "lemma":  "winter",
+        "surface":  "winter",
+        "meaning":  "n. 冬季；年岁；萧条期\nadj. 冬天的；越冬的\nvi. 过冬",
+        "rank":  509
+    },
+    {
+        "lemma":  "wish",
+        "surface":  "wish",
+        "meaning":  "n. 希望；祝福；心愿\nvt. 祝愿；渴望；向…致问候语\nvi. 愿望；需要",
+        "rank":  510
+    },
+    {
+        "lemma":  "with",
+        "surface":  "with",
+        "meaning":  "prep. 用；随着；支持；和…在一起",
+        "rank":  511
+    },
+    {
+        "lemma":  "woman",
+        "surface":  "woman",
+        "meaning":  "n. 妇女；女性；成年女子",
+        "rank":  512
+    },
+    {
+        "lemma":  "women",
+        "surface":  "women",
+        "meaning":  "n. 女人（woman的复数）",
+        "rank":  513
+    },
+    {
+        "lemma":  "wonderful",
+        "surface":  "wonderful",
+        "meaning":  "adj. 极好的，精彩的，绝妙的；奇妙的；美妙；胜；神妙",
+        "rank":  514
+    },
+    {
+        "lemma":  "word",
+        "surface":  "word",
+        "meaning":  "n.  单词；话语；消息；诺言；命令\nvt. 用言辞表达",
+        "rank":  515
+    },
+    {
+        "lemma":  "work",
+        "surface":  "work",
+        "meaning":  "n. 工作； 功；产品；操作；职业；行为；事业；工厂；著作；文学、音乐或艺术作品\nvt. 使工作；操作；经营；使缓慢前进\nvi. 工作；运作；起作用",
+        "rank":  516
+    },
+    {
+        "lemma":  "worker",
+        "surface":  "worker",
+        "meaning":  "n. 工人；劳动者；职蚁",
+        "rank":  517
+    },
+    {
+        "lemma":  "world",
+        "surface":  "world",
+        "meaning":  "n. 世界；领域；世俗；全人类；物质生活",
+        "rank":  518
+    },
+    {
+        "lemma":  "worry",
+        "surface":  "worry",
+        "meaning":  "n. 担心；烦恼；撕咬\nvi. 担心；烦恼；撕咬\nvt. 担心；发愁；折磨",
+        "rank":  519
+    },
+    {
+        "lemma":  "write",
+        "surface":  "write",
+        "meaning":  "vi. 写，写字；写作，作曲；写信\nvt. 写，书写；写信给；著述",
+        "rank":  520
+    },
+    {
+        "lemma":  "wrong",
+        "surface":  "wrong",
+        "meaning":  "n. 坏事；不公正\nadj. 错误的；失常的；不适当的\nvt. 委屈；无理地对待；诽谤\nadv. 错误地；邪恶地，不正当地",
+        "rank":  521
+    },
+    {
+        "lemma":  "year",
+        "surface":  "year",
+        "meaning":  "n. 年；年度；历年；年纪；一年的期间；某年级的学生",
+        "rank":  522
+    },
+    {
+        "lemma":  "yellow",
+        "surface":  "yellow",
+        "meaning":  "n. 黄色；黄种人；黄色颜料\nadj. 黄色的；黄皮肤的\nvt. 使变黄或发黄\nvi. 变黄或发黄",
+        "rank":  523
+    },
+    {
+        "lemma":  "yes",
+        "surface":  "yes",
+        "meaning":  "n. 是（表示肯定）\nadv. 是, 是的",
+        "rank":  524
+    },
+    {
+        "lemma":  "yesterday",
+        "surface":  "yesterday",
+        "meaning":  "n. 昨天；往昔\nadv. 昨天",
+        "rank":  525
+    },
+    {
+        "lemma":  "you",
+        "surface":  "you",
+        "meaning":  "pron. 你；你们",
+        "rank":  526
+    },
+    {
+        "lemma":  "young",
+        "surface":  "young",
+        "meaning":  "n. 年轻人；（动物的）崽，仔\nadj. 年轻的；初期的；没有经验的",
+        "rank":  527
+    },
+    {
+        "lemma":  "your",
+        "surface":  "your",
+        "meaning":  "pron. 你的，你们的",
+        "rank":  528
+    },
+    {
+        "lemma":  "zoo",
+        "surface":  "zoo",
+        "meaning":  "n. 动物园; \u003c美俚\u003e（铁路货车的最后一节）守车; \u003c美俚\u003e核粒子园",
+        "rank":  529
+    }
+]

@@ -1,0 +1,6164 @@
+﻿[
+    {
+        "lemma":  "abstract factory",
+        "surface":  "Abstract Factory",
+        "meaning":  "抽象工厂",
+        "rank":  1
+    },
+    {
+        "lemma":  "abstract factory pattern",
+        "surface":  "Abstract Factory Pattern",
+        "meaning":  "抽象工厂模式",
+        "rank":  2
+    },
+    {
+        "lemma":  "abstraction layer",
+        "surface":  "abstraction layer",
+        "meaning":  "抽象层",
+        "rank":  3
+    },
+    {
+        "lemma":  "access",
+        "surface":  "access",
+        "meaning":  "获取，存取",
+        "rank":  4
+    },
+    {
+        "lemma":  "access modifier",
+        "surface":  "access modifier",
+        "meaning":  "访问修饰符",
+        "rank":  5
+    },
+    {
+        "lemma":  "acoustic coupler",
+        "surface":  "acoustic coupler",
+        "meaning":  "声音耦合器",
+        "rank":  6
+    },
+    {
+        "lemma":  "active directory",
+        "surface":  "Active Directory",
+        "meaning":  "活动目录",
+        "rank":  7
+    },
+    {
+        "lemma":  "acyclic dependencies principle",
+        "surface":  "Acyclic Dependencies Principle",
+        "meaning":  "非循环依赖原则（ADP）",
+        "rank":  8
+    },
+    {
+        "lemma":  "acyclic digraph",
+        "surface":  "acyclic digraph",
+        "meaning":  "有向无环图",
+        "rank":  9
+    },
+    {
+        "lemma":  "adapter",
+        "surface":  "Adapter",
+        "meaning":  "适配器",
+        "rank":  10
+    },
+    {
+        "lemma":  "adapter pattern",
+        "surface":  "Adapter Pattern",
+        "meaning":  "适配器模式",
+        "rank":  11
+    },
+    {
+        "lemma":  "adaptive code",
+        "surface":  "Adaptive Code",
+        "meaning":  "自适应代码",
+        "rank":  12
+    },
+    {
+        "lemma":  "add parameter",
+        "surface":  "Add Parameter",
+        "meaning":  "添加参数",
+        "rank":  13
+    },
+    {
+        "lemma":  "adsl",
+        "surface":  "ADSL",
+        "meaning":  "Asymmetrical Dingital Subscriber Loop，非对称数字用户环线",
+        "rank":  14
+    },
+    {
+        "lemma":  "affinity",
+        "surface":  "affinity",
+        "meaning":  "绑定",
+        "rank":  15
+    },
+    {
+        "lemma":  "affinity group",
+        "surface":  "affinity group",
+        "meaning":  "地缘组",
+        "rank":  16
+    },
+    {
+        "lemma":  "agent",
+        "surface":  "agent",
+        "meaning":  "代理",
+        "rank":  17
+    },
+    {
+        "lemma":  "agent-based interface",
+        "surface":  "agent-based interface",
+        "meaning":  "代理人界面",
+        "rank":  18
+    },
+    {
+        "lemma":  "aggregate",
+        "surface":  "Aggregate",
+        "meaning":  "聚合",
+        "rank":  19
+    },
+    {
+        "lemma":  "aggregate root",
+        "surface":  "Aggregate Root",
+        "meaning":  "聚合根",
+        "rank":  20
+    },
+    {
+        "lemma":  "agile",
+        "surface":  "Agile",
+        "meaning":  "敏捷方法论",
+        "rank":  21
+    },
+    {
+        "lemma":  "agile practice",
+        "surface":  "agile practice",
+        "meaning":  "敏捷实践",
+        "rank":  22
+    },
+    {
+        "lemma":  "agile process",
+        "surface":  "agile process",
+        "meaning":  "敏捷流程",
+        "rank":  23
+    },
+    {
+        "lemma":  "agility",
+        "surface":  "agility",
+        "meaning":  "敏捷性",
+        "rank":  24
+    },
+    {
+        "lemma":  "ai",
+        "surface":  "AI",
+        "meaning":  "Artificial Intelligence，人工智能",
+        "rank":  25
+    },
+    {
+        "lemma":  "air waves",
+        "surface":  "air waves",
+        "meaning":  "无线电波",
+        "rank":  26
+    },
+    {
+        "lemma":  "algorithm",
+        "surface":  "algorithm",
+        "meaning":  "算法",
+        "rank":  27
+    },
+    {
+        "lemma":  "algorithm-of-thought",
+        "surface":  "Algorithm-of-Thought",
+        "meaning":  "思维算法（AoT） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  28
+    },
+    {
+        "lemma":  "analog",
+        "surface":  "analog",
+        "meaning":  "模拟的",
+        "rank":  29
+    },
+    {
+        "lemma":  "animation",
+        "surface":  "animation",
+        "meaning":  "动画",
+        "rank":  30
+    },
+    {
+        "lemma":  "annotation",
+        "surface":  "annotation",
+        "meaning":  "注解，注释",
+        "rank":  31
+    },
+    {
+        "lemma":  "answering machine",
+        "surface":  "answering machine",
+        "meaning":  "电话应答机",
+        "rank":  32
+    },
+    {
+        "lemma":  "antenna",
+        "surface":  "antenna",
+        "meaning":  "天线",
+        "rank":  33
+    },
+    {
+        "lemma":  "anti-pattern",
+        "surface":  "anti-pattern",
+        "meaning":  "反模式",
+        "rank":  34
+    },
+    {
+        "lemma":  "aot",
+        "surface":  "AoT",
+        "meaning":  "思维算法（Algorithm-of-Thought） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  35
+    },
+    {
+        "lemma":  "apm",
+        "surface":  "APM",
+        "meaning":  "异步编程模型（Asynchronous Programming Model）",
+        "rank":  36
+    },
+    {
+        "lemma":  "apocalyptic defect",
+        "surface":  "Apocalyptic defect",
+        "meaning":  "灾难缺陷",
+        "rank":  37
+    },
+    {
+        "lemma":  "application",
+        "surface":  "application",
+        "meaning":  "应用，应用程序，应用软件",
+        "rank":  38
+    },
+    {
+        "lemma":  "application life cycle",
+        "surface":  "application life cycle",
+        "meaning":  "应用程序生命周期",
+        "rank":  39
+    },
+    {
+        "lemma":  "application pool",
+        "surface":  "application pool",
+        "meaning":  "应用程序池",
+        "rank":  40
+    },
+    {
+        "lemma":  "application programming interface",
+        "surface":  "Application Programming Interface",
+        "meaning":  "应用程序编程接口（API），目的是提供应用程序与开发人员基于某软件或硬件得以访问一组例程的能力，而又无需访问源码，或理解内部工作机制的细节。",
+        "rank":  41
+    },
+    {
+        "lemma":  "application service",
+        "surface":  "Application Service",
+        "meaning":  "应用服务",
+        "rank":  42
+    },
+    {
+        "lemma":  "arbitrary error",
+        "surface":  "arbitrary error",
+        "meaning":  "任意错误",
+        "rank":  43
+    },
+    {
+        "lemma":  "architecture",
+        "surface":  "architecture",
+        "meaning":  "体系机构，结构",
+        "rank":  44
+    },
+    {
+        "lemma":  "architecture decay",
+        "surface":  "architecture decay",
+        "meaning":  "架构腐坏",
+        "rank":  45
+    },
+    {
+        "lemma":  "architecture style",
+        "surface":  "Architecture Style",
+        "meaning":  "架构风格",
+        "rank":  46
+    },
+    {
+        "lemma":  "arpa",
+        "surface":  "ARPA",
+        "meaning":  "Advanced Research Projects Agency，（美国国防部）高级研究计划署",
+        "rank":  47
+    },
+    {
+        "lemma":  "arpanet",
+        "surface":  "ARPAnet",
+        "meaning":  "ARPA 网",
+        "rank":  48
+    },
+    {
+        "lemma":  "arrange-act-assert",
+        "surface":  "Arrange-Act-Assert",
+        "meaning":  "准备-执行-断言（AAA）",
+        "rank":  49
+    },
+    {
+        "lemma":  "artifact",
+        "surface":  "artifact",
+        "meaning":  "构建物\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  50
+    },
+    {
+        "lemma":  "asf",
+        "surface":  "ASF",
+        "meaning":  "Apache Software Foundation 的简写",
+        "rank":  51
+    },
+    {
+        "lemma":  "aspect-oriented programming",
+        "surface":  "Aspect-Oriented Programming",
+        "meaning":  "面向切面编程（AOP）",
+        "rank":  52
+    },
+    {
+        "lemma":  "aspect ratio",
+        "surface":  "aspect ratio",
+        "meaning":  "屏幕高宽比",
+        "rank":  53
+    },
+    {
+        "lemma":  "assembly",
+        "surface":  "assembly",
+        "meaning":  "程序集",
+        "rank":  54
+    },
+    {
+        "lemma":  "associative array",
+        "surface":  "associative array",
+        "meaning":  "关联数组",
+        "rank":  55
+    },
+    {
+        "lemma":  "asynchronous programming model",
+        "surface":  "Asynchronous Programming Model",
+        "meaning":  "异步编程模型（APM）",
+        "rank":  56
+    },
+    {
+        "lemma":  "atm",
+        "surface":  "ATM",
+        "meaning":  "asynchronous transfer mode，异步传输模式",
+        "rank":  57
+    },
+    {
+        "lemma":  "atomic operation",
+        "surface":  "atomic operation",
+        "meaning":  "原子操作",
+        "rank":  58
+    },
+    {
+        "lemma":  "atomic transaction",
+        "surface":  "atomic transaction",
+        "meaning":  "原子事务",
+        "rank":  59
+    },
+    {
+        "lemma":  "atomicity",
+        "surface":  "atomicity",
+        "meaning":  "原子性",
+        "rank":  60
+    },
+    {
+        "lemma":  "attribute",
+        "surface":  "attribute",
+        "meaning":  "特性（C#）、属性（Java 等）",
+        "rank":  61
+    },
+    {
+        "lemma":  "augmented reality",
+        "surface":  "augmented reality",
+        "meaning":  "增强实现（AR）",
+        "rank":  62
+    },
+    {
+        "lemma":  "authentication",
+        "surface":  "authentication",
+        "meaning":  "身份验证",
+        "rank":  63
+    },
+    {
+        "lemma":  "authorization",
+        "surface":  "authorization",
+        "meaning":  "授权",
+        "rank":  64
+    },
+    {
+        "lemma":  "auto-generated properties",
+        "surface":  "auto-generated properties",
+        "meaning":  "自动生成的属性",
+        "rank":  65
+    },
+    {
+        "lemma":  "automated unit testing",
+        "surface":  "automated unit testing",
+        "meaning":  "自动化单元测试",
+        "rank":  66
+    },
+    {
+        "lemma":  "automation",
+        "surface":  "automation",
+        "meaning":  "自动化",
+        "rank":  67
+    },
+    {
+        "lemma":  "autonomous",
+        "surface":  "autonomous",
+        "meaning":  "独立性",
+        "rank":  68
+    },
+    {
+        "lemma":  "auxiliary database",
+        "surface":  "auxiliary database",
+        "meaning":  "辅助数据库",
+        "rank":  69
+    },
+    {
+        "lemma":  "availability",
+        "surface":  "availability",
+        "meaning":  "可用性",
+        "rank":  70
+    },
+    {
+        "lemma":  "availability set",
+        "surface":  "availability set",
+        "meaning":  "可用性集",
+        "rank":  71
+    },
+    {
+        "lemma":  "azs",
+        "surface":  "AZs",
+        "meaning":  "可用性区域（Availability Zones，亚马逊 AWS 中数据中心的叫法）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  72
+    },
+    {
+        "lemma":  "baas",
+        "surface":  "BaaS",
+        "meaning":  "Battery as a Service，电池即服务（电池租用商业模式）",
+        "rank":  73
+    },
+    {
+        "lemma":  "backend as a service",
+        "surface":  "Backend as a Service",
+        "meaning":  "后端即服务（BaaS）",
+        "rank":  74
+    },
+    {
+        "lemma":  "backpane",
+        "surface":  "backpane",
+        "meaning":  "底板",
+        "rank":  75
+    },
+    {
+        "lemma":  "backward compatibility",
+        "surface":  "backward compatibility",
+        "meaning":  "向后兼容性",
+        "rank":  76
+    },
+    {
+        "lemma":  "bandwidth",
+        "surface":  "bandwidth",
+        "meaning":  "带宽",
+        "rank":  77
+    },
+    {
+        "lemma":  "bar code",
+        "surface":  "bar code",
+        "meaning":  "条形码",
+        "rank":  78
+    },
+    {
+        "lemma":  "base class library",
+        "surface":  "Base Class Library",
+        "meaning":  "基类库（BCL）",
+        "rank":  79
+    },
+    {
+        "lemma":  "baseline",
+        "surface":  "baseline",
+        "meaning":  "准线",
+        "rank":  80
+    },
+    {
+        "lemma":  "baud",
+        "surface":  "baud",
+        "meaning":  "波特",
+        "rank":  81
+    },
+    {
+        "lemma":  "bcl",
+        "surface":  "BCL",
+        "meaning":  "基类库（Base Class Library）",
+        "rank":  82
+    },
+    {
+        "lemma":  "bear",
+        "surface":  "bear",
+        "meaning":  "熊",
+        "rank":  83
+    },
+    {
+        "lemma":  "behavior",
+        "surface":  "behavior",
+        "meaning":  "行为",
+        "rank":  84
+    },
+    {
+        "lemma":  "behavior preserving program transformations",
+        "surface":  "behavior preserving program transformations",
+        "meaning":  "行为保留式程序转换\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  85
+    },
+    {
+        "lemma":  "behavioral design patterns",
+        "surface":  "Behavioral Design Patterns",
+        "meaning":  "行为性设计模式",
+        "rank":  86
+    },
+    {
+        "lemma":  "behavioral error",
+        "surface":  "Behavioral error",
+        "meaning":  "行为错误",
+        "rank":  87
+    },
+    {
+        "lemma":  "bert",
+        "surface":  "BERT",
+        "meaning":  "Bidirectional Encoder Representations from Transformers，谷歌公司的 LLM，对 NLP 研究产生了重大影响。该模型使用双向方法从一个词的左右两边捕捉上下文，使得各种任务的性能提高，如情感分析和命名实体识别。",
+        "rank":  88
+    },
+    {
+        "lemma":  "bff",
+        "surface":  "BFF",
+        "meaning":  "为前端服务的后端（Backends For Frontends）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  89
+    },
+    {
+        "lemma":  "bfs",
+        "surface":  "BFS",
+        "meaning":  "广度优先搜索",
+        "rank":  90
+    },
+    {
+        "lemma":  "big ball of mud",
+        "surface":  "Big Ball of Mud",
+        "meaning":  "大泥球（BBM）",
+        "rank":  91
+    },
+    {
+        "lemma":  "big data",
+        "surface":  "big data",
+        "meaning":  "大数据",
+        "rank":  92
+    },
+    {
+        "lemma":  "big design up front",
+        "surface":  "Big Design Up Front",
+        "meaning":  "大优先设计（BDUF）",
+        "rank":  93
+    },
+    {
+        "lemma":  "binary",
+        "surface":  "binary",
+        "meaning":  "二进制的",
+        "rank":  94
+    },
+    {
+        "lemma":  "binochlar",
+        "surface":  "binochlar",
+        "meaning":  "双目并用的",
+        "rank":  95
+    },
+    {
+        "lemma":  "bit",
+        "surface":  "bit",
+        "meaning":  "比特",
+        "rank":  96
+    },
+    {
+        "lemma":  "bit-field",
+        "surface":  "Bit-field",
+        "meaning":  "位域",
+        "rank":  97
+    },
+    {
+        "lemma":  "bitnik",
+        "surface":  "bitnik",
+        "meaning":  "比特族",
+        "rank":  98
+    },
+    {
+        "lemma":  "blob",
+        "surface":  "blob",
+        "meaning":  "BLOB",
+        "rank":  99
+    },
+    {
+        "lemma":  "block",
+        "surface":  "block",
+        "meaning":  "阻断",
+        "rank":  100
+    },
+    {
+        "lemma":  "block blob",
+        "surface":  "block blob",
+        "meaning":  "块 BLOB",
+        "rank":  101
+    },
+    {
+        "lemma":  "blockchain as a service",
+        "surface":  "Blockchain as a Service",
+        "meaning":  "区块链即服务（BaaS）",
+        "rank":  102
+    },
+    {
+        "lemma":  "bottleneck",
+        "surface":  "bottleneck",
+        "meaning":  "瓶颈",
+        "rank":  103
+    },
+    {
+        "lemma":  "bounded context",
+        "surface":  "bounded context",
+        "meaning":  "边界上下文、界限上下文\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  104
+    },
+    {
+        "lemma":  "box",
+        "surface":  "box",
+        "meaning":  "装箱",
+        "rank":  105
+    },
+    {
+        "lemma":  "bps",
+        "surface":  "bps",
+        "meaning":  "bits per second，比特/秒",
+        "rank":  106
+    },
+    {
+        "lemma":  "brainstorming",
+        "surface":  "Brainstorming",
+        "meaning":  "头脑风暴（脑暴）",
+        "rank":  107
+    },
+    {
+        "lemma":  "brd",
+        "surface":  "BRD",
+        "meaning":  "商业需求文档（Business Requirements Document）",
+        "rank":  108
+    },
+    {
+        "lemma":  "breakpoint",
+        "surface":  "breakpoint",
+        "meaning":  "断点",
+        "rank":  109
+    },
+    {
+        "lemma":  "bridge",
+        "surface":  "Bridge",
+        "meaning":  "桥接",
+        "rank":  110
+    },
+    {
+        "lemma":  "bridge pattern",
+        "surface":  "Bridge Pattern",
+        "meaning":  "桥接模式",
+        "rank":  111
+    },
+    {
+        "lemma":  "broadcast",
+        "surface":  "broadcast",
+        "meaning":  "（无线电或电视）广播",
+        "rank":  112
+    },
+    {
+        "lemma":  "broken hierarchy",
+        "surface":  "Broken Hierarchy",
+        "meaning":  "支离破碎的层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  113
+    },
+    {
+        "lemma":  "broken modularization",
+        "surface":  "Broken Modularization",
+        "meaning":  "拆散的模块化\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  114
+    },
+    {
+        "lemma":  "brownfield project",
+        "surface":  "brownfield project",
+        "meaning":  "行进中项目",
+        "rank":  115
+    },
+    {
+        "lemma":  "browser object model",
+        "surface":  "Browser Object Model",
+        "meaning":  "浏览器对象模型（BOM）",
+        "rank":  116
+    },
+    {
+        "lemma":  "browser-server",
+        "surface":  "browser-server",
+        "meaning":  "浏览器-服务器",
+        "rank":  117
+    },
+    {
+        "lemma":  "bug",
+        "surface":  "bug",
+        "meaning":  "缺陷",
+        "rank":  118
+    },
+    {
+        "lemma":  "builder pattern",
+        "surface":  "Builder Pattern",
+        "meaning":  "建造者模式",
+        "rank":  119
+    },
+    {
+        "lemma":  "built-in",
+        "surface":  "built-in",
+        "meaning":  "内置的，内建的；嵌入的；内置",
+        "rank":  120
+    },
+    {
+        "lemma":  "bulkhead",
+        "surface":  "bulkhead",
+        "meaning":  "舱壁\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  121
+    },
+    {
+        "lemma":  "business intelligence",
+        "surface":  "business intelligence",
+        "meaning":  "商业智能，将企业中现有的数据进行有效的整合，快速准确地提供报表并提出决策依据，帮助企业做出明智的业务经营决策。",
+        "rank":  122
+    },
+    {
+        "lemma":  "business layer",
+        "surface":  "business layer",
+        "meaning":  "业务层",
+        "rank":  123
+    },
+    {
+        "lemma":  "business logic layer",
+        "surface":  "business logic layer",
+        "meaning":  "业务逻辑层",
+        "rank":  124
+    },
+    {
+        "lemma":  "business requirements document",
+        "surface":  "Business Requirements Document",
+        "meaning":  "商业需求文档（BRD）",
+        "rank":  125
+    },
+    {
+        "lemma":  "busy (status",
+        "surface":  "busy (status)",
+        "meaning":  "忙（状态）；繁忙（状态）",
+        "rank":  126
+    },
+    {
+        "lemma":  "byte",
+        "surface":  "byte",
+        "meaning":  "字节",
+        "rank":  127
+    },
+    {
+        "lemma":  "cable",
+        "surface":  "cable",
+        "meaning":  "电缆",
+        "rank":  128
+    },
+    {
+        "lemma":  "cache/caching",
+        "surface":  "Cache/Caching",
+        "meaning":  "缓存",
+        "rank":  129
+    },
+    {
+        "lemma":  "call stack",
+        "surface":  "call stack",
+        "meaning":  "调用堆栈",
+        "rank":  130
+    },
+    {
+        "lemma":  "callout box",
+        "surface":  "callout box",
+        "meaning":  "标注框",
+        "rank":  131
+    },
+    {
+        "lemma":  "camelcase",
+        "surface":  "camelCase",
+        "meaning":  "camel 大小写",
+        "rank":  132
+    },
+    {
+        "lemma":  "canary releasing",
+        "surface":  "canary releasing",
+        "meaning":  "金丝雀发布\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  133
+    },
+    {
+        "lemma":  "carbon copy",
+        "surface":  "carbon copy",
+        "meaning":  "复写本，副本；抄送（CC）",
+        "rank":  134
+    },
+    {
+        "lemma":  "carriage return",
+        "surface":  "carriage return",
+        "meaning":  "回车",
+        "rank":  135
+    },
+    {
+        "lemma":  "cascading style sheets",
+        "surface":  "Cascading Style Sheets",
+        "meaning":  "层叠样式表（CSS）",
+        "rank":  136
+    },
+    {
+        "lemma":  "catastrophic failover",
+        "surface":  "catastrophic failover",
+        "meaning":  "灾难性故障转移\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  137
+    },
+    {
+        "lemma":  "cd",
+        "surface":  "CD",
+        "meaning":  "持续交付（Continuous Delivery）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  138
+    },
+    {
+        "lemma":  "cdc",
+        "surface":  "CDC",
+        "meaning":  "消费者驱动的契约（Customer-Driven Contract）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  139
+    },
+    {
+        "lemma":  "cdn",
+        "surface":  "CDN",
+        "meaning":  "内容分发网络（Content Delivery Network）",
+        "rank":  140
+    },
+    {
+        "lemma":  "cell",
+        "surface":  "cell",
+        "meaning":  "单元",
+        "rank":  141
+    },
+    {
+        "lemma":  "cellular telephone",
+        "surface":  "cellular telephone",
+        "meaning":  "移动电话",
+        "rank":  142
+    },
+    {
+        "lemma":  "central processing unit",
+        "surface":  "Central Processing Unit",
+        "meaning":  "中央处理器（CPU）",
+        "rank":  143
+    },
+    {
+        "lemma":  "certificate",
+        "surface":  "certificate",
+        "meaning":  "（数字）证书",
+        "rank":  144
+    },
+    {
+        "lemma":  "certificate authority",
+        "surface":  "Certificate Authority",
+        "meaning":  "证书认证机构",
+        "rank":  145
+    },
+    {
+        "lemma":  "chain of responsibility",
+        "surface":  "Chain of Responsibility",
+        "meaning":  "责任链",
+        "rank":  146
+    },
+    {
+        "lemma":  "chain of responsibility pattern",
+        "surface":  "Chain of Responsibility Pattern",
+        "meaning":  "责任链模式",
+        "rank":  147
+    },
+    {
+        "lemma":  "chain-of-thought",
+        "surface":  "Chain-of-Thought",
+        "meaning":  "思维链（CoT） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  148
+    },
+    {
+        "lemma":  "chain-of-thought-self-consistency",
+        "surface":  "Chain-of-Thought-Self-Consistency",
+        "meaning":  "思维链自洽性 \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  149
+    },
+    {
+        "lemma":  "change bidirectional association to unidirectional",
+        "surface":  "Change Bidirectional Association to Unidirectional",
+        "meaning":  "将双向关联改为单向关联\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  150
+    },
+    {
+        "lemma":  "change point",
+        "surface":  "Change Point",
+        "meaning":  "修改点：需要往代码中引入修改的点",
+        "rank":  151
+    },
+    {
+        "lemma":  "change reference to value",
+        "surface":  "Change Reference to Value",
+        "meaning":  "将引用对象改为值对象\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  152
+    },
+    {
+        "lemma":  "change unidirectional association to bidirectional",
+        "surface":  "Change Unidirectional Association to Bidirectional",
+        "meaning":  "将单向关联改为双向关联\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  153
+    },
+    {
+        "lemma":  "change value to reference",
+        "surface":  "Change Value to Reference",
+        "meaning":  "将值对象改为引用对象\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  154
+    },
+    {
+        "lemma":  "channel",
+        "surface":  "channel",
+        "meaning":  "信道，频道",
+        "rank":  155
+    },
+    {
+        "lemma":  "character",
+        "surface":  "character",
+        "meaning":  "字符",
+        "rank":  156
+    },
+    {
+        "lemma":  "characterization test",
+        "surface":  "Characterization test",
+        "meaning":  "特征测试：描述软件某部分的当前行为的测试，当你修改代码时能够用来保持行为",
+        "rank":  157
+    },
+    {
+        "lemma":  "check in",
+        "surface":  "check in",
+        "meaning":  "签入",
+        "rank":  158
+    },
+    {
+        "lemma":  "check out",
+        "surface":  "check out",
+        "meaning":  "签出",
+        "rank":  159
+    },
+    {
+        "lemma":  "checksum",
+        "surface":  "checksum",
+        "meaning":  "校验和",
+        "rank":  160
+    },
+    {
+        "lemma":  "chip",
+        "surface":  "chip",
+        "meaning":  "芯片",
+        "rank":  161
+    },
+    {
+        "lemma":  "choreography",
+        "surface":  "choreography",
+        "meaning":  "协同",
+        "rank":  162
+    },
+    {
+        "lemma":  "ci",
+        "surface":  "CI",
+        "meaning":  "持续集成（Continuous Integration）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  163
+    },
+    {
+        "lemma":  "cipher",
+        "surface":  "cipher",
+        "meaning":  "密码",
+        "rank":  164
+    },
+    {
+        "lemma":  "claim",
+        "surface":  "claim",
+        "meaning":  "声明",
+        "rank":  165
+    },
+    {
+        "lemma":  "class definition",
+        "surface":  "class definition",
+        "meaning":  "类定义",
+        "rank":  166
+    },
+    {
+        "lemma":  "clean object-oriented and layered architecture",
+        "surface":  "Clean Object-oriented and Layered Architecture",
+        "meaning":  "整洁面向对象分层架构（COLA）",
+        "rank":  167
+    },
+    {
+        "lemma":  "cli",
+        "surface":  "CLI",
+        "meaning":  "公共语言基础结构（Common Language Infrastructure）",
+        "rank":  168
+    },
+    {
+        "lemma":  "client-server",
+        "surface":  "client-server",
+        "meaning":  "客户端-服务器",
+        "rank":  169
+    },
+    {
+        "lemma":  "clone",
+        "surface":  "clone",
+        "meaning":  "克隆，复制",
+        "rank":  170
+    },
+    {
+        "lemma":  "cloud computing",
+        "surface":  "cloud computing",
+        "meaning":  "云计算",
+        "rank":  171
+    },
+    {
+        "lemma":  "cloud service",
+        "surface":  "cloud service",
+        "meaning":  "云服务",
+        "rank":  172
+    },
+    {
+        "lemma":  "clr",
+        "surface":  "CLR",
+        "meaning":  "公共语言运行时（Common Language Runtime）",
+        "rank":  173
+    },
+    {
+        "lemma":  "cls",
+        "surface":  "CLS",
+        "meaning":  "公共语言规范（Common Language Specification）",
+        "rank":  174
+    },
+    {
+        "lemma":  "cluster",
+        "surface":  "cluster",
+        "meaning":  "集群",
+        "rank":  175
+    },
+    {
+        "lemma":  "clustered index",
+        "surface":  "clustered index",
+        "meaning":  "聚集索引",
+        "rank":  176
+    },
+    {
+        "lemma":  "co-occurring smells",
+        "surface":  "co-occurring smells",
+        "meaning":  "同时出现的坏味\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  177
+    },
+    {
+        "lemma":  "coap",
+        "surface":  "CoAP",
+        "meaning":  "受限应用协议",
+        "rank":  178
+    },
+    {
+        "lemma":  "coaxial cable",
+        "surface":  "coaxial cable",
+        "meaning":  "同轴电缆",
+        "rank":  179
+    },
+    {
+        "lemma":  "cobit",
+        "surface":  "COBIT",
+        "meaning":  "信息和相关技术的控制目标，Control Objectives for Information and Related Technology\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  180
+    },
+    {
+        "lemma":  "coc",
+        "surface":  "CoC",
+        "meaning":  "更改开销（Cost of Change）",
+        "rank":  181
+    },
+    {
+        "lemma":  "code smell",
+        "surface":  "code smell",
+        "meaning":  "代码味道",
+        "rank":  182
+    },
+    {
+        "lemma":  "cola",
+        "surface":  "COLA",
+        "meaning":  "整洁面向对象分层架构，Clean Object-oriented and Layered Architecture",
+        "rank":  183
+    },
+    {
+        "lemma":  "collapse hierarchy",
+        "surface":  "Collapse Hierarchy",
+        "meaning":  "折叠继承关系\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  184
+    },
+    {
+        "lemma":  "comcurrency",
+        "surface":  "comcurrency",
+        "meaning":  "并发",
+        "rank":  185
+    },
+    {
+        "lemma":  "command",
+        "surface":  "command",
+        "meaning":  "命令",
+        "rank":  186
+    },
+    {
+        "lemma":  "command pattern",
+        "surface":  "Command Pattern",
+        "meaning":  "命令模式",
+        "rank":  187
+    },
+    {
+        "lemma":  "command prompt",
+        "surface":  "command prompt",
+        "meaning":  "命令行提示",
+        "rank":  188
+    },
+    {
+        "lemma":  "command/query responsibility segregation",
+        "surface":  "Command/Query Responsibility Segregation",
+        "meaning":  "命令/查询职责分离（CQRS）",
+        "rank":  189
+    },
+    {
+        "lemma":  "command/query separation",
+        "surface":  "Command/Query Separation",
+        "meaning":  "命令/查询分离（CQS）",
+        "rank":  190
+    },
+    {
+        "lemma":  "commingled bits",
+        "surface":  "commingled bits",
+        "meaning":  "混合的比特",
+        "rank":  191
+    },
+    {
+        "lemma":  "communication",
+        "surface":  "communication",
+        "meaning":  "通信",
+        "rank":  192
+    },
+    {
+        "lemma":  "community",
+        "surface":  "community",
+        "meaning":  "社区",
+        "rank":  193
+    },
+    {
+        "lemma":  "committed",
+        "surface":  "committed",
+        "meaning":  "已提交（的）",
+        "rank":  194
+    },
+    {
+        "lemma":  "common intermediate language",
+        "surface":  "Common Intermediate Language",
+        "meaning":  "公共中间语言",
+        "rank":  195
+    },
+    {
+        "lemma":  "common language infrastructure",
+        "surface":  "Common Language Infrastructure",
+        "meaning":  "公共语言基础结构（CLI）",
+        "rank":  196
+    },
+    {
+        "lemma":  "common language runtime",
+        "surface":  "Common Language Runtime",
+        "meaning":  "公共语言运行时（CLR）",
+        "rank":  197
+    },
+    {
+        "lemma":  "common language specification",
+        "surface":  "Common Language Specification",
+        "meaning":  "公共语言规范（CLS）",
+        "rank":  198
+    },
+    {
+        "lemma":  "common type system",
+        "surface":  "Common Type System",
+        "meaning":  "公共类型系统（CTS）",
+        "rank":  199
+    },
+    {
+        "lemma":  "common name",
+        "surface":  "common name",
+        "meaning":  "通用名称",
+        "rank":  200
+    },
+    {
+        "lemma":  "compatibility",
+        "surface":  "compatibility",
+        "meaning":  "兼容性",
+        "rank":  201
+    },
+    {
+        "lemma":  "competing consumer pattern",
+        "surface":  "Competing Consumer pattern",
+        "meaning":  "消费者竞争模式\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  202
+    },
+    {
+        "lemma":  "compile-time correctness checking",
+        "surface":  "compile-time correctness checking",
+        "meaning":  "编译时正确性检查",
+        "rank":  203
+    },
+    {
+        "lemma":  "component object model",
+        "surface":  "Component Object Model",
+        "meaning":  "组件对象模型（COM）",
+        "rank":  204
+    },
+    {
+        "lemma":  "composability",
+        "surface":  "Composability",
+        "meaning":  "组合性",
+        "rank":  205
+    },
+    {
+        "lemma":  "composite formatting",
+        "surface":  "composite formatting",
+        "meaning":  "复合格式化",
+        "rank":  206
+    },
+    {
+        "lemma":  "composite pattern",
+        "surface":  "Composite Pattern",
+        "meaning":  "复合模式、组合模式",
+        "rank":  207
+    },
+    {
+        "lemma":  "concurrency conflicts",
+        "surface":  "concurrency conflicts",
+        "meaning":  "并发冲突",
+        "rank":  208
+    },
+    {
+        "lemma":  "concurrency mode",
+        "surface":  "concurrency mode",
+        "meaning":  "并发模式",
+        "rank":  209
+    },
+    {
+        "lemma":  "conditional compilation",
+        "surface":  "conditional compilation",
+        "meaning":  "条件编译",
+        "rank":  210
+    },
+    {
+        "lemma":  "conditional compilation statement",
+        "surface":  "conditional compilation statement",
+        "meaning":  "条件编译语句",
+        "rank":  211
+    },
+    {
+        "lemma":  "configuration",
+        "surface":  "configuration",
+        "meaning":  "配置，设置",
+        "rank":  212
+    },
+    {
+        "lemma":  "connection string",
+        "surface":  "connection string",
+        "meaning":  "连接字符串",
+        "rank":  213
+    },
+    {
+        "lemma":  "consolidate conditional expression",
+        "surface":  "Consolidate Conditional Expression",
+        "meaning":  "合并条件表达式\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  214
+    },
+    {
+        "lemma":  "consolidate duplicate conditional fragments",
+        "surface":  "Consolidate Duplicate Conditional Fragments",
+        "meaning":  "合并重复的条件片段\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  215
+    },
+    {
+        "lemma":  "consistency",
+        "surface":  "consistency",
+        "meaning":  "一致性",
+        "rank":  216
+    },
+    {
+        "lemma":  "constructor",
+        "surface":  "constructor",
+        "meaning":  "构造函数",
+        "rank":  217
+    },
+    {
+        "lemma":  "container",
+        "surface":  "container",
+        "meaning":  "容器",
+        "rank":  218
+    },
+    {
+        "lemma":  "container as a service",
+        "surface":  "Container As A Service",
+        "meaning":  "容器即服务（CaaS）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  219
+    },
+    {
+        "lemma":  "content",
+        "surface":  "content",
+        "meaning":  "内容",
+        "rank":  220
+    },
+    {
+        "lemma":  "context",
+        "surface":  "context",
+        "meaning":  "上下文",
+        "rank":  221
+    },
+    {
+        "lemma":  "context map, 上下文映射图",
+        "surface":  "context map, 上下文映射图",
+        "meaning":  "上下文地图 \u003csup\u003e5\u003c/sup\u003e",
+        "rank":  222
+    },
+    {
+        "lemma":  "context mapping",
+        "surface":  "Context Mapping",
+        "meaning":  "上下文映射 \u003csup\u003e5\u003c/sup\u003e",
+        "rank":  223
+    },
+    {
+        "lemma":  "contextual keyword",
+        "surface":  "contextual keyword",
+        "meaning":  "上下文关键字",
+        "rank":  224
+    },
+    {
+        "lemma":  "continuous integration",
+        "surface":  "continuous integration",
+        "meaning":  "持续集成",
+        "rank":  225
+    },
+    {
+        "lemma":  "contribute",
+        "surface":  "contribute",
+        "meaning":  "贡献",
+        "rank":  226
+    },
+    {
+        "lemma":  "contributor license agreement",
+        "surface":  "Contributor License Agreement",
+        "meaning":  "贡献者许可协议",
+        "rank":  227
+    },
+    {
+        "lemma":  "convention",
+        "surface":  "convention",
+        "meaning":  "约定",
+        "rank":  228
+    },
+    {
+        "lemma":  "covariance",
+        "surface":  "covariance",
+        "meaning":  "协变",
+        "rank":  229
+    },
+    {
+        "lemma":  "contravariance",
+        "surface":  "contravariance",
+        "meaning":  "逆变",
+        "rank":  230
+    },
+    {
+        "lemma":  "convert",
+        "surface":  "convert",
+        "meaning":  "转换",
+        "rank":  231
+    },
+    {
+        "lemma":  "convert procedural design to objects",
+        "surface":  "Convert Procedural Design to Objects",
+        "meaning":  "将过程化设计转化为对象设计\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  232
+    },
+    {
+        "lemma":  "cookie",
+        "surface":  "cookie",
+        "meaning":  "Cookie",
+        "rank":  233
+    },
+    {
+        "lemma":  "copy-on-write",
+        "surface":  "copy-on-write",
+        "meaning":  "写时复制",
+        "rank":  234
+    },
+    {
+        "lemma":  "core",
+        "surface":  "core",
+        "meaning":  "内核；.NET Core 的简写（能且仅能与 .NET Framework 的简写 `nfx` 同时出现，作如 `nfx/core`，单独使用时应为全称 `.NET Core`）",
+        "rank":  235
+    },
+    {
+        "lemma":  "core domain",
+        "surface":  "core domain",
+        "meaning":  "核心领域",
+        "rank":  236
+    },
+    {
+        "lemma":  "corruption",
+        "surface":  "corruption",
+        "meaning":  "损毁",
+        "rank":  237
+    },
+    {
+        "lemma":  "cosmetic issue",
+        "surface":  "Cosmetic issue",
+        "meaning":  "外观上问题",
+        "rank":  238
+    },
+    {
+        "lemma":  "cost of change",
+        "surface":  "Cost of Change",
+        "meaning":  "更改开销（CoC）",
+        "rank":  239
+    },
+    {
+        "lemma":  "cot",
+        "surface":  "CoT",
+        "meaning":  "思维链（Chain-of-Thought）\u003csup\u003e6\u003c/sup\u003e",
+        "rank":  240
+    },
+    {
+        "lemma":  "cots",
+        "surface":  "COTS",
+        "meaning":  "现成的商业软件（Commercial Off-The Shelf）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  241
+    },
+    {
+        "lemma":  "counterpoint",
+        "surface":  "counterpoint",
+        "meaning":  "对位\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  242
+    },
+    {
+        "lemma":  "coupling count",
+        "surface":  "Coupling count",
+        "meaning":  "耦合数：当一个方法被调用时传给它以及从它传出来的值的数目。如果该方法没有返回值，则耦合数就是它的参数数目。否则就是参数数目加 1。如果你想要在没有测试的情况下提取出一个消防法的话，计算一下它的耦合数是很有意义的。",
+        "rank":  243
+    },
+    {
+        "lemma":  "cpu",
+        "surface":  "CPU",
+        "meaning":  "中央处理器（Central Processing Unit）",
+        "rank":  244
+    },
+    {
+        "lemma":  "cqrs",
+        "surface":  "CQRS",
+        "meaning":  "命令查询职责分离（Command-Query Responsibility Segregation）",
+        "rank":  245
+    },
+    {
+        "lemma":  "crash",
+        "surface":  "crash",
+        "meaning":  "（程序）崩溃",
+        "rank":  246
+    },
+    {
+        "lemma":  "crash dump",
+        "surface":  "crash dump",
+        "meaning":  "故障转储",
+        "rank":  247
+    },
+    {
+        "lemma":  "creational design patterns",
+        "surface":  "Creational Design Patterns",
+        "meaning":  "创建性设计模式",
+        "rank":  248
+    },
+    {
+        "lemma":  "crc",
+        "surface":  "CRC",
+        "meaning":  "类-职责-交互（class-responsibility-collaboration）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  249
+    },
+    {
+        "lemma":  "credential",
+        "surface":  "credential",
+        "meaning":  "凭证\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  250
+    },
+    {
+        "lemma":  "cririque",
+        "surface":  "cririque",
+        "meaning":  "评估",
+        "rank":  251
+    },
+    {
+        "lemma":  "crm",
+        "surface":  "CRM",
+        "meaning":  "客户关系管理（Customer Relationship Management）",
+        "rank":  252
+    },
+    {
+        "lemma":  "cross domain",
+        "surface":  "Cross Domain",
+        "meaning":  "跨域",
+        "rank":  253
+    },
+    {
+        "lemma":  "cross-browser",
+        "surface":  "Cross-browser",
+        "meaning":  "跨浏览器",
+        "rank":  254
+    },
+    {
+        "lemma":  "cross-platform",
+        "surface":  "Cross-platform",
+        "meaning":  "跨平台",
+        "rank":  255
+    },
+    {
+        "lemma":  "cross-functional requirement",
+        "surface":  "Cross-Functional Requirement",
+        "meaning":  "跨功能需求（CFR）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  256
+    },
+    {
+        "lemma":  "crt",
+        "surface":  "CRT",
+        "meaning":  "cathode ray tube，阴极射线管",
+        "rank":  257
+    },
+    {
+        "lemma":  "cruft",
+        "surface":  "cruft",
+        "meaning":  "残留",
+        "rank":  258
+    },
+    {
+        "lemma":  "cryptography",
+        "surface":  "cryptography",
+        "meaning":  "密码术",
+        "rank":  259
+    },
+    {
+        "lemma":  "cts",
+        "surface":  "CTS",
+        "meaning":  "公共类型系统（Common Type System）",
+        "rank":  260
+    },
+    {
+        "lemma":  "cursor",
+        "surface":  "cursor",
+        "meaning":  "光标",
+        "rank":  261
+    },
+    {
+        "lemma":  "customizability",
+        "surface":  "Customizability",
+        "meaning":  "可定制性",
+        "rank":  262
+    },
+    {
+        "lemma":  "cybraian",
+        "surface":  "cybraian",
+        "meaning":  "电脑族",
+        "rank":  263
+    },
+    {
+        "lemma":  "cyberspace",
+        "surface":  "cyberspace",
+        "meaning":  "电脑空间",
+        "rank":  264
+    },
+    {
+        "lemma":  "cycle time",
+        "surface":  "cycle time",
+        "meaning":  "周期时间",
+        "rank":  265
+    },
+    {
+        "lemma":  "cyclic digraph",
+        "surface":  "cyclic digraph",
+        "meaning":  "有向有环图",
+        "rank":  266
+    },
+    {
+        "lemma":  "cyclic hierarchy",
+        "surface":  "Cyclic Hierarchy",
+        "meaning":  "循环层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  267
+    },
+    {
+        "lemma":  "cyclically-dependent modularization",
+        "surface":  "Cyclically-dependent Modularization",
+        "meaning":  "循环依赖式模块化\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  268
+    },
+    {
+        "lemma":  "cyclomatic complexity",
+        "surface":  "Cyclomatic complexity",
+        "meaning":  "圈复杂度",
+        "rank":  269
+    },
+    {
+        "lemma":  "daas",
+        "surface":  "DaaS",
+        "meaning":  "Data as a Service，数据即服务",
+        "rank":  270
+    },
+    {
+        "lemma":  "dag",
+        "surface":  "DAG",
+        "meaning":  "有向无循环图",
+        "rank":  271
+    },
+    {
+        "lemma":  "dashboard",
+        "surface":  "dashboard",
+        "meaning":  "仪表盘",
+        "rank":  272
+    },
+    {
+        "lemma":  "data access layer",
+        "surface":  "data access layer",
+        "meaning":  "数据访问层",
+        "rank":  273
+    },
+    {
+        "lemma":  "data storage as a service",
+        "surface":  "Data Storage as a Service",
+        "meaning":  "数据存储即服务（DaaS）",
+        "rank":  274
+    },
+    {
+        "lemma":  "data clumps",
+        "surface":  "data clumps",
+        "meaning":  "数据泥团\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  275
+    },
+    {
+        "lemma":  "data encryption standard",
+        "surface":  "Data Encryption Standard",
+        "meaning":  "数据加密标准（DES）",
+        "rank":  276
+    },
+    {
+        "lemma":  "data layer",
+        "surface":  "data layer",
+        "meaning":  "数据层",
+        "rank":  277
+    },
+    {
+        "lemma":  "data integrity",
+        "surface":  "data integrity",
+        "meaning":  "数据完整性",
+        "rank":  278
+    },
+    {
+        "lemma":  "data invariant",
+        "surface":  "data invariant",
+        "meaning":  "数据不变式",
+        "rank":  279
+    },
+    {
+        "lemma":  "data mining",
+        "surface":  "data mining",
+        "meaning":  "数据挖掘",
+        "rank":  280
+    },
+    {
+        "lemma":  "data pump",
+        "surface":  "data pump",
+        "meaning":  "数据泵",
+        "rank":  281
+    },
+    {
+        "lemma":  "data transfer object",
+        "surface":  "Data Transfer Object",
+        "meaning":  "数据传输对象（DTO）",
+        "rank":  282
+    },
+    {
+        "lemma":  "declarative programming",
+        "surface":  "declarative programming",
+        "meaning":  "宣告式编程",
+        "rank":  283
+    },
+    {
+        "lemma":  "decompose conditional",
+        "surface":  "Decompose Conditional",
+        "meaning":  "分解条件表达式\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  284
+    },
+    {
+        "lemma":  "decorator pattern",
+        "surface":  "Decorator Pattern",
+        "meaning":  "修饰器模式（DP）、装饰模式",
+        "rank":  285
+    },
+    {
+        "lemma":  "deep hierarchy",
+        "surface":  "Deep Hierarchy",
+        "meaning":  "过深的层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  286
+    },
+    {
+        "lemma":  "default literal",
+        "surface":  "Default Literal",
+        "meaning":  "默认常值",
+        "rank":  287
+    },
+    {
+        "lemma":  "defensive programming",
+        "surface":  "Defensive Programming",
+        "meaning":  "防御式编程",
+        "rank":  288
+    },
+    {
+        "lemma":  "deficient encapsulation",
+        "surface":  "Deficient Encapsulation",
+        "meaning":  "不充分的封装\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  289
+    },
+    {
+        "lemma":  "definition of done",
+        "surface":  "Definition of Done",
+        "meaning":  "完成的定义（DoD）",
+        "rank":  290
+    },
+    {
+        "lemma":  "denial-of-service attacks",
+        "surface":  "denial-of-service attacks",
+        "meaning":  "拒绝服务攻击\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  291
+    },
+    {
+        "lemma":  "dependency injection",
+        "surface":  "dependency injection",
+        "meaning":  "依赖注入（DI）",
+        "rank":  292
+    },
+    {
+        "lemma":  "dependency",
+        "surface":  "dependency",
+        "meaning":  "依赖",
+        "rank":  293
+    },
+    {
+        "lemma":  "dependency digraph",
+        "surface":  "dependency digraph",
+        "meaning":  "依赖有向图",
+        "rank":  294
+    },
+    {
+        "lemma":  "deployment",
+        "surface":  "deployment",
+        "meaning":  "部署",
+        "rank":  295
+    },
+    {
+        "lemma":  "dequeue",
+        "surface":  "dequeue",
+        "meaning":  "出列",
+        "rank":  296
+    },
+    {
+        "lemma":  "derives from",
+        "surface":  "derives from",
+        "meaning":  "继承",
+        "rank":  297
+    },
+    {
+        "lemma":  "design pattern",
+        "surface":  "design pattern",
+        "meaning":  "设计模式",
+        "rank":  298
+    },
+    {
+        "lemma":  "design requirements document",
+        "surface":  "Design Requirements Document",
+        "meaning":  "交互设计说明文档（DRD）",
+        "rank":  299
+    },
+    {
+        "lemma":  "device",
+        "surface":  "device",
+        "meaning":  "设备",
+        "rank":  300
+    },
+    {
+        "lemma":  "dfs",
+        "surface":  "DFS",
+        "meaning":  "深度优先搜索",
+        "rank":  301
+    },
+    {
+        "lemma":  "dft",
+        "surface":  "DfT",
+        "meaning":  "为可测试性而设计",
+        "rank":  302
+    },
+    {
+        "lemma":  "di",
+        "surface":  "DI",
+        "meaning":  "依赖注入（dependency injection）",
+        "rank":  303
+    },
+    {
+        "lemma":  "diaas",
+        "surface":  "DIaaS",
+        "meaning":  "Data intelligence as a Service，数据智能即服务（出自2022年6月29日，阿里常规线上新品牌发布会）",
+        "rank":  304
+    },
+    {
+        "lemma":  "diagnostics",
+        "surface":  "diagnostics",
+        "meaning":  "诊断",
+        "rank":  305
+    },
+    {
+        "lemma":  "directed graph",
+        "surface":  "directed graph",
+        "meaning":  "有向图",
+        "rank":  306
+    },
+    {
+        "lemma":  "directive",
+        "surface":  "directive",
+        "meaning":  "指令",
+        "rank":  307
+    },
+    {
+        "lemma":  "dirt",
+        "surface":  "DiRT",
+        "meaning":  "灾难恢复测试（Disaster Recovery Test）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  308
+    },
+    {
+        "lemma":  "discussion forum",
+        "surface":  "discussion forum",
+        "meaning":  "论坛",
+        "rank":  309
+    },
+    {
+        "lemma":  "disk",
+        "surface":  "disk",
+        "meaning":  "磁盘",
+        "rank":  310
+    },
+    {
+        "lemma":  "distributed system",
+        "surface":  "distributed system",
+        "meaning":  "分布式系统",
+        "rank":  311
+    },
+    {
+        "lemma":  "dll",
+        "surface":  "DLL",
+        "meaning":  "动态链接库（Dynamic Link Library）",
+        "rank":  312
+    },
+    {
+        "lemma":  "dns",
+        "surface":  "DNS",
+        "meaning":  "域名系统（Domain Name System）",
+        "rank":  313
+    },
+    {
+        "lemma":  "document object model",
+        "surface":  "Document Object Model",
+        "meaning":  "文档对象模型（DOM）",
+        "rank":  314
+    },
+    {
+        "lemma":  "domain-driven design",
+        "surface":  "domain-driven design",
+        "meaning":  "领域驱动设计（DDD）",
+        "rank":  315
+    },
+    {
+        "lemma":  "domain event",
+        "surface":  "Domain Event",
+        "meaning":  "领域事件",
+        "rank":  316
+    },
+    {
+        "lemma":  "domain model",
+        "surface":  "Domain Model",
+        "meaning":  "领域模型",
+        "rank":  317
+    },
+    {
+        "lemma":  "domain name system",
+        "surface":  "Domain Name System",
+        "meaning":  "域名系统（DNS）",
+        "rank":  318
+    },
+    {
+        "lemma":  "domain service",
+        "surface":  "Domain Service",
+        "meaning":  "领域服务",
+        "rank":  319
+    },
+    {
+        "lemma":  "domain specific language",
+        "surface":  "Domain Specific Language",
+        "meaning":  "领域特定语言（DSL）",
+        "rank":  320
+    },
+    {
+        "lemma":  "drd",
+        "surface":  "DRD",
+        "meaning":  "交互设计说明文档（Design Requirements Document）",
+        "rank":  321
+    },
+    {
+        "lemma":  "dry 原则",
+        "surface":  "DRY 原则",
+        "meaning":  "不自我重复原则（Don\u0027t Repeat Yourself），“不要重复你自己\u003csup\u003e3\u003c/sup\u003e”",
+        "rank":  322
+    },
+    {
+        "lemma":  "duck-typing",
+        "surface":  "duck-typing",
+        "meaning":  "鸭子类型",
+        "rank":  323
+    },
+    {
+        "lemma":  "duck test",
+        "surface":  "duck test",
+        "meaning":  "鸭子测试",
+        "rank":  324
+    },
+    {
+        "lemma":  "dummy function",
+        "surface":  "dummy function",
+        "meaning":  "虚构函数",
+        "rank":  325
+    },
+    {
+        "lemma":  "dump",
+        "surface":  "dump",
+        "meaning":  "转储",
+        "rank":  326
+    },
+    {
+        "lemma":  "duplicate abstraction",
+        "surface":  "Duplicate Abstraction",
+        "meaning":  "重复的抽象\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  327
+    },
+    {
+        "lemma":  "duplicate observed data",
+        "surface":  "Duplicate Observed Data",
+        "meaning":  "复制“被监视数据”\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  328
+    },
+    {
+        "lemma":  "durability",
+        "surface":  "durability",
+        "meaning":  "持久性",
+        "rank":  329
+    },
+    {
+        "lemma":  "dynamic link library",
+        "surface":  "Dynamic Link Library",
+        "meaning":  "动态链接库（DLL）",
+        "rank":  330
+    },
+    {
+        "lemma":  "eap",
+        "surface":  "EAP",
+        "meaning":  "早期评估版本（Early Assessment Program）",
+        "rank":  331
+    },
+    {
+        "lemma":  "early assessment program",
+        "surface":  "Early Assessment Program",
+        "meaning":  "早期评估版本（EAP）",
+        "rank":  332
+    },
+    {
+        "lemma":  "effect sketch",
+        "surface":  "effect sketch",
+        "meaning":  "影响草图",
+        "rank":  333
+    },
+    {
+        "lemma":  "egress",
+        "surface":  "Egress",
+        "meaning":  "流出",
+        "rank":  334
+    },
+    {
+        "lemma":  "elasticity",
+        "surface":  "elasticity",
+        "meaning":  "弹性",
+        "rank":  335
+    },
+    {
+        "lemma":  "elbs",
+        "surface":  "ELBs",
+        "meaning":  "弹性负载均衡器（Elastic Load Balancers）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  336
+    },
+    {
+        "lemma":  "element (xml",
+        "surface":  "Element (XML)",
+        "meaning":  "元素",
+        "rank":  337
+    },
+    {
+        "lemma":  "elvis operator",
+        "surface":  "Elvis Operator",
+        "meaning":  "埃尔维斯运算符",
+        "rank":  338
+    },
+    {
+        "lemma":  "emergence",
+        "surface":  "Emergence",
+        "meaning":  "涌现、创发、突现、呈展、演生，是一种现象。",
+        "rank":  339
+    },
+    {
+        "lemma":  "encapsulate collection",
+        "surface":  "Encapsulate Collection",
+        "meaning":  "封装集合\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  340
+    },
+    {
+        "lemma":  "encapsulate downset",
+        "surface":  "Encapsulate Downset",
+        "meaning":  "封装向下转型\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  341
+    },
+    {
+        "lemma":  "encapsulate field",
+        "surface":  "Encapsulate Field",
+        "meaning":  "封装字段\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  342
+    },
+    {
+        "lemma":  "endpoint",
+        "surface":  "endpoint",
+        "meaning":  "端点",
+        "rank":  343
+    },
+    {
+        "lemma":  "enqueue",
+        "surface":  "enqueue",
+        "meaning":  "入列；加入队列",
+        "rank":  344
+    },
+    {
+        "lemma":  "enterprise resource planning",
+        "surface":  "Enterprise Resource Planning",
+        "meaning":  "企业资源计划（ERP）",
+        "rank":  345
+    },
+    {
+        "lemma":  "entity",
+        "surface":  "entity",
+        "meaning":  "实体",
+        "rank":  346
+    },
+    {
+        "lemma":  "entity tags",
+        "surface":  "Entity Tags",
+        "meaning":  "实体标签（ETag）",
+        "rank":  347
+    },
+    {
+        "lemma":  "entourage anti-pattern",
+        "surface":  "entourage anti-pattern",
+        "meaning":  "随从反模式",
+        "rank":  348
+    },
+    {
+        "lemma":  "erosion",
+        "surface":  "erosion",
+        "meaning":  "侵蚀",
+        "rank":  349
+    },
+    {
+        "lemma":  "event-based asynchronous pattern",
+        "surface":  "Event-based Asynchronous Pattern",
+        "meaning":  "基于事件的异步模式（EAP）",
+        "rank":  350
+    },
+    {
+        "lemma":  "event data pump",
+        "surface":  "event data pump",
+        "meaning":  "时间数据泵\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  351
+    },
+    {
+        "lemma":  "event sourcing",
+        "surface":  "event sourcing",
+        "meaning":  "事件源",
+        "rank":  352
+    },
+    {
+        "lemma":  "evolvability",
+        "surface":  "Evolvability",
+        "meaning":  "可进化性",
+        "rank":  353
+    },
+    {
+        "lemma":  "exception handling",
+        "surface":  "exception handling",
+        "meaning":  "异常处理",
+        "rank":  354
+    },
+    {
+        "lemma":  "exclusive or",
+        "surface":  "Exclusive OR",
+        "meaning":  "异或（XOR）",
+        "rank":  355
+    },
+    {
+        "lemma":  "explanatory figures",
+        "surface":  "explanatory figures",
+        "meaning":  "图示",
+        "rank":  356
+    },
+    {
+        "lemma":  "extensible markup language",
+        "surface":  "Extensible Markup Language",
+        "meaning":  "可扩展标记语言（XML）",
+        "rank":  357
+    },
+    {
+        "lemma":  "extensibility",
+        "surface":  "Extensibility",
+        "meaning":  "可扩展性",
+        "rank":  358
+    },
+    {
+        "lemma":  "extra large",
+        "surface":  "extra large",
+        "meaning":  "特大型",
+        "rank":  359
+    },
+    {
+        "lemma":  "extra small",
+        "surface":  "extra small",
+        "meaning":  "特小型",
+        "rank":  360
+    },
+    {
+        "lemma":  "extract class",
+        "surface":  "Extract Class",
+        "meaning":  "提炼类\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  361
+    },
+    {
+        "lemma":  "extract hierarchy",
+        "surface":  "Extract Hierarchy",
+        "meaning":  "提炼继承体系\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  362
+    },
+    {
+        "lemma":  "extract interface",
+        "surface":  "Extract Interface",
+        "meaning":  "提炼接口\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  363
+    },
+    {
+        "lemma":  "extract method",
+        "surface":  "Extract Method",
+        "meaning":  "提炼函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  364
+    },
+    {
+        "lemma":  "extract subclass",
+        "surface":  "Extract Subclass",
+        "meaning":  "提炼子类\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  365
+    },
+    {
+        "lemma":  "extract superclass",
+        "surface":  "Extract Superclass",
+        "meaning":  "提炼超类\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  366
+    },
+    {
+        "lemma":  "extreme programming",
+        "surface":  "eXtreme Programming",
+        "meaning":  "极限编程（XP）",
+        "rank":  367
+    },
+    {
+        "lemma":  "facade pattern",
+        "surface":  "Facade Pattern",
+        "meaning":  "外观模式",
+        "rank":  368
+    },
+    {
+        "lemma":  "factory method pattern",
+        "surface":  "Factory Method Pattern",
+        "meaning":  "工厂方法模式",
+        "rank":  369
+    },
+    {
+        "lemma":  "failover",
+        "surface":  "failover",
+        "meaning":  "容错转移",
+        "rank":  370
+    },
+    {
+        "lemma":  "failure domain",
+        "surface":  "failure domain",
+        "meaning":  "故障域",
+        "rank":  371
+    },
+    {
+        "lemma":  "fake object",
+        "surface":  "fake object",
+        "meaning":  "伪对象：在测试中伪装成一个类的合作者的对象",
+        "rank":  372
+    },
+    {
+        "lemma":  "fan-in",
+        "surface":  "fan-in",
+        "meaning":  "扇入",
+        "rank":  373
+    },
+    {
+        "lemma":  "fan-out",
+        "surface":  "fan-out",
+        "meaning":  "扇出",
+        "rank":  374
+    },
+    {
+        "lemma":  "fat client",
+        "surface":  "fat client",
+        "meaning":  "胖客户端",
+        "rank":  375
+    },
+    {
+        "lemma":  "fcl",
+        "surface":  "FCL",
+        "meaning":  ".NET Framework 类库（Framework Class Library）",
+        "rank":  376
+    },
+    {
+        "lemma":  "fdd",
+        "surface":  "FDD",
+        "meaning":  "软盘（Floppy Disk Drive）",
+        "rank":  377
+    },
+    {
+        "lemma":  "feature sketch",
+        "surface":  "feature sketch",
+        "meaning":  "特性草图",
+        "rank":  378
+    },
+    {
+        "lemma":  "feed",
+        "surface":  "feed",
+        "meaning":  "聚合（资源聚合）",
+        "rank":  379
+    },
+    {
+        "lemma":  "fine-tuning",
+        "surface":  "fine-tuning",
+        "meaning":  "微调",
+        "rank":  380
+    },
+    {
+        "lemma":  "first-party",
+        "surface":  "first-party",
+        "meaning":  "第一方",
+        "rank":  381
+    },
+    {
+        "lemma":  "floopy disk drive",
+        "surface":  "Floopy Disk Drive",
+        "meaning":  "软盘（FDD）",
+        "rank":  382
+    },
+    {
+        "lemma":  "flyweight pattern",
+        "surface":  "Flyweight Pattern",
+        "meaning":  "享元模式",
+        "rank":  383
+    },
+    {
+        "lemma":  "follow up",
+        "surface":  "follow up",
+        "meaning":  "跟进",
+        "rank":  384
+    },
+    {
+        "lemma":  "foreign key",
+        "surface":  "foreign key",
+        "meaning":  "外键",
+        "rank":  385
+    },
+    {
+        "lemma":  "form template method",
+        "surface":  "Form Template Method",
+        "meaning":  "塑造模板函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  386
+    },
+    {
+        "lemma":  "format item",
+        "surface":  "format item",
+        "meaning":  "格式项",
+        "rank":  387
+    },
+    {
+        "lemma":  "format string",
+        "surface":  "format string",
+        "meaning":  "格式字符串",
+        "rank":  388
+    },
+    {
+        "lemma":  "forward",
+        "surface":  "forward",
+        "meaning":  "转发",
+        "rank":  389
+    },
+    {
+        "lemma":  "fpp",
+        "surface":  "FPP",
+        "meaning":  "零售版（Full Packaged Product）",
+        "rank":  390
+    },
+    {
+        "lemma":  "framework class library",
+        "surface":  "Framework Class Library",
+        "meaning":  ".NET Framework 类库（FCL）",
+        "rank":  391
+    },
+    {
+        "lemma":  "frd",
+        "surface":  "FRD",
+        "meaning":  "功能需求文档（Functional Requirements Document）",
+        "rank":  392
+    },
+    {
+        "lemma":  "free",
+        "surface":  "free",
+        "meaning":  "免费",
+        "rank":  393
+    },
+    {
+        "lemma":  "free function",
+        "surface":  "free function",
+        "meaning":  "自由函数：一个不属于任何类的函数。在 C 和其他过程式语言中，自由函数被简单地称为函数；在 C++ 中被称为非成员函数。在 Java 和 C# 中没有自由函数。",
+        "rank":  394
+    },
+    {
+        "lemma":  "functional requirements document",
+        "surface":  "Functional Requirements Document",
+        "meaning":  "功能需求文档（FRD）",
+        "rank":  395
+    },
+    {
+        "lemma":  "full-duplex",
+        "surface":  "full-duplex",
+        "meaning":  "全双工",
+        "rank":  396
+    },
+    {
+        "lemma":  "full packaged product",
+        "surface":  "Full Packaged Product",
+        "meaning":  "零售版（FPP）",
+        "rank":  397
+    },
+    {
+        "lemma":  "function pointers",
+        "surface":  "Function Pointers",
+        "meaning":  "函数指针",
+        "rank":  398
+    },
+    {
+        "lemma":  "garbage collection",
+        "surface":  "Garbage Collection",
+        "meaning":  "垃圾回收器（GC）",
+        "rank":  399
+    },
+    {
+        "lemma":  "gauge",
+        "surface":  "gauge",
+        "meaning":  "计量表\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  400
+    },
+    {
+        "lemma":  "gc heap",
+        "surface":  "GC Heap",
+        "meaning":  "垃圾回收堆",
+        "rank":  401
+    },
+    {
+        "lemma":  "gc root",
+        "surface":  "GC root",
+        "meaning":  "GC 根对象",
+        "rank":  402
+    },
+    {
+        "lemma":  "generalization",
+        "surface":  "Generalization",
+        "meaning":  "泛化",
+        "rank":  403
+    },
+    {
+        "lemma":  "generalized async",
+        "surface":  "Generalized Async",
+        "meaning":  "通用异步",
+        "rank":  404
+    },
+    {
+        "lemma":  "generalized async return",
+        "surface":  "Generalized Async Return",
+        "meaning":  "通用异步返回（C# 7.0）",
+        "rank":  405
+    },
+    {
+        "lemma":  "generalizing specialist",
+        "surface":  "generalizing specialist",
+        "meaning":  "全科专家（敏捷开发术语）",
+        "rank":  406
+    },
+    {
+        "lemma":  "generator",
+        "surface":  "generator",
+        "meaning":  "生成器",
+        "rank":  407
+    },
+    {
+        "lemma":  "generic attributes",
+        "surface":  "Generic Attributes",
+        "meaning":  "泛型特性",
+        "rank":  408
+    },
+    {
+        "lemma":  "generic math",
+        "surface":  "Generic Math",
+        "meaning":  "泛型数学",
+        "rank":  409
+    },
+    {
+        "lemma":  "geo-replication",
+        "surface":  "Geo-Replication",
+        "meaning":  "地域复制",
+        "rank":  410
+    },
+    {
+        "lemma":  "geo redundant",
+        "surface":  "Geo Redundant",
+        "meaning":  "地域冗余",
+        "rank":  411
+    },
+    {
+        "lemma":  "global assembly cache",
+        "surface":  "Global Assembly Cache",
+        "meaning":  "全局程序集缓存（GAC）",
+        "rank":  412
+    },
+    {
+        "lemma":  "global state",
+        "surface":  "global state",
+        "meaning":  "全局状态",
+        "rank":  413
+    },
+    {
+        "lemma":  "global using directives",
+        "surface":  "global using directives",
+        "meaning":  "全局 Using 指令",
+        "rank":  414
+    },
+    {
+        "lemma":  "goal directed design",
+        "surface":  "Goal Directed Design",
+        "meaning":  "目标导向设计，旨在处理并满足用户目标和动机，包含产品目标和用户目标",
+        "rank":  415
+    },
+    {
+        "lemma":  "got",
+        "surface":  "GoT",
+        "meaning":  "思维图，思维图谱（Graph-of-Thought） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  416
+    },
+    {
+        "lemma":  "gpt-3",
+        "surface":  "GPT-3",
+        "meaning":  "Generative Pre-trained Transformer 3，是 OpenAI 最注明的 LLM 之一 \u003csup\u003e6\u003c/sup\u003e ，拥有1750亿个参数。该模型在文本生成、翻译和其他任务中表现出显著的性能，在全球范围内引起了热烈的反响，目前 OpenAI 已经迭代到了更高版本。",
+        "rank":  417
+    },
+    {
+        "lemma":  "graph-of-thought",
+        "surface":  "Graph-of-Thought",
+        "meaning":  "思维图，思维图谱（GoT） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  418
+    },
+    {
+        "lemma":  "graphical user interface",
+        "surface":  "Graphical User Interface",
+        "meaning":  "图像用户界面设计（GUI），是一种结合计算机科学、美学、心理学、行为学、及各商业领域需求分析的人机系统工程，强调人、机、环境三者作为一个系统进行总体设计。",
+        "rank":  419
+    },
+    {
+        "lemma":  "gui",
+        "surface":  "GUI",
+        "meaning":  "图像用户界面设计（Graphical User Interface）",
+        "rank":  420
+    },
+    {
+        "lemma":  "hackable",
+        "surface":  "Hackable",
+        "meaning":  "修改方便（根据《Web API 设计与开发》一书之翻译）",
+        "rank":  421
+    },
+    {
+        "lemma":  "hal",
+        "surface":  "HAL",
+        "meaning":  "超文本应用程序语言（Hypertext Application Language）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  422
+    },
+    {
+        "lemma":  "handle",
+        "surface":  "handle",
+        "meaning":  "句柄",
+        "rank":  423
+    },
+    {
+        "lemma":  "hard disk drive",
+        "surface":  "Hard Disk Drive",
+        "meaning":  "硬盘（HDD）",
+        "rank":  424
+    },
+    {
+        "lemma":  "hateoas",
+        "surface":  "HATEOAS",
+        "meaning":  "超媒体作为程序状态的引擎（Hypermedia As The Engine Of Application State）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  425
+    },
+    {
+        "lemma":  "hci",
+        "surface":  "HCI",
+        "meaning":  "人机交互（Human-Computer Interaction），属于研究层面，是人与计算机之间传递、交换信息的媒介和对话接口，是计算机系统的重要组成部分。",
+        "rank":  426
+    },
+    {
+        "lemma":  "hdd",
+        "surface":  "HDD",
+        "meaning":  "硬盘（Hard Disk Drive）",
+        "rank":  427
+    },
+    {
+        "lemma":  "header",
+        "surface":  "header",
+        "meaning":  "头；标头；表头",
+        "rank":  428
+    },
+    {
+        "lemma":  "hexagonal architecture",
+        "surface":  "Hexagonal Architecture",
+        "meaning":  "六边形架构\u003csup\u003e4\u003c/sup\u003e，由 Alistair Cockburn 提出",
+        "rank":  429
+    },
+    {
+        "lemma":  "hmac",
+        "surface":  "HMAC",
+        "meaning":  "基于哈希的小系列码（Hash-based Message Authentication）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  430
+    },
+    {
+        "lemma":  "hide delegate",
+        "surface":  "Hide Delegate",
+        "meaning":  "隐藏“委托关系”\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  431
+    },
+    {
+        "lemma":  "hide method",
+        "surface":  "Hide Method",
+        "meaning":  "隐藏函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  432
+    },
+    {
+        "lemma":  "high avaliability",
+        "surface":  "High Avaliability",
+        "meaning":  "高可用性",
+        "rank":  433
+    },
+    {
+        "lemma":  "high fidelity prototype",
+        "surface":  "High Fidelity Prototype",
+        "meaning":  "高保真原型，细节都比较详细的原型",
+        "rank":  434
+    },
+    {
+        "lemma":  "high surrogate",
+        "surface":  "high surrogate",
+        "meaning":  "高位代理项",
+        "rank":  435
+    },
+    {
+        "lemma":  "homogeneous",
+        "surface":  "Homogeneous",
+        "meaning":  "同质化",
+        "rank":  436
+    },
+    {
+        "lemma":  "hook",
+        "surface":  "hook",
+        "meaning":  "钩子",
+        "rank":  437
+    },
+    {
+        "lemma":  "hook point",
+        "surface":  "hook point",
+        "meaning":  "挂接点",
+        "rank":  438
+    },
+    {
+        "lemma":  "horizontal scale",
+        "surface":  "Horizontal Scale",
+        "meaning":  "水平缩放",
+        "rank":  439
+    },
+    {
+        "lemma":  "hosting",
+        "surface":  "Hosting",
+        "meaning":  "宿主",
+        "rank":  440
+    },
+    {
+        "lemma":  "hub-like modularization",
+        "surface":  "Hub-like Modularization",
+        "meaning":  "轮毂式模块化\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  441
+    },
+    {
+        "lemma":  "hui",
+        "surface":  "HUI",
+        "meaning":  "手持设备用户界面，包括手机端和车载导航等（Handset User Interface）",
+        "rank":  442
+    },
+    {
+        "lemma":  "human-computer interaction",
+        "surface":  "Human-Computer Interaction",
+        "meaning":  "人机交互（HCI）",
+        "rank":  443
+    },
+    {
+        "lemma":  "humane registry",
+        "surface":  "Humane Registry",
+        "meaning":  "人文注册表（由 Martin Fowler 提出）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  444
+    },
+    {
+        "lemma":  "hybrid cloud",
+        "surface":  "Hybrid Cloud",
+        "meaning":  "混合云",
+        "rank":  445
+    },
+    {
+        "lemma":  "hypertext-driven",
+        "surface":  "hypertext-driven",
+        "meaning":  "超文本驱动",
+        "rank":  446
+    },
+    {
+        "lemma":  "hypertext markup language",
+        "surface":  "HyperText Markup Language",
+        "meaning":  "超文本标记语言（HTML）",
+        "rank":  447
+    },
+    {
+        "lemma":  "ia",
+        "surface":  "IA",
+        "meaning":  "信息架构（Information Architect）；",
+        "rank":  448
+    },
+    {
+        "lemma":  "iaas",
+        "surface":  "Iaas",
+        "meaning":  "设施即服务（Infrastructure as a Service）",
+        "rank":  449
+    },
+    {
+        "lemma":  "idempotence",
+        "surface":  "Idempotence",
+        "meaning":  "幂等性",
+        "rank":  450
+    },
+    {
+        "lemma":  "idempotent operation",
+        "surface":  "Idempotent Operation",
+        "meaning":  "幂等操作",
+        "rank":  451
+    },
+    {
+        "lemma":  "identity provider",
+        "surface":  "Identity Provider",
+        "meaning":  "身份提供方",
+        "rank":  452
+    },
+    {
+        "lemma":  "il",
+        "surface":  "IL",
+        "meaning":  "中间语言（intermediate language）",
+        "rank":  453
+    },
+    {
+        "lemma":  "illegitimate injection",
+        "surface":  "Illegitimate Injection",
+        "meaning":  "非法注入",
+        "rank":  454
+    },
+    {
+        "lemma":  "im",
+        "surface":  "IM",
+        "meaning":  "即时通讯（Instant Messaging）",
+        "rank":  455
+    },
+    {
+        "lemma":  "image",
+        "surface":  "image",
+        "meaning":  "映像",
+        "rank":  456
+    },
+    {
+        "lemma":  "immersion approach",
+        "surface":  "immersion approach",
+        "meaning":  "沉浸法",
+        "rank":  457
+    },
+    {
+        "lemma":  "imperative abstraction",
+        "surface":  "Imperative Abstraction",
+        "meaning":  "命令式抽象\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  458
+    },
+    {
+        "lemma":  "in-context learning",
+        "surface":  "in-context learning",
+        "meaning":  "上下文学习 \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  459
+    },
+    {
+        "lemma":  "incomplete abstraction",
+        "surface":  "Incomplete Abstraction",
+        "meaning":  "不完整的抽象\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  460
+    },
+    {
+        "lemma":  "index",
+        "surface":  "index",
+        "meaning":  "索引",
+        "rank":  461
+    },
+    {
+        "lemma":  "information architect",
+        "surface":  "Information Architect",
+        "meaning":  "信息架构（IA）",
+        "rank":  462
+    },
+    {
+        "lemma":  "infrastructure as a service",
+        "surface":  "Infrastructure as a Service",
+        "meaning":  "设施即服务（Iaas）",
+        "rank":  463
+    },
+    {
+        "lemma":  "ingesting",
+        "surface":  "ingesting",
+        "meaning":  "摄取",
+        "rank":  464
+    },
+    {
+        "lemma":  "ingress",
+        "surface":  "ingress",
+        "meaning":  "流入",
+        "rank":  465
+    },
+    {
+        "lemma":  "inline class",
+        "surface":  "Inline Class",
+        "meaning":  "将类内联化\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  466
+    },
+    {
+        "lemma":  "inline method",
+        "surface":  "Inline Method",
+        "meaning":  "内联函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  467
+    },
+    {
+        "lemma":  "inline temp",
+        "surface":  "Inline Temp",
+        "meaning":  "内联临时变量\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  468
+    },
+    {
+        "lemma":  "input endpoint",
+        "surface":  "input endpoint",
+        "meaning":  "输入端点",
+        "rank":  469
+    },
+    {
+        "lemma":  "instance",
+        "surface":  "instance",
+        "meaning":  "实例",
+        "rank":  470
+    },
+    {
+        "lemma":  "instance inputendpoint",
+        "surface":  "Instance InputEndpoint",
+        "meaning":  "实例输入端点",
+        "rank":  471
+    },
+    {
+        "lemma":  "instant messaging",
+        "surface":  "Instant Messaging",
+        "meaning":  "即时通讯（IM）",
+        "rank":  472
+    },
+    {
+        "lemma":  "instantiation",
+        "surface":  "instantiation",
+        "meaning":  "实例化",
+        "rank":  473
+    },
+    {
+        "lemma":  "instantiator",
+        "surface":  "instantiator",
+        "meaning":  "实例化器",
+        "rank":  474
+    },
+    {
+        "lemma":  "instruction fine-tuning",
+        "surface":  "instruction fine-tuning",
+        "meaning":  "指令微调",
+        "rank":  475
+    },
+    {
+        "lemma":  "insufficient modularization",
+        "surface":  "Insufficient Modularization",
+        "meaning":  "不充分的模块化\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  476
+    },
+    {
+        "lemma":  "interaction-based testing",
+        "surface":  "Interaction-based testing",
+        "meaning":  "基于交互的测试",
+        "rank":  477
+    },
+    {
+        "lemma":  "intercept",
+        "surface":  "Intercept",
+        "meaning":  "截取",
+        "rank":  478
+    },
+    {
+        "lemma":  "interception point",
+        "surface":  "interception point",
+        "meaning":  "拦截点：可以编写测试来感知某些条件的地方",
+        "rank":  479
+    },
+    {
+        "lemma":  "intermediate language",
+        "surface":  "intermediate language",
+        "meaning":  "中间语言（IL）",
+        "rank":  480
+    },
+    {
+        "lemma":  "internal endpoint",
+        "surface":  "Internal Endpoint",
+        "meaning":  "内部端点",
+        "rank":  481
+    },
+    {
+        "lemma":  "internet information service",
+        "surface":  "Internet Information Service",
+        "meaning":  "Internet 信息服务（IIS）",
+        "rank":  482
+    },
+    {
+        "lemma":  "internet protocol",
+        "surface":  "Internet Protocol",
+        "meaning":  "互联网协议（IP）",
+        "rank":  483
+    },
+    {
+        "lemma":  "interpreter pattern",
+        "surface":  "Interpreter Pattern",
+        "meaning":  "解释器模式",
+        "rank":  484
+    },
+    {
+        "lemma":  "interpolated strings",
+        "surface":  "interpolated strings",
+        "meaning":  "内插字符串",
+        "rank":  485
+    },
+    {
+        "lemma":  "introduce assertion",
+        "surface":  "Introduce Assertion",
+        "meaning":  "引入断言\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  486
+    },
+    {
+        "lemma":  "introduce explaining variable",
+        "surface":  "Introduce Explaining Variable",
+        "meaning":  "引入解释性变量\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  487
+    },
+    {
+        "lemma":  "introduce foreign method",
+        "surface":  "Introduce Foreign Method",
+        "meaning":  "引入外加函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  488
+    },
+    {
+        "lemma":  "introduce local extension",
+        "surface":  "Introduce Local Extension",
+        "meaning":  "引入本地扩展\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  489
+    },
+    {
+        "lemma":  "introduce null object",
+        "surface":  "Introduce Null Object",
+        "meaning":  "引入 Null 对象\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  490
+    },
+    {
+        "lemma":  "introduce parameter object",
+        "surface":  "Introduce Parameter Object",
+        "meaning":  "引入参数对象\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  491
+    },
+    {
+        "lemma":  "intrusion detection systems",
+        "surface":  "Intrusion Detection Systems",
+        "meaning":  "入侵检测系统（IDS）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  492
+    },
+    {
+        "lemma":  "intrusion prevention systems",
+        "surface":  "Intrusion Prevention Systems",
+        "meaning":  "入侵预防系统（IPS）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  493
+    },
+    {
+        "lemma":  "inversion of control",
+        "surface":  "Inversion of Control",
+        "meaning":  "控制反转（IoC）",
+        "rank":  494
+    },
+    {
+        "lemma":  "isolation",
+        "surface":  "Isolation",
+        "meaning":  "隔离性",
+        "rank":  495
+    },
+    {
+        "lemma":  "isomorphism",
+        "surface":  "isomorphism",
+        "meaning":  "同构（数学领域专用术语）",
+        "rank":  496
+    },
+    {
+        "lemma":  "iterable",
+        "surface":  "iterable",
+        "meaning":  "可迭代的",
+        "rank":  497
+    },
+    {
+        "lemma":  "iteration",
+        "surface":  "iteration",
+        "meaning":  "迭代",
+        "rank":  498
+    },
+    {
+        "lemma":  "iterator",
+        "surface":  "iterator",
+        "meaning":  "迭代器",
+        "rank":  499
+    },
+    {
+        "lemma":  "iterator pattern",
+        "surface":  "Iterator Pattern",
+        "meaning":  "迭代模式",
+        "rank":  500
+    },
+    {
+        "lemma":  "iterator protocol",
+        "surface":  "iterator protocol",
+        "meaning":  "迭代器协议",
+        "rank":  501
+    },
+    {
+        "lemma":  "job",
+        "surface":  "Job",
+        "meaning":  "作业",
+        "rank":  502
+    },
+    {
+        "lemma":  "job description",
+        "surface":  "Job Description",
+        "meaning":  "岗位描述（JD）",
+        "rank":  503
+    },
+    {
+        "lemma":  "jose",
+        "surface":  "JOSE",
+        "meaning":  "JSON 对象签名和加密",
+        "rank":  504
+    },
+    {
+        "lemma":  "json web token",
+        "surface":  "Json Web Token",
+        "meaning":  "JSON Web 令牌\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  505
+    },
+    {
+        "lemma":  "just-in-time compilation",
+        "surface":  "just-in-time compilation",
+        "meaning":  "即时编译，JIT 编译",
+        "rank":  506
+    },
+    {
+        "lemma":  "jvm",
+        "surface":  "JVM",
+        "meaning":  "Java 虚拟机（Java Virtual Machine）",
+        "rank":  507
+    },
+    {
+        "lemma":  "key",
+        "surface":  "Key",
+        "meaning":  "密钥",
+        "rank":  508
+    },
+    {
+        "lemma":  "key-event notification",
+        "surface":  "key-event notification",
+        "meaning":  "键事件通知",
+        "rank":  509
+    },
+    {
+        "lemma":  "key opinion leader",
+        "surface":  "Key Opinion Leader",
+        "meaning":  "关键意见领袖（KOL），俗称大 V",
+        "rank":  510
+    },
+    {
+        "lemma":  "key performance indicator",
+        "surface":  "Key Performance Indicator",
+        "meaning":  "关键绩效考核指标（KPI）",
+        "rank":  511
+    },
+    {
+        "lemma":  "key space",
+        "surface":  "Key Space",
+        "meaning":  "键空间",
+        "rank":  512
+    },
+    {
+        "lemma":  "key-space notification",
+        "surface":  "key-space notification",
+        "meaning":  "键空间通知",
+        "rank":  513
+    },
+    {
+        "lemma":  "key-value pair",
+        "surface":  "Key-Value Pair",
+        "meaning":  "键-值对",
+        "rank":  514
+    },
+    {
+        "lemma":  "kiss 原则",
+        "surface":  "KISS 原则",
+        "meaning":  "保持简单原则（Keep It Simple Silly），“简单是一切之本\u003csup\u003e3\u003c/sup\u003e”",
+        "rank":  515
+    },
+    {
+        "lemma":  "kpi",
+        "surface":  "KPI",
+        "meaning":  "关键绩效考核指标（Key Performance Indicator）",
+        "rank":  516
+    },
+    {
+        "lemma":  "language integrated query",
+        "surface":  "Language Integrated Query",
+        "meaning":  "语言集成查询（LINQ）",
+        "rank":  517
+    },
+    {
+        "lemma":  "large",
+        "surface":  "Large",
+        "meaning":  "大型",
+        "rank":  518
+    },
+    {
+        "lemma":  "large language model",
+        "surface":  "Large Language Model",
+        "meaning":  "大型语言模型（LLM） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  519
+    },
+    {
+        "lemma":  "layered architecture",
+        "surface":  "Layered Architecture",
+        "meaning":  "分层架构",
+        "rank":  520
+    },
+    {
+        "lemma":  "ldap",
+        "surface":  "LDAP",
+        "meaning":  "Lightweight Directory Access Protocol，轻型目录访问协议",
+        "rank":  521
+    },
+    {
+        "lemma":  "leaky encapsulation",
+        "surface":  "Leaky Encapsulation",
+        "meaning":  "泄露的封装\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  522
+    },
+    {
+        "lemma":  "legacy system",
+        "surface":  "Legacy system",
+        "meaning":  "遗留系统",
+        "rank":  523
+    },
+    {
+        "lemma":  "license",
+        "surface":  "license",
+        "meaning":  "许可证",
+        "rank":  524
+    },
+    {
+        "lemma":  "lifetime",
+        "surface":  "lifetime",
+        "meaning":  "生命周期",
+        "rank":  525
+    },
+    {
+        "lemma":  "lightweight directory access protocol",
+        "surface":  "Lightweight Directory Access Protocol",
+        "meaning":  "轻量级目录访问协议（LDAP）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  526
+    },
+    {
+        "lemma":  "line of business",
+        "surface":  "LINE of Business",
+        "meaning":  "业务线（LOB）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  527
+    },
+    {
+        "lemma":  "link",
+        "surface":  "link",
+        "meaning":  "链接",
+        "rank":  528
+    },
+    {
+        "lemma":  "link seam",
+        "surface":  "link seam",
+        "meaning":  "连接期接缝：在连接期接缝处，可以通过连接到另一个库来替换行为。在编译型语言中可替换的东西包括产品库、DLL、程序集或 JAR 文件。其目的是为了解除依赖，或感知某些在测试期间可有能会发生的条件。",
+        "rank":  529
+    },
+    {
+        "lemma":  "linked resource",
+        "surface":  "linked resource",
+        "meaning":  "链接的资源",
+        "rank":  530
+    },
+    {
+        "lemma":  "liskov substitution principle",
+        "surface":  "Liskov Substitution Principle",
+        "meaning":  "里氏替换原则（LSP）",
+        "rank":  531
+    },
+    {
+        "lemma":  "literal",
+        "surface":  "literal",
+        "meaning":  "字面量、文字常量、直接量",
+        "rank":  532
+    },
+    {
+        "lemma":  "living style guides",
+        "surface":  "living style guides",
+        "meaning":  "活样式指导\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  533
+    },
+    {
+        "lemma":  "llm",
+        "surface":  "LLM",
+        "meaning":  "大型语言模型（Large Language Model） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  534
+    },
+    {
+        "lemma":  "load-balancing",
+        "surface":  "load-balancing",
+        "meaning":  "负载平衡",
+        "rank":  535
+    },
+    {
+        "lemma":  "load balancer",
+        "surface":  "load balancer",
+        "meaning":  "负载平衡器",
+        "rank":  536
+    },
+    {
+        "lemma":  "load factor",
+        "surface":  "load factor",
+        "meaning":  "负载因子",
+        "rank":  537
+    },
+    {
+        "lemma":  "load shedding",
+        "surface":  "load shedding",
+        "meaning":  "减载\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  538
+    },
+    {
+        "lemma":  "loc",
+        "surface":  "LOC",
+        "meaning":  "代码行数",
+        "rank":  539
+    },
+    {
+        "lemma":  "local function",
+        "surface":  "Local Function",
+        "meaning":  "局部函数",
+        "rank":  540
+    },
+    {
+        "lemma":  "lock-step release",
+        "surface":  "lock-step release",
+        "meaning":  "同步发布\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  541
+    },
+    {
+        "lemma":  "log",
+        "surface":  "log",
+        "meaning":  "日志",
+        "rank":  542
+    },
+    {
+        "lemma":  "loop",
+        "surface":  "loop",
+        "meaning":  "自循环",
+        "rank":  543
+    },
+    {
+        "lemma":  "loose coupling",
+        "surface":  "loose coupling",
+        "meaning":  "松散耦合",
+        "rank":  544
+    },
+    {
+        "lemma":  "low fidelity prototype",
+        "surface":  "Low Fidelity Prototype",
+        "meaning":  "低保真原型，抽象原型视图",
+        "rank":  545
+    },
+    {
+        "lemma":  "low surrogate",
+        "surface":  "low surrogate",
+        "meaning":  "低位代理项",
+        "rank":  546
+    },
+    {
+        "lemma":  "lsud",
+        "surface":  "LSUD",
+        "meaning":  "大批你所不知道的开发人员（Large Set of Unknown Developers）",
+        "rank":  547
+    },
+    {
+        "lemma":  "mainframe",
+        "surface":  "Mainframe",
+        "meaning":  "主机",
+        "rank":  548
+    },
+    {
+        "lemma":  "maintainability",
+        "surface":  "Maintainability",
+        "meaning":  "可维护性",
+        "rank":  549
+    },
+    {
+        "lemma":  "managed code",
+        "surface":  "managed code",
+        "meaning":  "托管代码",
+        "rank":  550
+    },
+    {
+        "lemma":  "managed execution",
+        "surface":  "managed execution",
+        "meaning":  "托管执行",
+        "rank":  551
+    },
+    {
+        "lemma":  "man-in-the-middle attack",
+        "surface":  "Man-In-The-Middle Attack",
+        "meaning":  "中间人攻击（MITM 攻击）",
+        "rank":  552
+    },
+    {
+        "lemma":  "management key",
+        "surface":  "Management Key",
+        "meaning":  "管理密钥",
+        "rank":  553
+    },
+    {
+        "lemma":  "manifest",
+        "surface":  "manifest",
+        "meaning":  "清单",
+        "rank":  554
+    },
+    {
+        "lemma":  "map",
+        "surface":  "map",
+        "meaning":  "映射",
+        "rank":  555
+    },
+    {
+        "lemma":  "market requirement document",
+        "surface":  "Market Requirement Document",
+        "meaning":  "市场需求文档（MRD）",
+        "rank":  556
+    },
+    {
+        "lemma":  "massive multiplayer online role-playing game",
+        "surface":  "Massive Multiplayer Online Role-Playing Game",
+        "meaning":  "大型多人在线角色扮演游戏（MMORPG）",
+        "rank":  557
+    },
+    {
+        "lemma":  "massively multiplayer online role-playing game",
+        "surface":  "Massively Multiplayer Online Role-Playing Game",
+        "meaning":  "大型多人在线角色扮演游戏（MMORPG）",
+        "rank":  558
+    },
+    {
+        "lemma":  "mathematical markup language",
+        "surface":  "Mathematical Markup Language",
+        "meaning":  "数学标记语言（MathML）",
+        "rank":  559
+    },
+    {
+        "lemma":  "mean time between failures",
+        "surface":  "Mean Time Between Failures",
+        "meaning":  "平均故障时间间隔（MTBF）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  560
+    },
+    {
+        "lemma":  "mean time to repair",
+        "surface":  "Mean Time To Repair",
+        "meaning":  "平均修复时间（MTTR）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  561
+    },
+    {
+        "lemma":  "media service",
+        "surface":  "Media Service",
+        "meaning":  "媒体服务",
+        "rank":  562
+    },
+    {
+        "lemma":  "mediator pattern",
+        "surface":  "Mediator Pattern",
+        "meaning":  "中介者模式",
+        "rank":  563
+    },
+    {
+        "lemma":  "medium",
+        "surface":  "Medium",
+        "meaning":  "中型",
+        "rank":  564
+    },
+    {
+        "lemma":  "memento pattern",
+        "surface":  "Memento Pattern",
+        "meaning":  "备忘录模式",
+        "rank":  565
+    },
+    {
+        "lemma":  "merge",
+        "surface":  "Merge",
+        "meaning":  "合并",
+        "rank":  566
+    },
+    {
+        "lemma":  "metadata",
+        "surface":  "Metadata",
+        "meaning":  "元数据",
+        "rank":  567
+    },
+    {
+        "lemma":  "metaprogramming",
+        "surface":  "metaprogramming",
+        "meaning":  "元编程",
+        "rank":  568
+    },
+    {
+        "lemma":  "middleware",
+        "surface":  "Middleware",
+        "meaning":  "中间件",
+        "rank":  569
+    },
+    {
+        "lemma":  "mind map",
+        "surface":  "mind map",
+        "meaning":  "思维导图、脑图、心智图",
+        "rank":  570
+    },
+    {
+        "lemma":  "minimum marketable feature",
+        "surface":  "Minimum Marketable Feature",
+        "meaning":  "最小可售特性（MMF）",
+        "rank":  571
+    },
+    {
+        "lemma":  "minimum viable product",
+        "surface":  "Minimum Viable Product",
+        "meaning":  "最小化可行产品（MVP）",
+        "rank":  572
+    },
+    {
+        "lemma":  "minimum viable release",
+        "surface":  "Minimum Viable Release",
+        "meaning":  "最小可行发布（MVR）",
+        "rank":  573
+    },
+    {
+        "lemma":  "missing abstraction",
+        "surface":  "Missing Abstraction",
+        "meaning":  "缺失抽象\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  574
+    },
+    {
+        "lemma":  "missing encapsulation",
+        "surface":  "Missing Encapsulation",
+        "meaning":  "缺失的封装\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  575
+    },
+    {
+        "lemma":  "missing hierarchy",
+        "surface":  "Missing Hierarchy",
+        "meaning":  "缺失层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  576
+    },
+    {
+        "lemma":  "mixed reality",
+        "surface":  "Mixed Reality",
+        "meaning":  "混合现实（MR）",
+        "rank":  577
+    },
+    {
+        "lemma":  "mobile service",
+        "surface":  "Mobile Service",
+        "meaning":  "移动服务",
+        "rank":  578
+    },
+    {
+        "lemma":  "mock object",
+        "surface":  "Mock Object",
+        "meaning":  "模拟对象，仿对象：在内部对条件进行断言的伪对象",
+        "rank":  579
+    },
+    {
+        "lemma":  "move field",
+        "surface":  "Move Field",
+        "meaning":  "搬移字段\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  580
+    },
+    {
+        "lemma":  "move method",
+        "surface":  "Move Method",
+        "meaning":  "搬移函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  581
+    },
+    {
+        "lemma":  "mrd",
+        "surface":  "MRD",
+        "meaning":  "市场需求文档（Market Requirement Document）",
+        "rank":  582
+    },
+    {
+        "lemma":  "multitenancy",
+        "surface":  "Multitenancy",
+        "meaning":  "多租户",
+        "rank":  583
+    },
+    {
+        "lemma":  "multifaced abstraction",
+        "surface":  "Multifaced Abstraction",
+        "meaning":  "多方面抽象\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  584
+    },
+    {
+        "lemma":  "multipath hierarchy",
+        "surface":  "Multipath Hierarchy",
+        "meaning":  "多路径层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  585
+    },
+    {
+        "lemma":  "multitier architecture",
+        "surface":  "Multitier Architecture",
+        "meaning":  "多层体系结构",
+        "rank":  586
+    },
+    {
+        "lemma":  "multi-factor authentication",
+        "surface":  "Multi-factor Authentication",
+        "meaning":  "多重验证",
+        "rank":  587
+    },
+    {
+        "lemma":  "naming collisions",
+        "surface":  "naming collisions",
+        "meaning":  "命名冲突",
+        "rank":  588
+    },
+    {
+        "lemma":  "namespace",
+        "surface":  "Namespace",
+        "meaning":  "命名空间，名称空间",
+        "rank":  589
+    },
+    {
+        "lemma":  "native code",
+        "surface":  "native code",
+        "meaning":  "本机代码",
+        "rank":  590
+    },
+    {
+        "lemma":  "ncc",
+        "surface":  "NCC",
+        "meaning":  ".NET Core 社区（.NET Core Community）/.NET 中国社区（.NET China Community）",
+        "rank":  591
+    },
+    {
+        "lemma":  "near field communication",
+        "surface":  "Near Field Communication",
+        "meaning":  "近距离无线通信（NFC）",
+        "rank":  592
+    },
+    {
+        "lemma":  "network hops",
+        "surface":  "network hops",
+        "meaning":  "网络跳数",
+        "rank":  593
+    },
+    {
+        "lemma":  "nfc",
+        "surface":  "NFC",
+        "meaning":  "近距离无线通信（Near Field Communication）",
+        "rank":  594
+    },
+    {
+        "lemma":  "nfx",
+        "surface":  "nfx",
+        "meaning":  ".NET Framework（.NET 框架）",
+        "rank":  595
+    },
+    {
+        "lemma":  "non-clustered index",
+        "surface":  "Non-clustered Index",
+        "meaning":  "非聚集索引",
+        "rank":  596
+    },
+    {
+        "lemma":  "non-managed code",
+        "surface":  "non-managed code",
+        "meaning":  "非托管代码",
+        "rank":  597
+    },
+    {
+        "lemma":  "non-optional",
+        "surface":  "non-optional",
+        "meaning":  "非可选的",
+        "rank":  598
+    },
+    {
+        "lemma":  "non-transactional pipeline",
+        "surface":  "non-transactional pipeline",
+        "meaning":  "非事务型流水线",
+        "rank":  599
+    },
+    {
+        "lemma":  "node",
+        "surface":  "node",
+        "meaning":  "节点",
+        "rank":  600
+    },
+    {
+        "lemma":  "normalize",
+        "surface":  "normalize",
+        "meaning":  "规格化",
+        "rank":  601
+    },
+    {
+        "lemma":  "notification",
+        "surface":  "notification",
+        "meaning":  "通知",
+        "rank":  602
+    },
+    {
+        "lemma":  "notification hub",
+        "surface":  "notification hub",
+        "meaning":  "通知中心",
+        "rank":  603
+    },
+    {
+        "lemma":  "null object pattern",
+        "surface":  "Null Object Pattern",
+        "meaning":  "空对象模式",
+        "rank":  604
+    },
+    {
+        "lemma":  "null-coalescing",
+        "surface":  "null-coalescing",
+        "meaning":  "空值合并",
+        "rank":  605
+    },
+    {
+        "lemma":  "null coalescing operator",
+        "surface":  "Null coalescing operator",
+        "meaning":  "空值合并运算符、空值结合运算符",
+        "rank":  606
+    },
+    {
+        "lemma":  "n-tier",
+        "surface":  "N-Tier",
+        "meaning":  "N 层（结构）",
+        "rank":  607
+    },
+    {
+        "lemma":  "obfuscator",
+        "surface":  "obfuscator",
+        "meaning":  "混淆器",
+        "rank":  608
+    },
+    {
+        "lemma":  "object pool",
+        "surface":  "Object Pool",
+        "meaning":  "对象池",
+        "rank":  609
+    },
+    {
+        "lemma":  "object pool pattern",
+        "surface":  "Object Pool Pattern",
+        "meaning":  "对象池模式",
+        "rank":  610
+    },
+    {
+        "lemma":  "object/relational mapper",
+        "surface":  "Object/Relational Mapper",
+        "meaning":  "对象/关系映射器（ORM，O/RM）",
+        "rank":  611
+    },
+    {
+        "lemma":  "object seam",
+        "surface":  "object seam",
+        "meaning":  "对象接缝：在对象连接处可以通过替换一个对象为另一个对象来“更替”行为。在面向对象语言中，通常通过子类化产品代码中的类并重写其方法来实现这一点。",
+        "rank":  612
+    },
+    {
+        "lemma":  "objectives and key results",
+        "surface":  "Objectives and Key Results",
+        "meaning":  "目标与关键成果法（OKR）",
+        "rank":  613
+    },
+    {
+        "lemma":  "observer pattern",
+        "surface":  "Observer Pattern",
+        "meaning":  "观察者模式",
+        "rank":  614
+    },
+    {
+        "lemma":  "on-demand (media",
+        "surface":  "On-demand (media)",
+        "meaning":  "点播（媒体）",
+        "rank":  615
+    },
+    {
+        "lemma":  "once and only once",
+        "surface":  "Once and Only Once",
+        "meaning":  "一次且仅一次\u003csup\u003e3\u003c/sup\u003e(OAOO)",
+        "rank":  616
+    },
+    {
+        "lemma":  "one rule, one place",
+        "surface":  "One rule, one place",
+        "meaning":  "一个规则，实现一次",
+        "rank":  617
+    },
+    {
+        "lemma":  "one-size-fits-all",
+        "surface":  "One-Size-Fits-All",
+        "meaning":  "OSFA",
+        "rank":  618
+    },
+    {
+        "lemma":  "one-time token",
+        "surface":  "one-time token",
+        "meaning":  "一次性令牌",
+        "rank":  619
+    },
+    {
+        "lemma":  "onion architecture",
+        "surface":  "Onion Architecture",
+        "meaning":  "洋葱架构，由 Jeffrey Palermo 提出",
+        "rank":  620
+    },
+    {
+        "lemma":  "open closed principle",
+        "surface":  "Open Closed Principle",
+        "meaning":  "开闭原则（OCP）",
+        "rank":  621
+    },
+    {
+        "lemma":  "open system interconnection",
+        "surface":  "Open System Interconnection",
+        "meaning":  "开放式系统互联（OSI）",
+        "rank":  622
+    },
+    {
+        "lemma":  "operating system",
+        "surface":  "Operating System",
+        "meaning":  "操作系统（OS）",
+        "rank":  623
+    },
+    {
+        "lemma":  "optical character recognition",
+        "surface":  "Optical Character Recognition",
+        "meaning":  "光学字符识别（OCR）",
+        "rank":  624
+    },
+    {
+        "lemma":  "optimistic concurrency",
+        "surface":  "Optimistic Concurrency",
+        "meaning":  "乐观并发控制",
+        "rank":  625
+    },
+    {
+        "lemma":  "optimistic locking",
+        "surface":  "optimistic locking",
+        "meaning":  "乐观锁",
+        "rank":  626
+    },
+    {
+        "lemma":  "orchestration",
+        "surface":  "orchestration",
+        "meaning":  "编排",
+        "rank":  627
+    },
+    {
+        "lemma":  "orchestration layer",
+        "surface":  "Orchestration Layer",
+        "meaning":  "策略编排层",
+        "rank":  628
+    },
+    {
+        "lemma":  "ordering principal",
+        "surface":  "Ordering Principal",
+        "meaning":  "良序原则",
+        "rank":  629
+    },
+    {
+        "lemma":  "os",
+        "surface":  "OS",
+        "meaning":  "操作系统（Operating System）",
+        "rank":  630
+    },
+    {
+        "lemma":  "osgi",
+        "surface":  "OSGI",
+        "meaning":  "开放服务网关协议（Open Source Gateway Initiative）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  631
+    },
+    {
+        "lemma":  "overriding",
+        "surface":  "overriding",
+        "meaning":  "重写",
+        "rank":  632
+    },
+    {
+        "lemma":  "overview",
+        "surface":  "Overview",
+        "meaning":  "概览",
+        "rank":  633
+    },
+    {
+        "lemma":  "over-post",
+        "surface":  "over-post",
+        "meaning":  "过度提交",
+        "rank":  634
+    },
+    {
+        "lemma":  "owasp",
+        "surface":  "OWASP",
+        "meaning":  "开放式 Web 应用程序安全项目（Open Web Application Security Project）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  635
+    },
+    {
+        "lemma":  "p2p",
+        "surface":  "P2P",
+        "meaning":  "个人对个人（Person-to-Person）",
+        "rank":  636
+    },
+    {
+        "lemma":  "paas",
+        "surface":  "Paas",
+        "meaning":  "平台即服务（Platform As A Service）",
+        "rank":  637
+    },
+    {
+        "lemma":  "packet sniffing",
+        "surface":  "packet sniffing",
+        "meaning":  "分组嗅探",
+        "rank":  638
+    },
+    {
+        "lemma":  "page blob",
+        "surface":  "Page Blob",
+        "meaning":  "页 BLOB",
+        "rank":  639
+    },
+    {
+        "lemma":  "parameterize method",
+        "surface":  "Parameterize Method",
+        "meaning":  "令函数携带参数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  640
+    },
+    {
+        "lemma":  "partial translate",
+        "surface":  "Partial Translate",
+        "meaning":  "部分翻译（出自 Chrome 浏览器）",
+        "rank":  641
+    },
+    {
+        "lemma":  "partition",
+        "surface":  "partition",
+        "meaning":  "分区",
+        "rank":  642
+    },
+    {
+        "lemma":  "partition tolerance",
+        "surface":  "Partition tolerance",
+        "meaning":  "分区容忍性\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  643
+    },
+    {
+        "lemma":  "pascalcase",
+        "surface":  "PascalCase",
+        "meaning":  "Pascal 大小写",
+        "rank":  644
+    },
+    {
+        "lemma":  "pass-through",
+        "surface":  "pass-through",
+        "meaning":  "直托",
+        "rank":  645
+    },
+    {
+        "lemma":  "passive",
+        "surface":  "passive",
+        "meaning":  "被动（的）",
+        "rank":  646
+    },
+    {
+        "lemma":  "pattern",
+        "surface":  "pattern",
+        "meaning":  "模式",
+        "rank":  647
+    },
+    {
+        "lemma":  "pay as you go",
+        "surface":  "Pay as You Go",
+        "meaning":  "即用即付",
+        "rank":  648
+    },
+    {
+        "lemma":  "pc",
+        "surface":  "PC",
+        "meaning":  "个人计算机（Personal Computer）",
+        "rank":  649
+    },
+    {
+        "lemma":  "peek",
+        "surface":  "peek",
+        "meaning":  "查看",
+        "rank":  650
+    },
+    {
+        "lemma":  "peering rules",
+        "surface":  "peering rules",
+        "meaning":  "对等交互规则\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  651
+    },
+    {
+        "lemma":  "percent encoding",
+        "surface":  "Percent Encoding",
+        "meaning":  "百分号编码",
+        "rank":  652
+    },
+    {
+        "lemma":  "performance",
+        "surface":  "performance",
+        "meaning":  "性能",
+        "rank":  653
+    },
+    {
+        "lemma":  "performance counter",
+        "surface":  "performance counter",
+        "meaning":  "性能计数器",
+        "rank":  654
+    },
+    {
+        "lemma":  "performance-oriented",
+        "surface":  "performance-oriented",
+        "meaning":  "面向性能",
+        "rank":  655
+    },
+    {
+        "lemma":  "person-to-person",
+        "surface":  "Person-to-Person",
+        "meaning":  "个人对个人（P2P）",
+        "rank":  656
+    },
+    {
+        "lemma":  "personal computer",
+        "surface":  "Personal Computer",
+        "meaning":  "个人计算机（PC）",
+        "rank":  657
+    },
+    {
+        "lemma":  "pessimistic concurrency",
+        "surface":  "Pessimistic Concurrency",
+        "meaning":  "悲观并发控制",
+        "rank":  658
+    },
+    {
+        "lemma":  "pessimistic locking",
+        "surface":  "pessimistic locking",
+        "meaning":  "悲观锁",
+        "rank":  659
+    },
+    {
+        "lemma":  "phame",
+        "surface":  "PHAME",
+        "meaning":  "由 Booch 提出的对象模型的 4 个主要元素的设计规则的统称，即 Principle of Hierarchy, Abstraction, Modularization, and Encapsulation，层次结构、抽象、模块化与封装原则",
+        "rank":  660
+    },
+    {
+        "lemma":  "pinch point",
+        "surface":  "pinch point",
+        "meaning":  "汇点：影响结构图中的隘口和交通要冲，在汇点编写测试的好处就是只需针对少数几个方法编写测试，就能达到探测大量其他方法的改动的目的。",
+        "rank":  661
+    },
+    {
+        "lemma":  "placeholder",
+        "surface":  "placeholder",
+        "meaning":  "占位符",
+        "rank":  662
+    },
+    {
+        "lemma":  "platform as a service",
+        "surface":  "Platform as a Service",
+        "meaning":  "平台即服务（Paas）",
+        "rank":  663
+    },
+    {
+        "lemma":  "pmd",
+        "surface":  "PMD",
+        "meaning":  "项目管理文档（Program Managment Document）",
+        "rank":  664
+    },
+    {
+        "lemma":  "point of invocation of the method",
+        "surface":  "point of invocation of the method",
+        "meaning":  "方法调用点",
+        "rank":  665
+    },
+    {
+        "lemma":  "point-to-site",
+        "surface":  "Point-to-Site",
+        "meaning":  "点到站点",
+        "rank":  666
+    },
+    {
+        "lemma":  "polling",
+        "surface":  "polling",
+        "meaning":  "轮询",
+        "rank":  667
+    },
+    {
+        "lemma":  "polymorphism",
+        "surface":  "polymorphism",
+        "meaning":  "多态",
+        "rank":  668
+    },
+    {
+        "lemma":  "polyrot programming",
+        "surface":  "polyrot programming",
+        "meaning":  "多语言编程",
+        "rank":  669
+    },
+    {
+        "lemma":  "poor man’s dependency injection",
+        "surface":  "Poor Man’s Dependency Injection",
+        "meaning":  "穷人的依赖注入",
+        "rank":  670
+    },
+    {
+        "lemma":  "post-initialization",
+        "surface":  "post-initialization",
+        "meaning":  "后初始化",
+        "rank":  671
+    },
+    {
+        "lemma":  "postcondition",
+        "surface":  "postcondition",
+        "meaning":  "后置条件",
+        "rank":  672
+    },
+    {
+        "lemma":  "pot",
+        "surface":  "PoT",
+        "meaning":  "程序思维（Program-to-Thoughts） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  673
+    },
+    {
+        "lemma":  "prd",
+        "surface":  "PRD",
+        "meaning":  "产品需求文档（Product Requirements Document）",
+        "rank":  674
+    },
+    {
+        "lemma":  "pre-flight request",
+        "surface":  "pre-flight request",
+        "meaning":  "事先请求",
+        "rank":  675
+    },
+    {
+        "lemma":  "pre-initialization",
+        "surface":  "pre-initialization",
+        "meaning":  "预初始化",
+        "rank":  676
+    },
+    {
+        "lemma":  "pre-training",
+        "surface":  "pre-training",
+        "meaning":  "预训练 \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  677
+    },
+    {
+        "lemma":  "predicate decorator",
+        "surface":  "Predicate Decorator",
+        "meaning":  "谓词修饰器",
+        "rank":  678
+    },
+    {
+        "lemma":  "precondition",
+        "surface":  "precondition",
+        "meaning":  "前提，前置条件",
+        "rank":  679
+    },
+    {
+        "lemma":  "presentation layer",
+        "surface":  "presentation layer",
+        "meaning":  "表现层",
+        "rank":  680
+    },
+    {
+        "lemma":  "preserve whole object",
+        "surface":  "Preserve Whole Object",
+        "meaning":  "保持对象完整\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  681
+    },
+    {
+        "lemma":  "primary database",
+        "surface":  "primary database",
+        "meaning":  "主数据库",
+        "rank":  682
+    },
+    {
+        "lemma":  "primary storage",
+        "surface":  "primary storage",
+        "meaning":  "主存储",
+        "rank":  683
+    },
+    {
+        "lemma":  "primitive obsession",
+        "surface":  "primitive obsession",
+        "meaning":  "基本类型偏执\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  684
+    },
+    {
+        "lemma":  "principal",
+        "surface":  "principal",
+        "meaning":  "主体\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  685
+    },
+    {
+        "lemma":  "private class data pattern",
+        "surface":  "Private Class Data Pattern",
+        "meaning":  "私有类数据模式",
+        "rank":  686
+    },
+    {
+        "lemma":  "private cloud",
+        "surface":  "private cloud",
+        "meaning":  "私有云",
+        "rank":  687
+    },
+    {
+        "lemma":  "priority queue",
+        "surface":  "priority queue",
+        "meaning":  "优先级队列",
+        "rank":  688
+    },
+    {
+        "lemma":  "probe",
+        "surface":  "probe",
+        "meaning":  "探测器",
+        "rank":  689
+    },
+    {
+        "lemma":  "process",
+        "surface":  "process",
+        "meaning":  "进程",
+        "rank":  690
+    },
+    {
+        "lemma":  "producer",
+        "surface":  "producer",
+        "meaning":  "生产者",
+        "rank":  691
+    },
+    {
+        "lemma":  "product backlog",
+        "surface":  "product backlog",
+        "meaning":  "产品积压工作",
+        "rank":  692
+    },
+    {
+        "lemma":  "product owner",
+        "surface":  "Product Owner",
+        "meaning":  "产品负责人（PO）",
+        "rank":  693
+    },
+    {
+        "lemma":  "product requirements document",
+        "surface":  "Product Requirements Document",
+        "meaning":  "产品需求文档（PRD）",
+        "rank":  694
+    },
+    {
+        "lemma":  "production",
+        "surface":  "production",
+        "meaning":  "生产（环境）",
+        "rank":  695
+    },
+    {
+        "lemma":  "production load",
+        "surface":  "production load",
+        "meaning":  "生产负载\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  696
+    },
+    {
+        "lemma":  "program managment document",
+        "surface":  "Program Managment Document",
+        "meaning":  "项目管理文档（PMD）",
+        "rank":  697
+    },
+    {
+        "lemma":  "program-to-thoughts",
+        "surface":  "Program-to-Thoughts",
+        "meaning":  "程序思维（PoT） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  698
+    },
+    {
+        "lemma":  "programming by difference",
+        "surface":  "programming by difference",
+        "meaning":  "差异式编程",
+        "rank":  699
+    },
+    {
+        "lemma":  "proof of concept",
+        "surface":  "proof of concept",
+        "meaning":  "概念验证",
+        "rank":  700
+    },
+    {
+        "lemma":  "proportional error rate",
+        "surface":  "proportional error rate",
+        "meaning":  "错误率比例\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  701
+    },
+    {
+        "lemma":  "protected variation",
+        "surface":  "protected variation",
+        "meaning":  "防止变异",
+        "rank":  702
+    },
+    {
+        "lemma":  "protocol",
+        "surface":  "protocol",
+        "meaning":  "协议",
+        "rank":  703
+    },
+    {
+        "lemma":  "prototype",
+        "surface":  "prototype",
+        "meaning":  "原型",
+        "rank":  704
+    },
+    {
+        "lemma":  "prototype pattern",
+        "surface":  "Prototype Pattern",
+        "meaning":  "原型模式",
+        "rank":  705
+    },
+    {
+        "lemma":  "proxy",
+        "surface":  "proxy",
+        "meaning":  "代理",
+        "rank":  706
+    },
+    {
+        "lemma":  "proxy pattern",
+        "surface":  "Proxy Pattern",
+        "meaning":  "代理模式",
+        "rank":  707
+    },
+    {
+        "lemma":  "public cloud",
+        "surface":  "public cloud",
+        "meaning":  "公有云",
+        "rank":  708
+    },
+    {
+        "lemma":  "pull up constructor body",
+        "surface":  "Pull Up Constructor Body",
+        "meaning":  "构造函数本体上移\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  709
+    },
+    {
+        "lemma":  "pull up field",
+        "surface":  "Pull Up Field",
+        "meaning":  "字段上移\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  710
+    },
+    {
+        "lemma":  "pull up method",
+        "surface":  "Pull Up Method",
+        "meaning":  "函数上移\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  711
+    },
+    {
+        "lemma":  "push",
+        "surface":  "push",
+        "meaning":  "推送",
+        "rank":  712
+    },
+    {
+        "lemma":  "push down field",
+        "surface":  "Push Down Field",
+        "meaning":  "字段下移\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  713
+    },
+    {
+        "lemma":  "push down method",
+        "surface":  "Push Down Method",
+        "meaning":  "函数下移\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  714
+    },
+    {
+        "lemma":  "quality assurance",
+        "surface":  "quality assurance",
+        "meaning":  "质量保证（QA）",
+        "rank":  715
+    },
+    {
+        "lemma":  "queue",
+        "surface":  "Queue",
+        "meaning":  "队列",
+        "rank":  716
+    },
+    {
+        "lemma":  "quota",
+        "surface":  "Quota",
+        "meaning":  "配额",
+        "rank":  717
+    },
+    {
+        "lemma":  "rack",
+        "surface":  "Rack",
+        "meaning":  "机架",
+        "rank":  718
+    },
+    {
+        "lemma":  "raii",
+        "surface":  "RAII",
+        "meaning":  "Resource Acquisition Is Initialization，资源获取即初始化",
+        "rank":  719
+    },
+    {
+        "lemma":  "rapid application development",
+        "surface":  "Rapid Application Development",
+        "meaning":  "快速应用程序开发（RAD）",
+        "rank":  720
+    },
+    {
+        "lemma":  "rdbms",
+        "surface":  "RDBMS",
+        "meaning":  "关系型数据库管理系统（Relational Database Management System）",
+        "rank":  721
+    },
+    {
+        "lemma":  "reactive extensions",
+        "surface":  "Reactive extensions",
+        "meaning":  "响应式扩展（Rx）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  722
+    },
+    {
+        "lemma":  "ready (status",
+        "surface":  "Ready (status)",
+        "meaning":  "就绪（状态）",
+        "rank":  723
+    },
+    {
+        "lemma":  "real-time",
+        "surface":  "real-time",
+        "meaning":  "即时、实时",
+        "rank":  724
+    },
+    {
+        "lemma":  "real-time discussions",
+        "surface":  "real-time discussions",
+        "meaning":  "即时讨论、实时讨论",
+        "rank":  725
+    },
+    {
+        "lemma":  "rebellious hierarchy",
+        "surface":  "Rebellious Hierarchy",
+        "meaning":  "叛逆性层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  726
+    },
+    {
+        "lemma":  "recursion",
+        "surface":  "recursion",
+        "meaning":  "递归",
+        "rank":  727
+    },
+    {
+        "lemma":  "redundancy",
+        "surface":  "Redundancy",
+        "meaning":  "冗余",
+        "rank":  728
+    },
+    {
+        "lemma":  "redundant",
+        "surface":  "Redundant",
+        "meaning":  "冗余（的）",
+        "rank":  729
+    },
+    {
+        "lemma":  "ref return",
+        "surface":  "Ref Return",
+        "meaning":  "应用返回",
+        "rank":  730
+    },
+    {
+        "lemma":  "ref local",
+        "surface":  "Ref Local",
+        "meaning":  "局部引用",
+        "rank":  731
+    },
+    {
+        "lemma":  "ref property",
+        "surface":  "Ref Property",
+        "meaning":  "引用属性",
+        "rank":  732
+    },
+    {
+        "lemma":  "ref-safe-to-escape",
+        "surface":  "Ref-Safe-to-Escape",
+        "meaning":  "引用安全逃逸",
+        "rank":  733
+    },
+    {
+        "lemma":  "ref-safe-to-escape scope",
+        "surface":  "Ref-Safe-to-Escape scope",
+        "meaning":  "引用安全逃逸范围",
+        "rank":  734
+    },
+    {
+        "lemma":  "refactor",
+        "surface":  "Refactor",
+        "meaning":  "重构",
+        "rank":  735
+    },
+    {
+        "lemma":  "region",
+        "surface":  "region",
+        "meaning":  "地域",
+        "rank":  736
+    },
+    {
+        "lemma":  "reification",
+        "surface":  "reification",
+        "meaning":  "具体化",
+        "rank":  737
+    },
+    {
+        "lemma":  "reinforcement learning",
+        "surface":  "Reinforcement Learning",
+        "meaning":  "强化学习，一种机器学习的方法，通过从外部获得激励来校正学习方向从而获得一种自适应的学习能力",
+        "rank":  738
+    },
+    {
+        "lemma":  "reinforcement learning from human feedback",
+        "surface":  "Reinforcement Learning from Human Feedback",
+        "meaning":  "基于人工反馈的强化学习（RLHF）",
+        "rank":  739
+    },
+    {
+        "lemma":  "relay",
+        "surface":  "relay",
+        "meaning":  "中继",
+        "rank":  740
+    },
+    {
+        "lemma":  "relevancy",
+        "surface":  "Relevancy",
+        "meaning":  "适切性",
+        "rank":  741
+    },
+    {
+        "lemma":  "reliability",
+        "surface":  "Reliability",
+        "meaning":  "可靠性",
+        "rank":  742
+    },
+    {
+        "lemma":  "relying party",
+        "surface":  "Relying Party",
+        "meaning":  "依赖方",
+        "rank":  743
+    },
+    {
+        "lemma":  "remove assignments to parameters",
+        "surface":  "Remove Assignments to Parameters",
+        "meaning":  "移除对参数的赋值\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  744
+    },
+    {
+        "lemma":  "remove control flag",
+        "surface":  "Remove Control Flag",
+        "meaning":  "移除控制标记\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  745
+    },
+    {
+        "lemma":  "remove middle man",
+        "surface":  "Remove Middle Man",
+        "meaning":  "移除中间人\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  746
+    },
+    {
+        "lemma":  "remove parameter",
+        "surface":  "Remove Parameter",
+        "meaning":  "移除参数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  747
+    },
+    {
+        "lemma":  "remove setting method",
+        "surface":  "Remove Setting Method",
+        "meaning":  "移除配置函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  748
+    },
+    {
+        "lemma":  "rename method",
+        "surface":  "Rename Method",
+        "meaning":  "函数改名\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  749
+    },
+    {
+        "lemma":  "replace array with object",
+        "surface":  "Replace Array with Object",
+        "meaning":  "以对象取代数组\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  750
+    },
+    {
+        "lemma":  "replace conditional with polymorphism",
+        "surface":  "Replace Conditional with Polymorphism",
+        "meaning":  "以多态取代条件表达式\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  751
+    },
+    {
+        "lemma":  "replace constructor with factory method",
+        "surface":  "Replace Constructor with Factory Method",
+        "meaning":  "以工厂函数取代构造函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  752
+    },
+    {
+        "lemma":  "replace data value with object",
+        "surface":  "Replace Data Value with Object",
+        "meaning":  "以对象取代数据值\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  753
+    },
+    {
+        "lemma":  "replace delegation with inheritance",
+        "surface":  "Replace Delegation with Inheritance",
+        "meaning":  "以继承取代委托\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  754
+    },
+    {
+        "lemma":  "replace error 　 code with exception",
+        "surface":  "Replace Error 　 Code with Exception",
+        "meaning":  "以异常取代错误码\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  755
+    },
+    {
+        "lemma":  "replace exception with test",
+        "surface":  "Replace Exception with Test",
+        "meaning":  "以测试取代异常\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  756
+    },
+    {
+        "lemma":  "replace inheritance with delegation",
+        "surface":  "Replace Inheritance with Delegation",
+        "meaning":  "以委托取代继承\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  757
+    },
+    {
+        "lemma":  "replace magic number with symbolic constant",
+        "surface":  "Replace Magic Number with Symbolic Constant",
+        "meaning":  "以字面常量取代魔法数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  758
+    },
+    {
+        "lemma":  "replace method with method object",
+        "surface":  "Replace Method with Method Object",
+        "meaning":  "以函数对象取代函数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  759
+    },
+    {
+        "lemma":  "replace nested conditional with guard clauses",
+        "surface":  "Replace Nested Conditional with Guard Clauses",
+        "meaning":  "以卫语句取代嵌套条件表达式\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  760
+    },
+    {
+        "lemma":  "replace parameter with explicit methods",
+        "surface":  "Replace Parameter with Explicit Methods",
+        "meaning":  "以明确函数取代参数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  761
+    },
+    {
+        "lemma":  "replace parameter with methods",
+        "surface":  "Replace Parameter with Methods",
+        "meaning":  "以函数取代参数\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  762
+    },
+    {
+        "lemma":  "replace record with data class",
+        "surface":  "Replace Record with Data Class",
+        "meaning":  "以数据类取代记录\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  763
+    },
+    {
+        "lemma":  "replace subclass with fields",
+        "surface":  "Replace Subclass with Fields",
+        "meaning":  "以字段取代子类\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  764
+    },
+    {
+        "lemma":  "replace temp with query",
+        "surface":  "Replace Temp with Query",
+        "meaning":  "以查询取代临时变量\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  765
+    },
+    {
+        "lemma":  "replace type code with class",
+        "surface":  "Replace Type Code with Class",
+        "meaning":  "以类取代类型码\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  766
+    },
+    {
+        "lemma":  "replace type code with state/strategy",
+        "surface":  "Replace Type Code with State/Strategy",
+        "meaning":  "以 State/Strategy 取代类型码\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  767
+    },
+    {
+        "lemma":  "replace type code with subclass",
+        "surface":  "Replace Type Code with Subclass",
+        "meaning":  "以子类取代类型码\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  768
+    },
+    {
+        "lemma":  "reporting",
+        "surface":  "reporting",
+        "meaning":  "报表",
+        "rank":  769
+    },
+    {
+        "lemma":  "repository",
+        "surface":  "Repository",
+        "meaning":  "存储库；仓储；仓库；资源库",
+        "rank":  770
+    },
+    {
+        "lemma":  "representational state transfer",
+        "surface":  "REpresentational State Transfer",
+        "meaning":  "表述性状态转移、表征性状态传输、具象状态传输（REST）",
+        "rank":  771
+    },
+    {
+        "lemma":  "request pipeline",
+        "surface":  "request pipeline",
+        "meaning":  "请求管道",
+        "rank":  772
+    },
+    {
+        "lemma":  "requirements churn",
+        "surface":  "Requirements Churn",
+        "meaning":  "需求波动",
+        "rank":  773
+    },
+    {
+        "lemma":  "reserved",
+        "surface":  "reserved",
+        "meaning":  "专属",
+        "rank":  774
+    },
+    {
+        "lemma":  "resolution",
+        "surface":  "resolution",
+        "meaning":  "解析",
+        "rank":  775
+    },
+    {
+        "lemma":  "resource acquisition is initialization",
+        "surface":  "Resource Acquisition Is Initialization",
+        "meaning":  "资源获取即初始化（RAII）",
+        "rank":  776
+    },
+    {
+        "lemma":  "resource release is destruction",
+        "surface":  "Resource Release Is Destruction",
+        "meaning":  "在构造时没有“获取”资源，但在析构时释放资源（RRID），一种 RAII 的特殊用法",
+        "rank":  777
+    },
+    {
+        "lemma":  "resource-oriented architecture",
+        "surface":  "Resource-Oriented Architecture",
+        "meaning":  "面向资源的架构(ROA)",
+        "rank":  778
+    },
+    {
+        "lemma":  "response group",
+        "surface":  "Response Group",
+        "meaning":  "响应群",
+        "rank":  779
+    },
+    {
+        "lemma":  "return on investment",
+        "surface":  "Return on Investment",
+        "meaning":  "投资回报（ROI）",
+        "rank":  780
+    },
+    {
+        "lemma":  "reverse proxy module",
+        "surface":  "reverse proxy module",
+        "meaning":  "反向代理模块",
+        "rank":  781
+    },
+    {
+        "lemma":  "retail",
+        "surface":  "retail",
+        "meaning":  "零售版",
+        "rank":  782
+    },
+    {
+        "lemma":  "rich client",
+        "surface":  "Rich Client",
+        "meaning":  "丰富客户端",
+        "rank":  783
+    },
+    {
+        "lemma":  "ripple effect",
+        "surface":  "Ripple Effect",
+        "meaning":  "涟漪效应",
+        "rank":  784
+    },
+    {
+        "lemma":  "rlhf",
+        "surface":  "RLHF",
+        "meaning":  "基于人工反馈的强化学习（Reinforcement Learning from Human Feedback）",
+        "rank":  785
+    },
+    {
+        "lemma":  "role",
+        "surface":  "role",
+        "meaning":  "角色",
+        "rank":  786
+    },
+    {
+        "lemma":  "rolling upgrade",
+        "surface":  "Rolling Upgrade",
+        "meaning":  "滚动升级",
+        "rank":  787
+    },
+    {
+        "lemma":  "round-robin",
+        "surface":  "round-robin",
+        "meaning":  "轮流（分配）；轮叫",
+        "rank":  788
+    },
+    {
+        "lemma":  "round-tripping",
+        "surface":  "round-tripping",
+        "meaning":  "还原；回传；往返，往返切换",
+        "rank":  789
+    },
+    {
+        "lemma":  "router",
+        "surface":  "router",
+        "meaning":  "路由器",
+        "rank":  790
+    },
+    {
+        "lemma":  "row",
+        "surface":  "row",
+        "meaning":  "行",
+        "rank":  791
+    },
+    {
+        "lemma":  "rpc",
+        "surface":  "RPC",
+        "meaning":  "远程过程调用（Remote Procedure Call）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  792
+    },
+    {
+        "lemma":  "rrid",
+        "surface":  "RRID",
+        "meaning":  "Resource Release Is Destruction，在构造时没有“获取”资源，但在析构时释放资源，一种 RAII 的特殊用法",
+        "rank":  793
+    },
+    {
+        "lemma":  "saas",
+        "surface":  "Saas",
+        "meaning":  "软件即服务（Software As A Service）",
+        "rank":  794
+    },
+    {
+        "lemma":  "safe-to-escape",
+        "surface":  "Safe-to-Escape",
+        "meaning":  "安全逃逸",
+        "rank":  795
+    },
+    {
+        "lemma":  "safe-to-escape scope",
+        "surface":  "Safe-to-Escape scope",
+        "meaning":  "安全逃逸范围",
+        "rank":  796
+    },
+    {
+        "lemma":  "salted password hashing",
+        "surface":  "salted password hashing",
+        "meaning":  "加盐密码哈希\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  797
+    },
+    {
+        "lemma":  "san",
+        "surface":  "SAN",
+        "meaning":  "存储区域网络（Storage Area Network）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  798
+    },
+    {
+        "lemma":  "sasl",
+        "surface":  "SASL",
+        "meaning":  "简单认证与安全层",
+        "rank":  799
+    },
+    {
+        "lemma":  "scalability",
+        "surface":  "Scalability",
+        "meaning":  "缩放性",
+        "rank":  800
+    },
+    {
+        "lemma":  "scalable vector graphic",
+        "surface":  "Scalable Vector Graphic",
+        "meaning":  "可伸缩矢量图（SVG）",
+        "rank":  801
+    },
+    {
+        "lemma":  "scale",
+        "surface":  "Scale",
+        "meaning":  "缩放",
+        "rank":  802
+    },
+    {
+        "lemma":  "scale out",
+        "surface":  "Scale Out",
+        "meaning":  "向外缩放",
+        "rank":  803
+    },
+    {
+        "lemma":  "scale up",
+        "surface":  "Scale Up",
+        "meaning":  "向上缩放",
+        "rank":  804
+    },
+    {
+        "lemma":  "scaling pattern",
+        "surface":  "scaling pattern",
+        "meaning":  "扩展模式\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  805
+    },
+    {
+        "lemma":  "schema (database",
+        "surface":  "Schema (database)",
+        "meaning":  "架构（数据）",
+        "rank":  806
+    },
+    {
+        "lemma":  "schema (xml",
+        "surface":  "Schema (xml)",
+        "meaning":  "架构（xml）",
+        "rank":  807
+    },
+    {
+        "lemma":  "scrum master",
+        "surface":  "Scrum Master",
+        "meaning":  "Scrum 主管（SM）",
+        "rank":  808
+    },
+    {
+        "lemma":  "sdk",
+        "surface":  "SDK",
+        "meaning":  "软件开发工具箱（Software Development Kits）",
+        "rank":  809
+    },
+    {
+        "lemma":  "seam",
+        "surface":  "seam",
+        "meaning":  "接缝：程序中的一些特殊的点，可以让你无需做任何修改就能达到修改程序行为的目的。",
+        "rank":  810
+    },
+    {
+        "lemma":  "search engine",
+        "surface":  "Search Engine",
+        "meaning":  "搜索引擎（SE）",
+        "rank":  811
+    },
+    {
+        "lemma":  "search engine marketing",
+        "surface":  "Search Engine Marketing",
+        "meaning":  "搜索引擎营销（SEM）",
+        "rank":  812
+    },
+    {
+        "lemma":  "search engine optimization",
+        "surface":  "Search Engine Optimization",
+        "meaning":  "搜索引擎优化（SEO）",
+        "rank":  813
+    },
+    {
+        "lemma":  "secondary storage",
+        "surface":  "secondary storage",
+        "meaning":  "二级存储",
+        "rank":  814
+    },
+    {
+        "lemma":  "secure socket layer",
+        "surface":  "Secure Socket Layer",
+        "meaning":  "安全套接层（SSL）",
+        "rank":  815
+    },
+    {
+        "lemma":  "security",
+        "surface":  "Security",
+        "meaning":  "安全（性）",
+        "rank":  816
+    },
+    {
+        "lemma":  "security development lifecycle",
+        "surface":  "Security Development Lifecycle",
+        "meaning":  "安全开发生命周期\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  817
+    },
+    {
+        "lemma":  "security socket layer",
+        "surface":  "Security Socket Layer",
+        "meaning":  "安全套接层",
+        "rank":  818
+    },
+    {
+        "lemma":  "security token",
+        "surface":  "Security Token",
+        "meaning":  "安全令牌",
+        "rank":  819
+    },
+    {
+        "lemma":  "self encapsulate field",
+        "surface":  "Self Encapsulate Field",
+        "meaning":  "自封装字段\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  820
+    },
+    {
+        "lemma":  "self-hosted",
+        "surface":  "self-hosted",
+        "meaning":  "自管理主机\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  821
+    },
+    {
+        "lemma":  "self-signed certificate",
+        "surface":  "Self-signed Certificate",
+        "meaning":  "自签名证书",
+        "rank":  822
+    },
+    {
+        "lemma":  "semantic kernel",
+        "surface":  "Semantic Kernel",
+        "meaning":  "语义核心 \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  823
+    },
+    {
+        "lemma":  "semantic monitoring",
+        "surface":  "semantic monitoring",
+        "meaning":  "语义监控\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  824
+    },
+    {
+        "lemma":  "semantic versioning",
+        "surface":  "Semantic Versioning",
+        "meaning":  "语义化版本控制",
+        "rank":  825
+    },
+    {
+        "lemma":  "separate domain from presentation",
+        "surface":  "Separate Domain from Presentation",
+        "meaning":  "将领域和表述/显示分离\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  826
+    },
+    {
+        "lemma":  "separate query from modifier",
+        "surface":  "Separate Query from Modifier",
+        "meaning":  "将查询函数和修改函数分离\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  827
+    },
+    {
+        "lemma":  "serializable",
+        "surface":  "Serializable",
+        "meaning":  "可序列化",
+        "rank":  828
+    },
+    {
+        "lemma":  "server affinity",
+        "surface":  "Server Affinity",
+        "meaning":  "服务器绑定",
+        "rank":  829
+    },
+    {
+        "lemma":  "server driven content negotiation",
+        "surface":  "Server Driven Content Negotiation",
+        "meaning":  "服务器驱动的内容协商",
+        "rank":  830
+    },
+    {
+        "lemma":  "server side render",
+        "surface":  "Server Side Render",
+        "meaning":  "服务器渲染（SSR）",
+        "rank":  831
+    },
+    {
+        "lemma":  "service bus",
+        "surface":  "Service Bus",
+        "meaning":  "服务总线",
+        "rank":  832
+    },
+    {
+        "lemma":  "service contract",
+        "surface":  "Service Contract",
+        "meaning":  "服务合同",
+        "rank":  833
+    },
+    {
+        "lemma":  "service level agreement",
+        "surface":  "Service Level Agreement",
+        "meaning":  "服务水平协议（SLA）",
+        "rank":  834
+    },
+    {
+        "lemma":  "service provider",
+        "surface":  "Service Provider",
+        "meaning":  "服务提供方",
+        "rank":  835
+    },
+    {
+        "lemma":  "session jacking",
+        "surface":  "session jacking",
+        "meaning":  "会话劫持",
+        "rank":  836
+    },
+    {
+        "lemma":  "setting",
+        "surface":  "Setting",
+        "meaning":  "设置",
+        "rank":  837
+    },
+    {
+        "lemma":  "shared",
+        "surface":  "Shared",
+        "meaning":  "共享；分享",
+        "rank":  838
+    },
+    {
+        "lemma":  "shared-memory data structure",
+        "surface":  "shared-memory data structure",
+        "meaning":  "共享内存数据结构",
+        "rank":  839
+    },
+    {
+        "lemma":  "short-circuit evaluation",
+        "surface":  "Short-circuit evaluation",
+        "meaning":  "短路求值",
+        "rank":  840
+    },
+    {
+        "lemma":  "sign in",
+        "surface":  "Sign in",
+        "meaning":  "登录",
+        "rank":  841
+    },
+    {
+        "lemma":  "sign out",
+        "surface":  "Sign out",
+        "meaning":  "注销",
+        "rank":  842
+    },
+    {
+        "lemma":  "signature",
+        "surface":  "Signature",
+        "meaning":  "签名",
+        "rank":  843
+    },
+    {
+        "lemma":  "single level of abstraction principle",
+        "surface":  "Single Level of Abstraction Principle",
+        "meaning":  "单一抽象层次原则（SLAP）",
+        "rank":  844
+    },
+    {
+        "lemma":  "single responsibility principle",
+        "surface":  "Single responsibility principle",
+        "meaning":  "单一职责原则（SRP）",
+        "rank":  845
+    },
+    {
+        "lemma":  "single page application",
+        "surface":  "Single Page Application",
+        "meaning":  "单页面应用（SPA）",
+        "rank":  846
+    },
+    {
+        "lemma":  "single point of failure",
+        "surface":  "single point of failure",
+        "meaning":  "单一故障点（SPOF）",
+        "rank":  847
+    },
+    {
+        "lemma":  "singleton pattern",
+        "surface":  "Singleton Pattern",
+        "meaning":  "单例模式",
+        "rank":  848
+    },
+    {
+        "lemma":  "site",
+        "surface":  "Site",
+        "meaning":  "站点",
+        "rank":  849
+    },
+    {
+        "lemma":  "site-to-site",
+        "surface":  "Site-to-Site",
+        "meaning":  "站点到站点",
+        "rank":  850
+    },
+    {
+        "lemma":  "skeleton-to-thought",
+        "surface":  "Skeleton-to-Thought",
+        "meaning":  "思维框架（SoT） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  851
+    },
+    {
+        "lemma":  "skip list",
+        "surface":  "skip list",
+        "meaning":  "跳跃表",
+        "rank":  852
+    },
+    {
+        "lemma":  "sla",
+        "surface":  "SLA",
+        "meaning":  "服务水平协议、服务等级协议（Service Level Agreement）",
+        "rank":  853
+    },
+    {
+        "lemma":  "small",
+        "surface":  "Small",
+        "meaning":  "小型",
+        "rank":  854
+    },
+    {
+        "lemma":  "smart endpoint",
+        "surface":  "smart endpoint",
+        "meaning":  "智能端点\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  855
+    },
+    {
+        "lemma":  "snapshot",
+        "surface":  "snapshot",
+        "meaning":  "快照",
+        "rank":  856
+    },
+    {
+        "lemma":  "soa",
+        "surface":  "SOA",
+        "meaning":  "面向服务的架构（Service-Oriented Architecture）",
+        "rank":  857
+    },
+    {
+        "lemma":  "sot",
+        "surface":  "SoT",
+        "meaning":  "思维框架（Skeleton-to-Thought） \u003csup\u003e6\u003c/sup\u003e",
+        "rank":  858
+    },
+    {
+        "lemma":  "software as a service",
+        "surface":  "Software as a Service",
+        "meaning":  "软件即服务（Saas）",
+        "rank":  859
+    },
+    {
+        "lemma":  "source lines of code",
+        "surface":  "source lines of code",
+        "meaning":  "源代码行数（SLOC）",
+        "rank":  860
+    },
+    {
+        "lemma":  "speculative hierarchy",
+        "surface":  "Speculative Hierarchy",
+        "meaning":  "凭空想象的层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  861
+    },
+    {
+        "lemma":  "split temporary variable",
+        "surface":  "Split Temporary Variable",
+        "meaning":  "分解临时变量\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  862
+    },
+    {
+        "lemma":  "sprint",
+        "surface":  "sprint",
+        "meaning":  "冲刺（敏捷开发术语）",
+        "rank":  863
+    },
+    {
+        "lemma":  "sprint backlog",
+        "surface":  "sprint backlog",
+        "meaning":  "冲刺积压工作",
+        "rank":  864
+    },
+    {
+        "lemma":  "sql database",
+        "surface":  "SQL Database",
+        "meaning":  "SQL 数据库",
+        "rank":  865
+    },
+    {
+        "lemma":  "sskd",
+        "surface":  "SSKD",
+        "meaning":  "少量你所知道的开发人员（Small Set of Known Developers）",
+        "rank":  866
+    },
+    {
+        "lemma":  "sso",
+        "surface":  "SSO",
+        "meaning":  "单点登录（Single Sign-On）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  867
+    },
+    {
+        "lemma":  "stage",
+        "surface":  "stage",
+        "meaning":  "阶段",
+        "rank":  868
+    },
+    {
+        "lemma":  "staging",
+        "surface":  "Staging",
+        "meaning":  "过渡（环境）",
+        "rank":  869
+    },
+    {
+        "lemma":  "state indeterminism",
+        "surface":  "state indeterminism",
+        "meaning":  "状态不确定性",
+        "rank":  870
+    },
+    {
+        "lemma":  "state-based testing",
+        "surface":  "State-based testing",
+        "meaning":  "基于状态的测试",
+        "rank":  871
+    },
+    {
+        "lemma":  "state pattern",
+        "surface":  "State Pattern",
+        "meaning":  "状态模式",
+        "rank":  872
+    },
+    {
+        "lemma":  "stateless",
+        "surface":  "Stateless",
+        "meaning":  "无状态",
+        "rank":  873
+    },
+    {
+        "lemma":  "sticky session",
+        "surface":  "Sticky Session",
+        "meaning":  "黏性会话",
+        "rank":  874
+    },
+    {
+        "lemma":  "stickyness",
+        "surface":  "Stickyness",
+        "meaning":  "黏性；黏度",
+        "rank":  875
+    },
+    {
+        "lemma":  "story",
+        "surface":  "story",
+        "meaning":  "故事（敏捷开发术语）",
+        "rank":  876
+    },
+    {
+        "lemma":  "storage",
+        "surface":  "Storage",
+        "meaning":  "存储",
+        "rank":  877
+    },
+    {
+        "lemma":  "storage account",
+        "surface":  "Storage Account",
+        "meaning":  "存储账户",
+        "rank":  878
+    },
+    {
+        "lemma":  "strangler application pattern",
+        "surface":  "Strangler Application Pattern",
+        "meaning":  "绞杀者模式\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  879
+    },
+    {
+        "lemma":  "strategic development tools",
+        "surface":  "strategic development tools",
+        "meaning":  "战略设计工具 \u003csup\u003e5\u003c/sup\u003e，战略开发工具",
+        "rank":  880
+    },
+    {
+        "lemma":  "strategy pattern",
+        "surface":  "Strategy Pattern",
+        "meaning":  "策略模式",
+        "rank":  881
+    },
+    {
+        "lemma":  "stream",
+        "surface":  "Stream",
+        "meaning":  "流",
+        "rank":  882
+    },
+    {
+        "lemma":  "structural design patterns",
+        "surface":  "Structural Design Patterns",
+        "meaning":  "结构性设计模式",
+        "rank":  883
+    },
+    {
+        "lemma":  "structure",
+        "surface":  "structure",
+        "meaning":  "结构",
+        "rank":  884
+    },
+    {
+        "lemma":  "structured systems analysis and design methodology",
+        "surface":  "Structured Systems Analysis and Design Methodology",
+        "meaning":  "结构化系统分析和设计方法（SSADM）",
+        "rank":  885
+    },
+    {
+        "lemma":  "subnet",
+        "surface":  "Subnet",
+        "meaning":  "子网",
+        "rank":  886
+    },
+    {
+        "lemma":  "subordinate",
+        "surface":  "Subordinate",
+        "meaning":  "附属",
+        "rank":  887
+    },
+    {
+        "lemma":  "sub-region",
+        "surface":  "Sub-region",
+        "meaning":  "子地域",
+        "rank":  888
+    },
+    {
+        "lemma":  "subdomain",
+        "surface":  "Subdomain",
+        "meaning":  "子领域",
+        "rank":  889
+    },
+    {
+        "lemma":  "subscription",
+        "surface":  "Subscription",
+        "meaning":  "订阅",
+        "rank":  890
+    },
+    {
+        "lemma":  "substitute algorithm",
+        "surface":  "Substitute Algorithm",
+        "meaning":  "替换算法\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  891
+    },
+    {
+        "lemma":  "sw",
+        "surface":  "SW",
+        "meaning":  "Apache SkyWalking 的简写",
+        "rank":  892
+    },
+    {
+        "lemma":  "symbol table",
+        "surface":  "symbol table",
+        "meaning":  "符号表",
+        "rank":  893
+    },
+    {
+        "lemma":  "synchronized multimedia integration language",
+        "surface":  "Synchronized Multimedia Integration Language",
+        "meaning":  "同步多媒体集成语言（SMIL）",
+        "rank":  894
+    },
+    {
+        "lemma":  "syntactic sugar",
+        "surface":  "syntactic sugar",
+        "meaning":  "语法糖",
+        "rank":  895
+    },
+    {
+        "lemma":  "system under test",
+        "surface":  "System Under Test",
+        "meaning":  "测试目标系统（SUT）",
+        "rank":  896
+    },
+    {
+        "lemma":  "table",
+        "surface":  "Table",
+        "meaning":  "表",
+        "rank":  897
+    },
+    {
+        "lemma":  "tactical development tools",
+        "surface":  "tactical development tools",
+        "meaning":  "战术实施工具 \u003csup\u003e5\u003c/sup\u003e，战术开发工具",
+        "rank":  898
+    },
+    {
+        "lemma":  "tap",
+        "surface":  "TAP,",
+        "meaning":  "基于任务的异步模式",
+        "rank":  899
+    },
+    {
+        "lemma":  "targeted testing",
+        "surface":  "targeted testing",
+        "meaning":  "目标测试",
+        "rank":  900
+    },
+    {
+        "lemma":  "task-based asynchronous pattern",
+        "surface":  "Task-based Asynchronous Pattern",
+        "meaning":  "基于任务的异步模式",
+        "rank":  901
+    },
+    {
+        "lemma":  "tcp",
+        "surface":  "TCP",
+        "meaning":  "传输控制协议（Transmission Control Protocol）",
+        "rank":  902
+    },
+    {
+        "lemma":  "tdd",
+        "surface":  "TDD",
+        "meaning":  "测试驱动开发（Test-Driven Development）",
+        "rank":  903
+    },
+    {
+        "lemma":  "tease apart inheritance",
+        "surface":  "Tease Apart Inheritance",
+        "meaning":  "梳理并分解继承体系\u003csup\u003e1\u003c/sup\u003e",
+        "rank":  904
+    },
+    {
+        "lemma":  "technical bankruptcy",
+        "surface":  "technical bankruptcy",
+        "meaning":  "技术破产",
+        "rank":  905
+    },
+    {
+        "lemma":  "technical debt",
+        "surface":  "Technical Debt",
+        "meaning":  "技术债务（TDBT）",
+        "rank":  906
+    },
+    {
+        "lemma":  "template method pattern",
+        "surface":  "Template Method Pattern",
+        "meaning":  "模板方法模式",
+        "rank":  907
+    },
+    {
+        "lemma":  "tenant",
+        "surface":  "Tenant",
+        "meaning":  "租户",
+        "rank":  908
+    },
+    {
+        "lemma":  "terminus",
+        "surface":  "Terminus",
+        "meaning":  "端点",
+        "rank":  909
+    },
+    {
+        "lemma":  "test doubles",
+        "surface":  "test doubles",
+        "meaning":  "测试替身",
+        "rank":  910
+    },
+    {
+        "lemma":  "test-driven development",
+        "surface":  "Test-Driven Development",
+        "meaning":  "测试驱动开发（TDD）",
+        "rank":  911
+    },
+    {
+        "lemma":  "test harness",
+        "surface":  "test harness",
+        "meaning":  "测试用具",
+        "rank":  912
+    },
+    {
+        "lemma":  "the normalization of deviance",
+        "surface":  "the normalization of deviance",
+        "meaning":  "异常正常化\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  913
+    },
+    {
+        "lemma":  "thin client",
+        "surface":  "Thin Client",
+        "meaning":  "瘦客户端",
+        "rank":  914
+    },
+    {
+        "lemma":  "thread",
+        "surface":  "Thread",
+        "meaning":  "线程",
+        "rank":  915
+    },
+    {
+        "lemma":  "thread environment block",
+        "surface":  "Thread Environment Block",
+        "meaning":  "线程环境块",
+        "rank":  916
+    },
+    {
+        "lemma":  "thread kernel object",
+        "surface":  "Thread Kernel Object",
+        "meaning":  "线程内核对象",
+        "rank":  917
+    },
+    {
+        "lemma":  "thread pool",
+        "surface":  "Thread Pool",
+        "meaning":  "线程池",
+        "rank":  918
+    },
+    {
+        "lemma":  "thread starvation",
+        "surface":  "Thread Starvation",
+        "meaning":  "线程饥荒",
+        "rank":  919
+    },
+    {
+        "lemma":  "throttle",
+        "surface":  "Throttle",
+        "meaning":  "节流；限速",
+        "rank":  920
+    },
+    {
+        "lemma":  "timestamp",
+        "surface":  "Timestamp",
+        "meaning":  "时间戳",
+        "rank":  921
+    },
+    {
+        "lemma":  "throughput",
+        "surface":  "Throughput",
+        "meaning":  "吞吐量",
+        "rank":  922
+    },
+    {
+        "lemma":  "tnp",
+        "surface":  "TNP",
+        "meaning":  "交通网络提供者（Transportation Network Providers）",
+        "rank":  923
+    },
+    {
+        "lemma":  "tofu",
+        "surface":  "TOFU",
+        "meaning":  "首次使用时信任（Trust On First Use）",
+        "rank":  924
+    },
+    {
+        "lemma":  "topic",
+        "surface":  "Topic",
+        "meaning":  "主题",
+        "rank":  925
+    },
+    {
+        "lemma":  "topology",
+        "surface":  "Topology",
+        "meaning":  "拓扑结构",
+        "rank":  926
+    },
+    {
+        "lemma":  "token",
+        "surface":  "Token",
+        "meaning":  "令牌",
+        "rank":  927
+    },
+    {
+        "lemma":  "top-level statements",
+        "surface":  "Top-level statements",
+        "meaning":  "顶级语句",
+        "rank":  928
+    },
+    {
+        "lemma":  "tot",
+        "surface":  "ToT",
+        "meaning":  "思维树（Tree-of-Thought）",
+        "rank":  929
+    },
+    {
+        "lemma":  "tpl",
+        "surface":  "TPL",
+        "meaning":  "任务并行库",
+        "rank":  930
+    },
+    {
+        "lemma":  "code) tracing",
+        "surface":  "(Code) Tracing",
+        "meaning":  "（代码）追踪",
+        "rank":  931
+    },
+    {
+        "lemma":  "transaction",
+        "surface":  "Transaction",
+        "meaning":  "事务",
+        "rank":  932
+    },
+    {
+        "lemma":  "transaction script",
+        "surface":  "Transaction Script",
+        "meaning":  "事务脚本",
+        "rank":  933
+    },
+    {
+        "lemma":  "transient error",
+        "surface":  "Transient Error",
+        "meaning":  "瞬时错误",
+        "rank":  934
+    },
+    {
+        "lemma":  "transparent data encryption",
+        "surface":  "Transparent Data Encryption",
+        "meaning":  "透明数据加密\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  935
+    },
+    {
+        "lemma":  "transportation network providers",
+        "surface":  "Transportation Network Providers",
+        "meaning":  "交通网络提供者（TNP）",
+        "rank":  936
+    },
+    {
+        "lemma":  "tree-of-thought",
+        "surface":  "Tree-of-Thought",
+        "meaning":  "思维树（ToT） \u003csup\u003e6\u003c/sup\u003e 是一种通过将复杂问题分解为更易于解决的小问题，为 LLM 推理提供更结构化的提示框架",
+        "rank":  937
+    },
+    {
+        "lemma":  "type bloat",
+        "surface":  "Type Bloat",
+        "meaning":  "类型膨胀",
+        "rank":  938
+    },
+    {
+        "lemma":  "uat",
+        "surface":  "UAT",
+        "meaning":  "用户验收测试（User Acceptance Testing）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  939
+    },
+    {
+        "lemma":  "ubiquitous computing",
+        "surface":  "Ubiquitous Computing",
+        "meaning":  "普存计算",
+        "rank":  940
+    },
+    {
+        "lemma":  "ubiquitous language",
+        "surface":  "Ubiquitous Language",
+        "meaning":  "统一语言",
+        "rank":  941
+    },
+    {
+        "lemma":  "uddi",
+        "surface":  "UDDI",
+        "meaning":  "通用描述、发现与集成服务（Universal Description, Discovery, and Integration）",
+        "rank":  942
+    },
+    {
+        "lemma":  "ui",
+        "surface":  "UI",
+        "meaning":  "用户界面，包括视觉设计、交互设计和用户体验（User Interface）",
+        "rank":  943
+    },
+    {
+        "lemma":  "uncommitted",
+        "surface":  "Uncommitted",
+        "meaning":  "未提交（的）",
+        "rank":  944
+    },
+    {
+        "lemma":  "update domain",
+        "surface":  "Update Domain",
+        "meaning":  "更新域",
+        "rank":  945
+    },
+    {
+        "lemma":  "unbox",
+        "surface":  "unbox",
+        "meaning":  "拆箱",
+        "rank":  946
+    },
+    {
+        "lemma":  "under-post",
+        "surface":  "under-post",
+        "meaning":  "提交不足",
+        "rank":  947
+    },
+    {
+        "lemma":  "undirected graph",
+        "surface":  "undirected graph",
+        "meaning":  "无向图",
+        "rank":  948
+    },
+    {
+        "lemma":  "unexploited encapsulation",
+        "surface":  "Unexploited Encapsulation",
+        "meaning":  "未利用封装\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  949
+    },
+    {
+        "lemma":  "unfactored hierarchy",
+        "surface":  "Unfactored Hierarchy",
+        "meaning":  "未归并的层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  950
+    },
+    {
+        "lemma":  "unified modeling language",
+        "surface":  "Unified Modeling Language",
+        "meaning":  "统一建模语言（UML）",
+        "rank":  951
+    },
+    {
+        "lemma":  "uniform interface",
+        "surface":  "Uniform Interface",
+        "meaning":  "统一接口",
+        "rank":  952
+    },
+    {
+        "lemma":  "uniform resource locator",
+        "surface":  "Uniform Resource Locator",
+        "meaning":  "统一资源定位符（URL）",
+        "rank":  953
+    },
+    {
+        "lemma":  "unit of work",
+        "surface":  "unit of work",
+        "meaning":  "工作单元",
+        "rank":  954
+    },
+    {
+        "lemma":  "unit test",
+        "surface":  "Unit test",
+        "meaning":  "单元测试",
+        "rank":  955
+    },
+    {
+        "lemma":  "unit test coverage",
+        "surface":  "unit test coverage",
+        "meaning":  "单元测试覆盖率",
+        "rank":  956
+    },
+    {
+        "lemma":  "unit-testing harnesses",
+        "surface":  "unit-testing harnesses",
+        "meaning":  "单元测试用例",
+        "rank":  957
+    },
+    {
+        "lemma":  "unmanaged code",
+        "surface":  "unmanaged code",
+        "meaning":  "非托管代码",
+        "rank":  958
+    },
+    {
+        "lemma":  "unmanaged pointers",
+        "surface":  "Unmanaged Pointers",
+        "meaning":  "非托管指针",
+        "rank":  959
+    },
+    {
+        "lemma":  "unnecessary abstract",
+        "surface":  "Unnecessary Abstract",
+        "meaning":  "不必要的抽象\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  960
+    },
+    {
+        "lemma":  "unnecessary hierarchy",
+        "surface":  "Unnecessary Hierarchy",
+        "meaning":  "不必要的层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  961
+    },
+    {
+        "lemma":  "unnecessary overhead",
+        "surface":  "unnecessary overhead",
+        "meaning":  "不必要的开销",
+        "rank":  962
+    },
+    {
+        "lemma":  "unutilized abstraction",
+        "surface":  "Unutilized Abstraction",
+        "meaning":  "未用的抽象\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  963
+    },
+    {
+        "lemma":  "usability review",
+        "surface":  "Usability Review",
+        "meaning":  "可用性评估",
+        "rank":  964
+    },
+    {
+        "lemma":  "user acceptance test",
+        "surface":  "User Acceptance Test",
+        "meaning":  "接受度测试（UAT）",
+        "rank":  965
+    },
+    {
+        "lemma":  "user analysis",
+        "surface":  "User Analysis",
+        "meaning":  "用户分析",
+        "rank":  966
+    },
+    {
+        "lemma":  "user datagram protocol",
+        "surface":  "User Datagram Protocol",
+        "meaning":  "用户数据报协议（UDP）",
+        "rank":  967
+    },
+    {
+        "lemma":  "user interface",
+        "surface":  "User Interface",
+        "meaning":  "用户界面，包括视觉设计、交互设计和用户体验（UI）",
+        "rank":  968
+    },
+    {
+        "lemma":  "user mode stack",
+        "surface":  "User Mode Stack",
+        "meaning":  "用户模式栈",
+        "rank":  969
+    },
+    {
+        "lemma":  "value object",
+        "surface":  "Value Object",
+        "meaning":  "值对象",
+        "rank":  970
+    },
+    {
+        "lemma":  "variant",
+        "surface":  "variant",
+        "meaning":  "变体",
+        "rank":  971
+    },
+    {
+        "lemma":  "variation encapsulation principle",
+        "surface":  "Variation Encapsulation Principle",
+        "meaning":  "变化封装原则（VEP）",
+        "rank":  972
+    },
+    {
+        "lemma":  "versionable interaction contract",
+        "surface":  "versionable interaction contract",
+        "meaning":  "可以进行版本控制的交互契约",
+        "rank":  973
+    },
+    {
+        "lemma":  "vertical scale",
+        "surface":  "Vertical Scale",
+        "meaning":  "垂直缩放",
+        "rank":  974
+    },
+    {
+        "lemma":  "ves",
+        "surface":  "VES",
+        "meaning":  "虚拟执行系统（Visual Execution System）",
+        "rank":  975
+    },
+    {
+        "lemma":  "viscosity",
+        "surface":  "viscosity",
+        "meaning":  "粘滞性",
+        "rank":  976
+    },
+    {
+        "lemma":  "vip",
+        "surface":  "VIP",
+        "meaning":  "虚拟 IP（或不译）",
+        "rank":  977
+    },
+    {
+        "lemma":  "vip swap",
+        "surface":  "VIP Swap",
+        "meaning":  "VIP 交换",
+        "rank":  978
+    },
+    {
+        "lemma":  "virtual execution system",
+        "surface":  "Virtual Execution System",
+        "meaning":  "虚拟执行系统（VES）",
+        "rank":  979
+    },
+    {
+        "lemma":  "virtual network",
+        "surface":  "Virtual Network",
+        "meaning":  "虚拟网络",
+        "rank":  980
+    },
+    {
+        "lemma":  "virtual machine",
+        "surface":  "Virtual Machine",
+        "meaning":  "虚拟机",
+        "rank":  981
+    },
+    {
+        "lemma":  "virtual private network",
+        "surface":  "Virtual Private Network",
+        "meaning":  "虚拟专用网络（VPN），在公用网络上建立专用网络，进行加密通讯，如网关通过对数据包的加密和数据包目标地址的转换实现远程访问。",
+        "rank":  982
+    },
+    {
+        "lemma":  "virtual reality",
+        "surface":  "Virtual Reality",
+        "meaning":  "虚拟现实（VR）",
+        "rank":  983
+    },
+    {
+        "lemma":  "visitor pattern",
+        "surface":  "Visitor Pattern",
+        "meaning":  "访问者模式",
+        "rank":  984
+    },
+    {
+        "lemma":  "vlo",
+        "surface":  "VLO",
+        "meaning":  "团体批量许可证；大量采购授权合约（Volume Licensing for Organizations）",
+        "rank":  985
+    },
+    {
+        "lemma":  "vol",
+        "surface":  "VOL",
+        "meaning":  "团体批量许可证；大量采购授权合约（Volume Licensing for Organizations）",
+        "rank":  986
+    },
+    {
+        "lemma":  "volume licensing for organizations",
+        "surface":  "Volume Licensing for Organizations",
+        "meaning":  "团体批量许可证；大量采购授权合约（VOL 或 VLO）",
+        "rank":  987
+    },
+    {
+        "lemma":  "vpc",
+        "surface":  "VPC",
+        "meaning":  "虚拟私有云（Virtual Private Cloud）\u003csup\u003e4\u003c/sup\u003e",
+        "rank":  988
+    },
+    {
+        "lemma":  "vpn",
+        "surface":  "VPN",
+        "meaning":  "虚拟专用网络（Virtual Private Network）",
+        "rank":  989
+    },
+    {
+        "lemma":  "wcf",
+        "surface":  "WCF",
+        "meaning":  "Windows 通讯开发平台（Windows Comminication Foundation）",
+        "rank":  990
+    },
+    {
+        "lemma":  "weak generational hypothesis",
+        "surface":  "Weak Generational Hypothesis",
+        "meaning":  "弱分代假设",
+        "rank":  991
+    },
+    {
+        "lemma":  "wearable device",
+        "surface":  "Wearable Device",
+        "meaning":  "可穿戴设备",
+        "rank":  992
+    },
+    {
+        "lemma":  "web role",
+        "surface":  "Web Role",
+        "meaning":  "网站角色",
+        "rank":  993
+    },
+    {
+        "lemma":  "web scraping",
+        "surface":  "Web Scraping",
+        "meaning":  "网络爬虫",
+        "rank":  994
+    },
+    {
+        "lemma":  "web service",
+        "surface":  "Web Service",
+        "meaning":  "网络服务",
+        "rank":  995
+    },
+    {
+        "lemma":  "web service definition language",
+        "surface":  "Web Service Definition Language",
+        "meaning":  "Web 服务定义语言（WSDL）",
+        "rank":  996
+    },
+    {
+        "lemma":  "web sites",
+        "surface":  "Web Sites",
+        "meaning":  "网站",
+        "rank":  997
+    },
+    {
+        "lemma":  "weighted method per class",
+        "surface":  "Weighted Method per Class",
+        "meaning":  "类累计圈复杂度（WMC）",
+        "rank":  998
+    },
+    {
+        "lemma":  "wf",
+        "surface":  "WF",
+        "meaning":  "工作流（WIndows Workflow）",
+        "rank":  999
+    },
+    {
+        "lemma":  "wide hierarchy",
+        "surface":  "Wide Hierarchy",
+        "meaning":  "过宽的层次结构\u003csup\u003e2\u003c/sup\u003e",
+        "rank":  1000
+    },
+    {
+        "lemma":  "windows comminication foundation",
+        "surface":  "Windows Comminication Foundation",
+        "meaning":  "分布式通信（WCF）",
+        "rank":  1001
+    },
+    {
+        "lemma":  "windows internet name service",
+        "surface":  "Windows Internet Name Service",
+        "meaning":  "Windows Internet 命名服务（WINS）",
+        "rank":  1002
+    },
+    {
+        "lemma":  "windows management instrumentation",
+        "surface":  "Windows Management Instrumentation",
+        "meaning":  "Windows 管理规范（WMI）",
+        "rank":  1003
+    },
+    {
+        "lemma":  "windows presentation foundation",
+        "surface":  "Windows Presentation Foundation",
+        "meaning":  "富客户端表示（WPF）",
+        "rank":  1004
+    },
+    {
+        "lemma":  "windows workflow",
+        "surface":  "Windows Workflow",
+        "meaning":  "工作流（WF）",
+        "rank":  1005
+    },
+    {
+        "lemma":  "wins",
+        "surface":  "WINS",
+        "meaning":  "Windows Internet 命名服务（Windows Internet Name Service）",
+        "rank":  1006
+    },
+    {
+        "lemma":  "wins proxy",
+        "surface":  "WINS Proxy",
+        "meaning":  "WINS 代理",
+        "rank":  1007
+    },
+    {
+        "lemma":  "wins resource",
+        "surface":  "WINS Resource",
+        "meaning":  "WINS 资源",
+        "rank":  1008
+    },
+    {
+        "lemma":  "wireless communication",
+        "surface":  "wireless communication",
+        "meaning":  "无线通讯",
+        "rank":  1009
+    },
+    {
+        "lemma":  "wmi",
+        "surface":  "WMI",
+        "meaning":  "Windows 管理规范（Windows Management Instrumentation）",
+        "rank":  1010
+    },
+    {
+        "lemma":  "worker role",
+        "surface":  "Worker Role",
+        "meaning":  "辅助角色",
+        "rank":  1011
+    },
+    {
+        "lemma":  "workflow",
+        "surface":  "Workflow",
+        "meaning":  "工作流",
+        "rank":  1012
+    },
+    {
+        "lemma":  "workgroup",
+        "surface":  "workgroup",
+        "meaning":  "工作组",
+        "rank":  1013
+    },
+    {
+        "lemma":  "world wide web consortium",
+        "surface":  "World Wide Web Consortium",
+        "meaning":  "万维网联盟（W3C）",
+        "rank":  1014
+    },
+    {
+        "lemma":  "wpf",
+        "surface":  "WPF",
+        "meaning":  "富客户端表示（Windows Presentation Foundation）",
+        "rank":  1015
+    },
+    {
+        "lemma":  "writebehind",
+        "surface":  "writebehind",
+        "meaning":  "后写式",
+        "rank":  1016
+    },
+    {
+        "lemma":  "x.509v3 certificate",
+        "surface":  "X.509v3 certificate",
+        "meaning":  "X.509 证书",
+        "rank":  1017
+    },
+    {
+        "lemma":  "xaas",
+        "surface":  "XaaS",
+        "meaning":  "Everything as a Service，一切皆服务",
+        "rank":  1018
+    },
+    {
+        "lemma":  "xml",
+        "surface":  "XML",
+        "meaning":  "可扩展标记语言（Extensible Markup Language）",
+        "rank":  1019
+    },
+    {
+        "lemma":  "xor",
+        "surface":  "XOR",
+        "meaning":  "异或（Exclusive OR）",
+        "rank":  1020
+    },
+    {
+        "lemma":  "xul",
+        "surface":  "XUL",
+        "meaning":  "XML 用户界面语言（XML User Interface Language）",
+        "rank":  1021
+    },
+    {
+        "lemma":  "yagni",
+        "surface":  "YAGNI",
+        "meaning":  "原则，不需要原则（You Aren\u0027t Gonna Need It），“你不会用到它\u003csup\u003e3\u003c/sup\u003e”",
+        "rank":  1022
+    },
+    {
+        "lemma":  "zero-downtime upgrade",
+        "surface":  "Zero-downtime Upgrade",
+        "meaning":  "零停机升级",
+        "rank":  1023
+    },
+    {
+        "lemma":  "zip disk",
+        "surface":  "zip disk",
+        "meaning":  "压缩磁盘",
+        "rank":  1024
+    },
+    {
+        "lemma":  "zone",
+        "surface":  "zone",
+        "meaning":  "区域",
+        "rank":  1025
+    },
+    {
+        "lemma":  "zone list",
+        "surface":  "zone list",
+        "meaning":  "区域列表",
+        "rank":  1026
+    },
+    {
+        "lemma":  "zone transfer",
+        "surface":  "zone transfer",
+        "meaning":  "区域传送",
+        "rank":  1027
+    }
+]
